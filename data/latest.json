@@ -1,12 +1,73 @@
 {
-  "updated_at": "2026-07-20T10:05:31.859049+00:00",
+  "updated_at": "2026-07-20T11:00:43.855056+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 162,
-    "sessions": 350,
-    "screenPageViews": 764
+    "sessions": 352,
+    "screenPageViews": 765
   },
-  "daily_trend_14_days": [
+  "summary_last_28_days": {
+    "activeUsers": 532,
+    "sessions": 1395,
+    "screenPageViews": 3460
+  },
+  "daily_trend_28_days": [
+    {
+      "date": "20260622",
+      "activeUsers": 65
+    },
+    {
+      "date": "20260623",
+      "activeUsers": 32
+    },
+    {
+      "date": "20260624",
+      "activeUsers": 23
+    },
+    {
+      "date": "20260625",
+      "activeUsers": 31
+    },
+    {
+      "date": "20260626",
+      "activeUsers": 21
+    },
+    {
+      "date": "20260627",
+      "activeUsers": 13
+    },
+    {
+      "date": "20260628",
+      "activeUsers": 23
+    },
+    {
+      "date": "20260629",
+      "activeUsers": 27
+    },
+    {
+      "date": "20260630",
+      "activeUsers": 35
+    },
+    {
+      "date": "20260701",
+      "activeUsers": 30
+    },
+    {
+      "date": "20260702",
+      "activeUsers": 24
+    },
+    {
+      "date": "20260703",
+      "activeUsers": 21
+    },
+    {
+      "date": "20260704",
+      "activeUsers": 24
+    },
+    {
+      "date": "20260705",
+      "activeUsers": 35
+    },
     {
       "date": "20260706",
       "activeUsers": 26
@@ -65,29 +126,103 @@
     },
     {
       "date": "20260720",
-      "activeUsers": 3
+      "activeUsers": 4
     }
   ],
-  "top_pages_last_7_days": [
+  "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 205
+      "views": 791
     },
     {
       "page": "/",
-      "views": 130
+      "views": 388
     },
     {
       "page": "/btc-to-usdt",
-      "views": 68
+      "views": 338
+    },
+    {
+      "page": "/account",
+      "views": 216
     },
     {
       "page": "/signinapp",
-      "views": 30
+      "views": 150
+    }
+  ],
+  "top_locations_last_28_days": [
+    {
+      "country": "Singapore",
+      "city": "Singapore",
+      "activeUsers": 42
     },
     {
-      "page": "/btg-to-btc",
-      "views": 21
+      "country": "United States",
+      "city": "North Charleston",
+      "activeUsers": 42
+    },
+    {
+      "country": "Germany",
+      "city": "(not set)",
+      "activeUsers": 23
+    },
+    {
+      "country": "Georgia",
+      "city": "Tbilisi",
+      "activeUsers": 19
+    },
+    {
+      "country": "Algeria",
+      "city": "Oran",
+      "activeUsers": 18
+    },
+    {
+      "country": "Armenia",
+      "city": "Yerevan",
+      "activeUsers": 17
+    },
+    {
+      "country": "Russia",
+      "city": "Moscow",
+      "activeUsers": 14
+    },
+    {
+      "country": "Spain",
+      "city": "Barcelona",
+      "activeUsers": 13
+    }
+  ],
+  "device_breakdown_last_28_days": [
+    {
+      "device": "desktop",
+      "sessions": 742
+    },
+    {
+      "device": "mobile",
+      "sessions": 653
+    }
+  ],
+  "traffic_sources_last_28_days": [
+    {
+      "channel": "Direct",
+      "sessions": 1012
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 238
+    },
+    {
+      "channel": "Referral",
+      "sessions": 126
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 15
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 6
     }
   ]
 }
