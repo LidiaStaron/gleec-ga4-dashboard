@@ -85,6 +85,16 @@
     padding: 24px;
     margin-bottom: 20px;
   }
+  .row-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  .row-2 .panel { margin-bottom: 0; }
+  @media (max-width: 720px) {
+    .row-2 { grid-template-columns: 1fr; }
+  }
   .panel h2 {
     font-size: 14px;
     text-transform: uppercase;
@@ -151,13 +161,58 @@
       </div>
     </div>
 
-    <div class="panel">
-      <h2>Active users — last 14 days</h2>
-      <canvas id="trendChart"></canvas>
+    <div class="cards">
+      <div class="card">
+        <div class="label">Active users · 28d</div>
+        <div class="value" id="metric-users-28">–</div>
+      </div>
+      <div class="card">
+        <div class="label">Sessions · 28d</div>
+        <div class="value" id="metric-sessions-28">–</div>
+      </div>
+      <div class="card">
+        <div class="label">Pageviews · 28d</div>
+        <div class="value" id="metric-pageviews-28">–</div>
+      </div>
     </div>
 
     <div class="panel">
-      <h2>Top pages — last 7 days</h2>
+      <h2>Active users — last 28 days</h2>
+      <canvas id="trendChart"></canvas>
+    </div>
+
+    <div class="row-2">
+      <div class="panel">
+        <h2>Top locations — last 28 days</h2>
+        <table id="locationsTable">
+          <thead>
+            <tr><th>City, Country</th><th style="text-align:right">Users</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <div class="empty" id="locationsEmpty" style="display:none;">No location data yet.</div>
+      </div>
+
+      <div class="panel">
+        <h2>Devices — last 28 days</h2>
+        <canvas id="deviceChart"></canvas>
+        <div class="empty" id="deviceEmpty" style="display:none;">No device data yet.</div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Traffic sources — last 28 days</h2>
+      <table id="trafficTable">
+        <thead>
+          <tr><th>Channel</th><th style="text-align:right">Sessions</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <div class="empty" id="trafficEmpty" style="display:none;">No traffic source data yet.</div>
+    </div>
+
+    <div class="panel">
+      <h2>Top pages — last 28 days</h2>
       <table id="pagesTable">
         <thead>
           <tr><th>Page</th><th style="text-align:right">Views</th></tr>
@@ -197,7 +252,12 @@
     document.getElementById('metric-sessions').textContent = fmt(s.sessions ?? 0);
     document.getElementById('metric-pageviews').textContent = fmt(s.screenPageViews ?? 0);
 
-    const trend = data.daily_trend_14_days || [];
+    const s28 = data.summary_last_28_days || {};
+    document.getElementById('metric-users-28').textContent = fmt(s28.activeUsers ?? 0);
+    document.getElementById('metric-sessions-28').textContent = fmt(s28.sessions ?? 0);
+    document.getElementById('metric-pageviews-28').textContent = fmt(s28.screenPageViews ?? 0);
+
+    const trend = data.daily_trend_28_days || data.daily_trend_30_days || data.daily_trend_14_days || [];
     const labels = trend.map(d => d.date.slice(4, 6) + '/' + d.date.slice(6, 8));
     const values = trend.map(d => d.activeUsers);
 
@@ -219,13 +279,26 @@
         responsive: true,
         plugins: { legend: { display: false } },
         scales: {
-          x: { grid: { display: false }, ticks: { color: '#8b98a9' } },
+          x: { grid: { display: false }, ticks: { color: '#8b98a9', maxTicksLimit: 10 } },
           y: { grid: { color: '#262f3c' }, ticks: { color: '#8b98a9' } },
         },
       },
     });
 
-    const pages = data.top_pages_last_7_days || [];
+    const traffic = data.traffic_sources_last_28_days || [];
+    const trafficTbody = document.querySelector('#trafficTable tbody');
+    trafficTbody.innerHTML = '';
+    if (traffic.length === 0) {
+      document.getElementById('trafficEmpty').style.display = 'block';
+    } else {
+      traffic.forEach(t => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>${t.channel}</td><td class="num">${fmt(t.sessions)}</td>`;
+        trafficTbody.appendChild(tr);
+      });
+    }
+
+    const pages = data.top_pages_last_28_days || data.top_pages_last_7_days || [];
     const tbody = document.querySelector('#pagesTable tbody');
     tbody.innerHTML = '';
     if (pages.length === 0) {
@@ -235,6 +308,45 @@
         const tr = document.createElement('tr');
         tr.innerHTML = `<td>${p.page}</td><td class="num">${fmt(p.views)}</td>`;
         tbody.appendChild(tr);
+      });
+    }
+
+    const locations = data.top_locations_last_28_days || data.top_locations_last_7_days || [];
+    const locTbody = document.querySelector('#locationsTable tbody');
+    locTbody.innerHTML = '';
+    if (locations.length === 0) {
+      document.getElementById('locationsEmpty').style.display = 'block';
+    } else {
+      locations.forEach(l => {
+        const label = l.city && l.city !== '(not set)' ? `${l.city}, ${l.country}` : l.country;
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>${label}</td><td class="num">${fmt(l.activeUsers)}</td>`;
+        locTbody.appendChild(tr);
+      });
+    }
+
+    const devices = data.device_breakdown_last_28_days || data.device_breakdown_last_7_days || [];
+    if (devices.length === 0) {
+      document.getElementById('deviceEmpty').style.display = 'block';
+    } else {
+      const deviceColors = { desktop: '#4fd1c5', mobile: '#f6ad55', tablet: '#a78bfa' };
+      new Chart(document.getElementById('deviceChart'), {
+        type: 'doughnut',
+        data: {
+          labels: devices.map(d => d.device.charAt(0).toUpperCase() + d.device.slice(1)),
+          datasets: [{
+            data: devices.map(d => d.sessions),
+            backgroundColor: devices.map(d => deviceColors[d.device] || '#8b98a9'),
+            borderColor: '#161d27',
+            borderWidth: 2,
+          }],
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: { position: 'bottom', labels: { color: '#e7ecf3', padding: 14 } },
+          },
+        },
       });
     }
   }

@@ -33,11 +33,11 @@ def get_client():
     return BetaAnalyticsDataClient(credentials=creds)
 
 
-def fetch_summary(client):
-    """Totals for the last 7 days: users, sessions, pageviews."""
+def fetch_summary(client, start="7daysAgo"):
+    """Totals for a given date range: users, sessions, pageviews."""
     request = RunReportRequest(
         property=f"properties/{PROPERTY_ID}",
-        date_ranges=[DateRange(start_date="7daysAgo", end_date="today")],
+        date_ranges=[DateRange(start_date=start, end_date="today")],
         metrics=[
             Metric(name="activeUsers"),
             Metric(name="sessions"),
@@ -56,11 +56,11 @@ def fetch_summary(client):
     }
 
 
-def fetch_daily_trend(client):
-    """Daily active users for the last 14 days, for a simple trend line."""
+def fetch_daily_trend(client, days=28):
+    """Daily active users for the last N days, for the trend line."""
     request = RunReportRequest(
         property=f"properties/{PROPERTY_ID}",
-        date_ranges=[DateRange(start_date="14daysAgo", end_date="today")],
+        date_ranges=[DateRange(start_date=f"{days}daysAgo", end_date="today")],
         dimensions=[Dimension(name="date")],
         metrics=[Metric(name="activeUsers")],
         order_bys=[{"dimension": {"dimension_name": "date"}}],
@@ -72,11 +72,11 @@ def fetch_daily_trend(client):
     ]
 
 
-def fetch_top_pages(client):
-    """Top 5 pages by views over the last 7 days."""
+def fetch_top_pages(client, start="7daysAgo"):
+    """Top 5 pages by views over the given date range."""
     request = RunReportRequest(
         property=f"properties/{PROPERTY_ID}",
-        date_ranges=[DateRange(start_date="7daysAgo", end_date="today")],
+        date_ranges=[DateRange(start_date=start, end_date="today")],
         dimensions=[Dimension(name="pagePath")],
         metrics=[Metric(name="screenPageViews")],
         order_bys=[{"metric": {"metric_name": "screenPageViews"}, "desc": True}],
@@ -89,15 +89,72 @@ def fetch_top_pages(client):
     ]
 
 
+def fetch_top_countries(client, start="7daysAgo"):
+    """Top 8 countries/cities by active users over the given date range."""
+    request = RunReportRequest(
+        property=f"properties/{PROPERTY_ID}",
+        date_ranges=[DateRange(start_date=start, end_date="today")],
+        dimensions=[Dimension(name="country"), Dimension(name="city")],
+        metrics=[Metric(name="activeUsers")],
+        order_bys=[{"metric": {"metric_name": "activeUsers"}, "desc": True}],
+        limit=8,
+    )
+    response = client.run_report(request)
+    return [
+        {
+            "country": row.dimension_values[0].value,
+            "city": row.dimension_values[1].value,
+            "activeUsers": int(row.metric_values[0].value),
+        }
+        for row in response.rows
+    ]
+
+
+def fetch_device_breakdown(client, start="7daysAgo"):
+    """Sessions by device category over the given date range."""
+    request = RunReportRequest(
+        property=f"properties/{PROPERTY_ID}",
+        date_ranges=[DateRange(start_date=start, end_date="today")],
+        dimensions=[Dimension(name="deviceCategory")],
+        metrics=[Metric(name="sessions")],
+        order_bys=[{"metric": {"metric_name": "sessions"}, "desc": True}],
+    )
+    response = client.run_report(request)
+    return [
+        {"device": row.dimension_values[0].value, "sessions": int(row.metric_values[0].value)}
+        for row in response.rows
+    ]
+
+
+def fetch_traffic_sources(client, start="28daysAgo"):
+    """Sessions by default channel group (Organic, Direct, Referral, Paid, Social, etc.)."""
+    request = RunReportRequest(
+        property=f"properties/{PROPERTY_ID}",
+        date_ranges=[DateRange(start_date=start, end_date="today")],
+        dimensions=[Dimension(name="sessionDefaultChannelGroup")],
+        metrics=[Metric(name="sessions")],
+        order_bys=[{"metric": {"metric_name": "sessions"}, "desc": True}],
+    )
+    response = client.run_report(request)
+    return [
+        {"channel": row.dimension_values[0].value, "sessions": int(row.metric_values[0].value)}
+        for row in response.rows
+    ]
+
+
 def main():
     client = get_client()
 
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "property_id": PROPERTY_ID,
-        "summary_last_7_days": fetch_summary(client),
-        "daily_trend_14_days": fetch_daily_trend(client),
-        "top_pages_last_7_days": fetch_top_pages(client),
+        "summary_last_7_days": fetch_summary(client, start="7daysAgo"),
+        "summary_last_28_days": fetch_summary(client, start="28daysAgo"),
+        "daily_trend_28_days": fetch_daily_trend(client, days=28),
+        "top_pages_last_28_days": fetch_top_pages(client, start="28daysAgo"),
+        "top_locations_last_28_days": fetch_top_countries(client, start="28daysAgo"),
+        "device_breakdown_last_28_days": fetch_device_breakdown(client, start="28daysAgo"),
+        "traffic_sources_last_28_days": fetch_traffic_sources(client, start="28daysAgo"),
     }
 
     os.makedirs("data", exist_ok=True)
@@ -105,7 +162,6 @@ def main():
     with open("data/latest.json", "w") as f:
         json.dump(payload, f, indent=2)
 
-    # Append a lightweight snapshot to history for a longer-run trend if wanted later
     history_path = "data/history.json"
     history = []
     if os.path.exists(history_path):
@@ -117,7 +173,7 @@ def main():
             "summary": payload["summary_last_7_days"],
         }
     )
-    history = history[-500:]  # keep file bounded
+    history = history[-500:]
     with open(history_path, "w") as f:
         json.dump(history, f, indent=2)
 
