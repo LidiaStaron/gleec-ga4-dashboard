@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>GA4 Live Dashboard</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
 <style>
   :root {
     --ink: #10151c;
@@ -261,7 +261,11 @@
     const labels = trend.map(d => d.date.slice(4, 6) + '/' + d.date.slice(6, 8));
     const values = trend.map(d => d.activeUsers);
 
-    new Chart(document.getElementById('trendChart'), {
+    if (typeof Chart === 'undefined') {
+      document.getElementById('trendChart').outerHTML =
+        '<div class="empty">Chart library blocked by browser/extension — try disabling ad blockers for this site.</div>';
+    } else {
+      new Chart(document.getElementById('trendChart'), {
       type: 'line',
       data: {
         labels,
@@ -284,6 +288,7 @@
         },
       },
     });
+    }
 
     const traffic = data.traffic_sources_last_28_days || [];
     const trafficTbody = document.querySelector('#trafficTable tbody');
@@ -328,6 +333,9 @@
     const devices = data.device_breakdown_last_28_days || data.device_breakdown_last_7_days || [];
     if (devices.length === 0) {
       document.getElementById('deviceEmpty').style.display = 'block';
+    } else if (typeof Chart === 'undefined') {
+      document.getElementById('deviceChart').outerHTML =
+        '<div class="empty">Chart library blocked by browser/extension — try disabling ad blockers for this site.</div>';
     } else {
       const deviceColors = { desktop: '#4fd1c5', mobile: '#f6ad55', tablet: '#a78bfa' };
       new Chart(document.getElementById('deviceChart'), {
