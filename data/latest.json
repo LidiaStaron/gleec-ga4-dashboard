@@ -1,7 +1,93 @@
 {
-  "updated_at": null,
-  "property_id": null,
-  "summary_last_7_days": { "activeUsers": 0, "sessions": 0, "screenPageViews": 0 },
-  "daily_trend_14_days": [],
-  "top_pages_last_7_days": []
+  "updated_at": "2026-07-20T10:05:31.859049+00:00",
+  "property_id": "247520483",
+  "summary_last_7_days": {
+    "activeUsers": 162,
+    "sessions": 350,
+    "screenPageViews": 764
+  },
+  "daily_trend_14_days": [
+    {
+      "date": "20260706",
+      "activeUsers": 26
+    },
+    {
+      "date": "20260707",
+      "activeUsers": 22
+    },
+    {
+      "date": "20260708",
+      "activeUsers": 27
+    },
+    {
+      "date": "20260709",
+      "activeUsers": 27
+    },
+    {
+      "date": "20260710",
+      "activeUsers": 20
+    },
+    {
+      "date": "20260711",
+      "activeUsers": 22
+    },
+    {
+      "date": "20260712",
+      "activeUsers": 23
+    },
+    {
+      "date": "20260713",
+      "activeUsers": 27
+    },
+    {
+      "date": "20260714",
+      "activeUsers": 23
+    },
+    {
+      "date": "20260715",
+      "activeUsers": 32
+    },
+    {
+      "date": "20260716",
+      "activeUsers": 33
+    },
+    {
+      "date": "20260717",
+      "activeUsers": 39
+    },
+    {
+      "date": "20260718",
+      "activeUsers": 23
+    },
+    {
+      "date": "20260719",
+      "activeUsers": 20
+    },
+    {
+      "date": "20260720",
+      "activeUsers": 3
+    }
+  ],
+  "top_pages_last_7_days": [
+    {
+      "page": "/btg-to-usdt",
+      "views": 205
+    },
+    {
+      "page": "/",
+      "views": 130
+    },
+    {
+      "page": "/btc-to-usdt",
+      "views": 68
+    },
+    {
+      "page": "/signinapp",
+      "views": 30
+    },
+    {
+      "page": "/btg-to-btc",
+      "views": 21
+    }
+  ]
 }
