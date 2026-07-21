@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-21T15:40:25.604208+00:00",
+  "updated_at": "2026-07-21T17:13:37.506510+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 170,
-    "sessions": 365,
-    "screenPageViews": 834
+    "activeUsers": 175,
+    "sessions": 374,
+    "screenPageViews": 848
   },
   "summary_last_28_days": {
-    "activeUsers": 509,
-    "sessions": 1352,
-    "screenPageViews": 3404
+    "activeUsers": 514,
+    "sessions": 1361,
+    "screenPageViews": 3418
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20260721",
-      "activeUsers": 16
+      "activeUsers": 23
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 780
+      "views": 784
     },
     {
       "page": "/",
-      "views": 368
+      "views": 369
     },
     {
       "page": "/btc-to-usdt",
@@ -155,7 +155,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 39
+      "activeUsers": 42
     },
     {
       "country": "Singapore",
@@ -196,21 +196,21 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 712
+      "sessions": 720
     },
     {
       "device": "mobile",
-      "sessions": 642
+      "sessions": 643
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 985
+      "sessions": 992
     },
     {
       "channel": "Organic Search",
-      "sessions": 229
+      "sessions": 231
     },
     {
       "channel": "Referral",
