@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-07-20T23:55:04.196181+00:00",
+  "updated_at": "2026-07-21T02:14:57.005704+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 175,
-    "sessions": 378,
-    "screenPageViews": 812
+    "activeUsers": 159,
+    "sessions": 336,
+    "screenPageViews": 680
   },
   "summary_last_28_days": {
-    "activeUsers": 541,
-    "sessions": 1421,
-    "screenPageViews": 3507
+    "activeUsers": 498,
+    "sessions": 1324,
+    "screenPageViews": 3250
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260622",
-      "activeUsers": 65
-    },
     {
       "date": "20260623",
       "activeUsers": 32
@@ -126,51 +122,46 @@
     },
     {
       "date": "20260720",
-      "activeUsers": 21
+      "activeUsers": 22
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 800
+      "views": 765
     },
     {
       "page": "/",
-      "views": 393
+      "views": 354
     },
     {
       "page": "/btc-to-usdt",
-      "views": 343
+      "views": 321
     },
     {
       "page": "/account",
-      "views": 222
+      "views": 210
     },
     {
       "page": "/signinapp",
-      "views": 153
+      "views": 147
     }
   ],
   "top_locations_last_28_days": [
     {
-      "country": "Singapore",
-      "city": "Singapore",
-      "activeUsers": 42
-    },
-    {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 42
+      "activeUsers": 39
+    },
+    {
+      "country": "Singapore",
+      "city": "Singapore",
+      "activeUsers": 26
     },
     {
       "country": "Germany",
       "city": "(not set)",
       "activeUsers": 23
-    },
-    {
-      "country": "Georgia",
-      "city": "Tbilisi",
-      "activeUsers": 19
     },
     {
       "country": "Algeria",
@@ -180,7 +171,12 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 17
+      "activeUsers": 16
+    },
+    {
+      "country": "Georgia",
+      "city": "Tbilisi",
+      "activeUsers": 15
     },
     {
       "country": "Russia",
@@ -190,39 +186,39 @@
     {
       "country": "Spain",
       "city": "Barcelona",
-      "activeUsers": 14
+      "activeUsers": 12
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 757
+      "sessions": 696
     },
     {
       "device": "mobile",
-      "sessions": 664
+      "sessions": 629
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1029
+      "sessions": 964
     },
     {
       "channel": "Organic Search",
-      "sessions": 245
+      "sessions": 225
     },
     {
       "channel": "Referral",
-      "sessions": 127
+      "sessions": 120
     },
     {
       "channel": "Unassigned",
-      "sessions": 15
+      "sessions": 12
     },
     {
       "channel": "Organic Social",
-      "sessions": 6
+      "sessions": 4
     }
   ]
 }
