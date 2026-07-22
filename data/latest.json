@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-22T13:42:17.389767+00:00",
+  "updated_at": "2026-07-22T15:37:20.383355+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 178,
-    "sessions": 376,
-    "screenPageViews": 889
+    "activeUsers": 179,
+    "sessions": 379,
+    "screenPageViews": 898
   },
   "summary_last_28_days": {
-    "activeUsers": 511,
-    "sessions": 1352,
-    "screenPageViews": 3393
+    "activeUsers": 512,
+    "sessions": 1355,
+    "screenPageViews": 3402
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20260722",
-      "activeUsers": 17
+      "activeUsers": 19
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 778
+      "views": 779
     },
     {
       "page": "/",
-      "views": 372
+      "views": 375
     },
     {
       "page": "/btc-to-usdt",
@@ -148,7 +148,7 @@
     },
     {
       "page": "/signinapp",
-      "views": 138
+      "views": 139
     }
   ],
   "top_locations_last_28_days": [
@@ -183,34 +183,34 @@
       "activeUsers": 15
     },
     {
-      "country": "Russia",
-      "city": "Moscow",
-      "activeUsers": 14
-    },
-    {
       "country": "Spain",
       "city": "Barcelona",
+      "activeUsers": 15
+    },
+    {
+      "country": "Russia",
+      "city": "Moscow",
       "activeUsers": 14
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 714
+      "sessions": 716
     },
     {
       "device": "mobile",
-      "sessions": 641
+      "sessions": 642
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 981
+      "sessions": 983
     },
     {
       "channel": "Organic Search",
-      "sessions": 229
+      "sessions": 230
     },
     {
       "channel": "Referral",
