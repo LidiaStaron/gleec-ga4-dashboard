@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-22T08:21:55.136682+00:00",
+  "updated_at": "2026-07-22T11:05:33.237702+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 171,
-    "sessions": 358,
-    "screenPageViews": 859
+    "activeUsers": 173,
+    "sessions": 366,
+    "screenPageViews": 875
   },
   "summary_last_28_days": {
-    "activeUsers": 504,
-    "sessions": 1335,
-    "screenPageViews": 3363
+    "activeUsers": 506,
+    "sessions": 1342,
+    "screenPageViews": 3379
   },
   "daily_trend_28_days": [
     {
@@ -126,25 +126,25 @@
     },
     {
       "date": "20260722",
-      "activeUsers": 4
+      "activeUsers": 9
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 770
+      "views": 775
     },
     {
       "page": "/",
-      "views": 367
+      "views": 369
     },
     {
       "page": "/btc-to-usdt",
-      "views": 327
+      "views": 328
     },
     {
       "page": "/account",
-      "views": 226
+      "views": 227
     },
     {
       "page": "/signinapp",
@@ -163,13 +163,13 @@
       "activeUsers": 22
     },
     {
-      "country": "Algeria",
-      "city": "Oran",
-      "activeUsers": 18
-    },
-    {
       "country": "Singapore",
       "city": "Singapore",
+      "activeUsers": 19
+    },
+    {
+      "country": "Algeria",
+      "city": "Oran",
       "activeUsers": 18
     },
     {
@@ -196,17 +196,17 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 704
+      "sessions": 707
     },
     {
       "device": "mobile",
-      "sessions": 634
+      "sessions": 638
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 966
+      "sessions": 973
     },
     {
       "channel": "Organic Search",
