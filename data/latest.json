@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-23T00:02:36.297655+00:00",
+  "updated_at": "2026-07-23T04:12:11.887518+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 165,
-    "sessions": 339,
-    "screenPageViews": 858
+    "activeUsers": 167,
+    "sessions": 345,
+    "screenPageViews": 868
   },
   "summary_last_28_days": {
-    "activeUsers": 505,
-    "sessions": 1330,
-    "screenPageViews": 3344
+    "activeUsers": 507,
+    "sessions": 1336,
+    "screenPageViews": 3354
   },
   "daily_trend_28_days": [
     {
@@ -122,13 +122,13 @@
     },
     {
       "date": "20260722",
-      "activeUsers": 30
+      "activeUsers": 32
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 755
+      "views": 763
     },
     {
       "page": "/",
@@ -192,21 +192,21 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 700
+      "sessions": 702
     },
     {
       "device": "mobile",
-      "sessions": 633
+      "sessions": 637
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 957
+      "sessions": 963
     },
     {
       "channel": "Organic Search",
-      "sessions": 233
+      "sessions": 234
     },
     {
       "channel": "Referral",
