@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-23T15:05:40.613000+00:00",
+  "updated_at": "2026-07-23T17:17:05.759715+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 170,
-    "sessions": 358,
-    "screenPageViews": 896
+    "activeUsers": 171,
+    "sessions": 364,
+    "screenPageViews": 902
   },
   "summary_last_28_days": {
-    "activeUsers": 511,
-    "sessions": 1347,
-    "screenPageViews": 3382
+    "activeUsers": 512,
+    "sessions": 1352,
+    "screenPageViews": 3388
   },
   "daily_trend_28_days": [
     {
@@ -126,13 +126,13 @@
     },
     {
       "date": "20260723",
-      "activeUsers": 8
+      "activeUsers": 11
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 773
+      "views": 777
     },
     {
       "page": "/",
@@ -155,7 +155,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 42
+      "activeUsers": 43
     },
     {
       "country": "Germany",
@@ -196,21 +196,21 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 710
+      "sessions": 712
     },
     {
       "device": "mobile",
-      "sessions": 641
+      "sessions": 644
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 972
+      "sessions": 976
     },
     {
       "channel": "Organic Search",
-      "sessions": 235
+      "sessions": 236
     },
     {
       "channel": "Referral",
