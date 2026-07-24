@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-07-23T23:56:52.622333+00:00",
+  "updated_at": "2026-07-24T02:42:38.505805+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 176,
-    "sessions": 379,
-    "screenPageViews": 922
+    "activeUsers": 154,
+    "sessions": 331,
+    "screenPageViews": 792
   },
   "summary_last_28_days": {
-    "activeUsers": 516,
-    "sessions": 1367,
-    "screenPageViews": 3408
+    "activeUsers": 502,
+    "sessions": 1319,
+    "screenPageViews": 3244
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260625",
-      "activeUsers": 31
-    },
     {
       "date": "20260626",
       "activeUsers": 21
@@ -126,51 +122,51 @@
     },
     {
       "date": "20260723",
-      "activeUsers": 16
+      "activeUsers": 21
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 789
+      "views": 771
     },
     {
       "page": "/",
-      "views": 379
+      "views": 373
     },
     {
       "page": "/btc-to-usdt",
-      "views": 328
+      "views": 310
     },
     {
       "page": "/account",
-      "views": 226
+      "views": 196
     },
     {
       "page": "/signinapp",
-      "views": 142
+      "views": 131
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 43
-    },
-    {
-      "country": "Germany",
-      "city": "(not set)",
-      "activeUsers": 22
+      "activeUsers": 42
     },
     {
       "country": "Algeria",
       "city": "Oran",
-      "activeUsers": 19
+      "activeUsers": 20
     },
     {
       "country": "Armenia",
       "city": "Yerevan",
       "activeUsers": 18
+    },
+    {
+      "country": "Germany",
+      "city": "(not set)",
+      "activeUsers": 17
     },
     {
       "country": "Georgia",
@@ -196,25 +192,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 720
+      "sessions": 695
     },
     {
       "device": "mobile",
-      "sessions": 651
+      "sessions": 626
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 988
+      "sessions": 952
     },
     {
       "channel": "Organic Search",
-      "sessions": 239
+      "sessions": 231
     },
     {
       "channel": "Referral",
-      "sessions": 127
+      "sessions": 122
     },
     {
       "channel": "Unassigned",
