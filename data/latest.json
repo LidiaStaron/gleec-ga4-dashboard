@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-26T13:47:03.652999+00:00",
+  "updated_at": "2026-07-26T15:01:36.662436+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 147,
-    "sessions": 348,
-    "screenPageViews": 811
+    "activeUsers": 149,
+    "sessions": 351,
+    "screenPageViews": 816
   },
   "summary_last_28_days": {
-    "activeUsers": 520,
-    "sessions": 1368,
-    "screenPageViews": 3406
+    "activeUsers": 522,
+    "sessions": 1371,
+    "screenPageViews": 3411
   },
   "daily_trend_28_days": [
     {
@@ -126,21 +126,21 @@
     },
     {
       "date": "20260726",
-      "activeUsers": 8
+      "activeUsers": 10
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 810
+      "views": 811
     },
     {
       "page": "/",
-      "views": 381
+      "views": 383
     },
     {
       "page": "/btc-to-usdt",
-      "views": 320
+      "views": 321
     },
     {
       "page": "/account",
@@ -196,25 +196,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 728
+      "sessions": 730
     },
     {
       "device": "mobile",
-      "sessions": 644
+      "sessions": 645
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 988
+      "sessions": 989
     },
     {
       "channel": "Organic Search",
-      "sessions": 241
+      "sessions": 242
     },
     {
       "channel": "Referral",
-      "sessions": 124
+      "sessions": 125
     },
     {
       "channel": "Unassigned",
