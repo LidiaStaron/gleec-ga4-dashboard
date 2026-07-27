@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-27T12:18:11.412292+00:00",
+  "updated_at": "2026-07-27T15:39:36.531330+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 144,
-    "sessions": 351,
-    "screenPageViews": 873
+    "activeUsers": 148,
+    "sessions": 367,
+    "screenPageViews": 908
   },
   "summary_last_28_days": {
-    "activeUsers": 516,
-    "sessions": 1366,
-    "screenPageViews": 3459
+    "activeUsers": 519,
+    "sessions": 1381,
+    "screenPageViews": 3494
   },
   "daily_trend_28_days": [
     {
@@ -126,21 +126,21 @@
     },
     {
       "date": "20260727",
-      "activeUsers": 11
+      "activeUsers": 18
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 807
+      "views": 815
     },
     {
       "page": "/",
-      "views": 383
+      "views": 386
     },
     {
       "page": "/btc-to-usdt",
-      "views": 327
+      "views": 332
     },
     {
       "page": "/account",
@@ -148,7 +148,7 @@
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 153
+      "views": 154
     }
   ],
   "top_locations_last_28_days": [
@@ -170,7 +170,7 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 17
+      "activeUsers": 18
     },
     {
       "country": "Georgia",
@@ -196,25 +196,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 728
+      "sessions": 738
     },
     {
       "device": "mobile",
-      "sessions": 643
+      "sessions": 648
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 974
+      "sessions": 985
     },
     {
       "channel": "Organic Search",
-      "sessions": 246
+      "sessions": 248
     },
     {
       "channel": "Referral",
-      "sessions": 131
+      "sessions": 133
     },
     {
       "channel": "Unassigned",
