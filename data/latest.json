@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-28T00:04:09.225234+00:00",
+  "updated_at": "2026-07-28T03:57:22.556154+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 147,
-    "sessions": 356,
-    "screenPageViews": 891
+    "activeUsers": 150,
+    "sessions": 361,
+    "screenPageViews": 898
   },
   "summary_last_28_days": {
-    "activeUsers": 511,
-    "sessions": 1353,
-    "screenPageViews": 3450
+    "activeUsers": 514,
+    "sessions": 1358,
+    "screenPageViews": 3457
   },
   "daily_trend_28_days": [
     {
@@ -122,7 +122,11 @@
     },
     {
       "date": "20260727",
-      "activeUsers": 33
+      "activeUsers": 35
+    },
+    {
+      "date": "20260728",
+      "activeUsers": 2
     }
   ],
   "top_pages_last_28_days": [
@@ -132,15 +136,15 @@
     },
     {
       "page": "/",
-      "views": 392
+      "views": 394
     },
     {
       "page": "/btc-to-usdt",
-      "views": 342
+      "views": 345
     },
     {
       "page": "/account",
-      "views": 199
+      "views": 200
     },
     {
       "page": "/gleec-to-usdt",
@@ -192,21 +196,21 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 722
+      "sessions": 725
     },
     {
       "device": "mobile",
-      "sessions": 636
+      "sessions": 639
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 958
+      "sessions": 961
     },
     {
       "channel": "Organic Search",
-      "sessions": 245
+      "sessions": 247
     },
     {
       "channel": "Referral",
@@ -214,7 +218,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 13
+      "sessions": 14
     },
     {
       "channel": "Organic Social",
