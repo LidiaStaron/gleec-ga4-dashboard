@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-28T06:28:13.162882+00:00",
+  "updated_at": "2026-07-28T09:33:38.526273+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 151,
-    "sessions": 364,
-    "screenPageViews": 904
+    "activeUsers": 154,
+    "sessions": 372,
+    "screenPageViews": 921
   },
   "summary_last_28_days": {
-    "activeUsers": 515,
-    "sessions": 1360,
-    "screenPageViews": 3463
+    "activeUsers": 517,
+    "sessions": 1368,
+    "screenPageViews": 3480
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260728",
-      "activeUsers": 4
+      "activeUsers": 8
     }
   ],
   "top_pages_last_28_days": [
@@ -136,11 +136,11 @@
     },
     {
       "page": "/",
-      "views": 394
+      "views": 395
     },
     {
       "page": "/btc-to-usdt",
-      "views": 348
+      "views": 353
     },
     {
       "page": "/account",
@@ -196,17 +196,17 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 725
+      "sessions": 728
     },
     {
       "device": "mobile",
-      "sessions": 641
+      "sessions": 646
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 964
+      "sessions": 971
     },
     {
       "channel": "Organic Search",
@@ -214,7 +214,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 135
+      "sessions": 136
     },
     {
       "channel": "Unassigned",
