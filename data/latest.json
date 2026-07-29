@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-29T02:11:27.338100+00:00",
+  "updated_at": "2026-07-29T05:48:05.502607+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 148,
-    "sessions": 350,
-    "screenPageViews": 812
+    "activeUsers": 151,
+    "sessions": 353,
+    "screenPageViews": 831
   },
   "summary_last_28_days": {
-    "activeUsers": 510,
-    "sessions": 1349,
-    "screenPageViews": 3386
+    "activeUsers": 513,
+    "sessions": 1352,
+    "screenPageViews": 3405
   },
   "daily_trend_28_days": [
     {
@@ -122,7 +122,11 @@
     },
     {
       "date": "20260728",
-      "activeUsers": 32
+      "activeUsers": 33
+    },
+    {
+      "date": "20260729",
+      "activeUsers": 2
     }
   ],
   "top_pages_last_28_days": [
@@ -132,15 +136,15 @@
     },
     {
       "page": "/",
-      "views": 384
+      "views": 388
     },
     {
       "page": "/btc-to-usdt",
-      "views": 366
+      "views": 371
     },
     {
       "page": "/account",
-      "views": 199
+      "views": 203
     },
     {
       "page": "/gleec-to-usdt",
@@ -154,14 +158,14 @@
       "activeUsers": 34
     },
     {
-      "country": "Germany",
-      "city": "(not set)",
+      "country": "Algeria",
+      "city": "Oran",
       "activeUsers": 20
     },
     {
-      "country": "Algeria",
-      "city": "Oran",
-      "activeUsers": 19
+      "country": "Germany",
+      "city": "(not set)",
+      "activeUsers": 20
     },
     {
       "country": "Russia",
@@ -192,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 716
+      "sessions": 718
     },
     {
       "device": "mobile",
-      "sessions": 640
+      "sessions": 641
     },
     {
       "device": "tablet",
@@ -206,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 956
+      "sessions": 957
     },
     {
       "channel": "Organic Search",
-      "sessions": 245
+      "sessions": 246
     },
     {
       "channel": "Referral",
-      "sessions": 134
+      "sessions": 135
     },
     {
       "channel": "Unassigned",
