@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-07-28T23:09:37.261819+00:00",
+  "updated_at": "2026-07-29T02:11:27.338100+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 172,
-    "sessions": 408,
-    "screenPageViews": 1026
+    "activeUsers": 148,
+    "sessions": 350,
+    "screenPageViews": 812
   },
   "summary_last_28_days": {
-    "activeUsers": 533,
-    "sessions": 1404,
-    "screenPageViews": 3585
+    "activeUsers": 510,
+    "sessions": 1349,
+    "screenPageViews": 3386
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260630",
-      "activeUsers": 35
-    },
     {
       "date": "20260701",
       "activeUsers": 30
@@ -126,36 +122,36 @@
     },
     {
       "date": "20260728",
-      "activeUsers": 31
+      "activeUsers": 32
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 783
+      "views": 758
     },
     {
       "page": "/",
-      "views": 397
-    },
-    {
-      "page": "/btc-to-usdt",
       "views": 384
     },
     {
+      "page": "/btc-to-usdt",
+      "views": 366
+    },
+    {
       "page": "/account",
-      "views": 214
+      "views": 199
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 152
+      "views": 147
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 36
+      "activeUsers": 34
     },
     {
       "country": "Germany",
@@ -168,39 +164,39 @@
       "activeUsers": 19
     },
     {
-      "country": "Armenia",
-      "city": "Yerevan",
-      "activeUsers": 16
-    },
-    {
       "country": "Russia",
       "city": "Moscow",
       "activeUsers": 16
     },
     {
-      "country": "Spain",
-      "city": "Barcelona",
-      "activeUsers": 16
+      "country": "Armenia",
+      "city": "Yerevan",
+      "activeUsers": 15
     },
     {
-      "country": "Georgia",
-      "city": "Tbilisi",
+      "country": "Spain",
+      "city": "Barcelona",
       "activeUsers": 15
     },
     {
       "country": "Bangladesh",
       "city": "Dhaka",
       "activeUsers": 11
+    },
+    {
+      "country": "Georgia",
+      "city": "Tbilisi",
+      "activeUsers": 11
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 747
+      "sessions": 716
     },
     {
       "device": "mobile",
-      "sessions": 664
+      "sessions": 640
     },
     {
       "device": "tablet",
@@ -210,19 +206,19 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1000
+      "sessions": 956
     },
     {
       "channel": "Organic Search",
-      "sessions": 252
+      "sessions": 245
     },
     {
       "channel": "Referral",
-      "sessions": 138
+      "sessions": 134
     },
     {
       "channel": "Unassigned",
-      "sessions": 12
+      "sessions": 11
     },
     {
       "channel": "Organic Social",
