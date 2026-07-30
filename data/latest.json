@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-07-29T22:59:32.789639+00:00",
+  "updated_at": "2026-07-30T00:04:41.795949+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 163,
-    "sessions": 390,
-    "screenPageViews": 911
+    "activeUsers": 139,
+    "sessions": 340,
+    "screenPageViews": 792
   },
   "summary_last_28_days": {
-    "activeUsers": 524,
-    "sessions": 1388,
-    "screenPageViews": 3485
+    "activeUsers": 507,
+    "sessions": 1340,
+    "screenPageViews": 3369
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260701",
-      "activeUsers": 30
-    },
     {
       "date": "20260702",
       "activeUsers": 24
@@ -132,23 +128,23 @@
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 758
-    },
-    {
-      "page": "/",
-      "views": 396
+      "views": 729
     },
     {
       "page": "/btc-to-usdt",
-      "views": 392
+      "views": 378
+    },
+    {
+      "page": "/",
+      "views": 374
     },
     {
       "page": "/account",
-      "views": 208
+      "views": 198
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 148
+      "views": 147
     }
   ],
   "top_locations_last_28_days": [
@@ -160,17 +156,12 @@
     {
       "country": "Algeria",
       "city": "Oran",
-      "activeUsers": 21
+      "activeUsers": 20
     },
     {
       "country": "Germany",
       "city": "(not set)",
       "activeUsers": 20
-    },
-    {
-      "country": "Armenia",
-      "city": "Yerevan",
-      "activeUsers": 16
     },
     {
       "country": "Russia",
@@ -181,6 +172,11 @@
       "country": "Spain",
       "city": "Barcelona",
       "activeUsers": 16
+    },
+    {
+      "country": "Armenia",
+      "city": "Yerevan",
+      "activeUsers": 15
     },
     {
       "country": "Bangladesh",
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 740
+      "sessions": 716
     },
     {
       "device": "mobile",
-      "sessions": 654
+      "sessions": 629
     },
     {
       "device": "tablet",
@@ -210,19 +206,19 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 983
+      "sessions": 952
     },
     {
       "channel": "Organic Search",
-      "sessions": 250
+      "sessions": 238
     },
     {
       "channel": "Referral",
-      "sessions": 141
+      "sessions": 136
     },
     {
       "channel": "Unassigned",
-      "sessions": 12
+      "sessions": 10
     },
     {
       "channel": "Organic Social",
