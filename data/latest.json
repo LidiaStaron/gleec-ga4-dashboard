@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-01T23:53:40.344810+00:00",
+  "updated_at": "2026-08-02T02:24:33.364217+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 152,
-    "sessions": 373,
-    "screenPageViews": 976
+    "activeUsers": 137,
+    "sessions": 317,
+    "screenPageViews": 833
   },
   "summary_last_28_days": {
-    "activeUsers": 520,
-    "sessions": 1363,
-    "screenPageViews": 3437
+    "activeUsers": 507,
+    "sessions": 1314,
+    "screenPageViews": 3331
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260704",
-      "activeUsers": 24
-    },
     {
       "date": "20260705",
       "activeUsers": 35
@@ -132,40 +128,40 @@
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 658
+      "views": 616
     },
     {
       "page": "/btc-to-usdt",
-      "views": 408
+      "views": 400
     },
     {
       "page": "/",
-      "views": 378
+      "views": 370
     },
     {
       "page": "/account",
-      "views": 208
+      "views": 199
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 151
+      "views": 141
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 38
-    },
-    {
-      "country": "Algeria",
-      "city": "Oran",
-      "activeUsers": 20
+      "activeUsers": 37
     },
     {
       "country": "Germany",
       "city": "(not set)",
       "activeUsers": 19
+    },
+    {
+      "country": "Algeria",
+      "city": "Oran",
+      "activeUsers": 18
     },
     {
       "country": "Russia",
@@ -190,17 +186,17 @@
     {
       "country": "Georgia",
       "city": "Tbilisi",
-      "activeUsers": 10
+      "activeUsers": 9
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 745
+      "sessions": 718
     },
     {
       "device": "mobile",
-      "sessions": 622
+      "sessions": 600
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 975
+      "sessions": 941
     },
     {
       "channel": "Organic Search",
-      "sessions": 239
+      "sessions": 225
     },
     {
       "channel": "Referral",
-      "sessions": 138
+      "sessions": 135
     },
     {
       "channel": "Organic Social",
