@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-03T16:20:05.430408+00:00",
+  "updated_at": "2026-08-03T18:48:06.002178+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 142,
-    "sessions": 333,
-    "screenPageViews": 880
+    "activeUsers": 148,
+    "sessions": 342,
+    "screenPageViews": 900
   },
   "summary_last_28_days": {
-    "activeUsers": 500,
-    "sessions": 1304,
-    "screenPageViews": 3265
+    "activeUsers": 505,
+    "sessions": 1314,
+    "screenPageViews": 3285
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260803",
-      "activeUsers": 7
+      "activeUsers": 14
     }
   ],
   "top_pages_last_28_days": [
@@ -136,15 +136,15 @@
     },
     {
       "page": "/btc-to-usdt",
-      "views": 408
+      "views": 413
     },
     {
       "page": "/",
-      "views": 367
+      "views": 372
     },
     {
       "page": "/account",
-      "views": 191
+      "views": 192
     },
     {
       "page": "/gleec-to-usdt",
@@ -155,7 +155,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 36
+      "activeUsers": 38
     },
     {
       "country": "Germany",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 718
+      "sessions": 724
     },
     {
       "device": "mobile",
-      "sessions": 590
+      "sessions": 593
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 932
+      "sessions": 939
     },
     {
       "channel": "Organic Search",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 141
+      "sessions": 143
     },
     {
       "channel": "Unassigned",
