@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-04T19:25:53.712702+00:00",
+  "updated_at": "2026-08-04T21:07:50.351585+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 140,
-    "sessions": 320,
-    "screenPageViews": 926
+    "activeUsers": 144,
+    "sessions": 328,
+    "screenPageViews": 934
   },
   "summary_last_28_days": {
-    "activeUsers": 509,
-    "sessions": 1315,
-    "screenPageViews": 3353
+    "activeUsers": 513,
+    "sessions": 1323,
+    "screenPageViews": 3361
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260804",
-      "activeUsers": 11
+      "activeUsers": 16
     }
   ],
   "top_pages_last_28_days": [
@@ -144,11 +144,11 @@
     },
     {
       "page": "/account",
-      "views": 227
+      "views": 228
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 137
+      "views": 138
     }
   ],
   "top_locations_last_28_days": [
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 728
+      "sessions": 732
     },
     {
       "device": "mobile",
-      "sessions": 591
+      "sessions": 595
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 946
+      "sessions": 954
     },
     {
       "channel": "Organic Search",
