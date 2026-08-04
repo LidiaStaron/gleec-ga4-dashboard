@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-03T22:05:00.412309+00:00",
+  "updated_at": "2026-08-04T00:05:19.073870+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 152,
-    "sessions": 353,
-    "screenPageViews": 940
+    "activeUsers": 125,
+    "sessions": 293,
+    "screenPageViews": 814
   },
   "summary_last_28_days": {
-    "activeUsers": 509,
-    "sessions": 1325,
-    "screenPageViews": 3325
+    "activeUsers": 494,
+    "sessions": 1288,
+    "screenPageViews": 3241
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260706",
-      "activeUsers": 26
-    },
     {
       "date": "20260707",
       "activeUsers": 22
@@ -126,36 +122,36 @@
     },
     {
       "date": "20260803",
-      "activeUsers": 18
+      "activeUsers": 19
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 575
+      "views": 545
     },
     {
       "page": "/btc-to-usdt",
-      "views": 426
+      "views": 421
     },
     {
       "page": "/",
-      "views": 374
+      "views": 362
     },
     {
       "page": "/account",
-      "views": 194
+      "views": 197
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 139
+      "views": 136
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 38
+      "activeUsers": 36
     },
     {
       "country": "Germany",
@@ -165,22 +161,22 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 17
-    },
-    {
-      "country": "Spain",
-      "city": "Barcelona",
       "activeUsers": 16
-    },
-    {
-      "country": "Algeria",
-      "city": "Oran",
-      "activeUsers": 15
     },
     {
       "country": "Russia",
       "city": "Moscow",
       "activeUsers": 15
+    },
+    {
+      "country": "Spain",
+      "city": "Barcelona",
+      "activeUsers": 15
+    },
+    {
+      "country": "Algeria",
+      "city": "Oran",
+      "activeUsers": 12
     },
     {
       "country": "Bangladesh",
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 731
+      "sessions": 712
     },
     {
       "device": "mobile",
-      "sessions": 597
+      "sessions": 580
     },
     {
       "device": "tablet",
@@ -210,19 +206,19 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 948
+      "sessions": 926
     },
     {
       "channel": "Organic Search",
-      "sessions": 219
+      "sessions": 207
     },
     {
       "channel": "Referral",
-      "sessions": 144
+      "sessions": 143
     },
     {
       "channel": "Unassigned",
-      "sessions": 6
+      "sessions": 5
     },
     {
       "channel": "Organic Social",
