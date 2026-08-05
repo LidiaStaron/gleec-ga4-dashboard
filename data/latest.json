@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-05T03:57:04.641787+00:00",
+  "updated_at": "2026-08-05T06:28:38.032550+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 120,
-    "sessions": 276,
-    "screenPageViews": 802
+    "activeUsers": 123,
+    "sessions": 280,
+    "screenPageViews": 834
   },
   "summary_last_28_days": {
-    "activeUsers": 503,
-    "sessions": 1293,
-    "screenPageViews": 3305
+    "activeUsers": 506,
+    "sessions": 1297,
+    "screenPageViews": 3337
   },
   "daily_trend_28_days": [
     {
@@ -122,7 +122,11 @@
     },
     {
       "date": "20260804",
-      "activeUsers": 22
+      "activeUsers": 24
+    },
+    {
+      "date": "20260805",
+      "activeUsers": 3
     }
   ],
   "top_pages_last_28_days": [
@@ -132,15 +136,15 @@
     },
     {
       "page": "/btc-to-usdt",
-      "views": 427
+      "views": 430
     },
     {
       "page": "/",
-      "views": 365
+      "views": 366
     },
     {
       "page": "/account",
-      "views": 228
+      "views": 231
     },
     {
       "page": "/gleec-to-usdt",
@@ -176,7 +180,7 @@
     {
       "country": "Algeria",
       "city": "Oran",
-      "activeUsers": 12
+      "activeUsers": 13
     },
     {
       "country": "Bangladesh",
@@ -192,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 714
+      "sessions": 716
     },
     {
       "device": "mobile",
-      "sessions": 584
+      "sessions": 586
     },
     {
       "device": "tablet",
@@ -206,11 +210,11 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 935
+      "sessions": 936
     },
     {
       "channel": "Organic Search",
-      "sessions": 206
+      "sessions": 209
     },
     {
       "channel": "Referral",
