@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-05T20:23:05.230686+00:00",
+  "updated_at": "2026-08-05T22:08:44.677443+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 133,
-    "sessions": 295,
-    "screenPageViews": 859
+    "activeUsers": 134,
+    "sessions": 297,
+    "screenPageViews": 862
   },
   "summary_last_28_days": {
-    "activeUsers": 516,
-    "sessions": 1312,
-    "screenPageViews": 3362
+    "activeUsers": 517,
+    "sessions": 1314,
+    "screenPageViews": 3365
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260805",
-      "activeUsers": 16
+      "activeUsers": 17
     }
   ],
   "top_pages_last_28_days": [
@@ -140,7 +140,7 @@
     },
     {
       "page": "/",
-      "views": 371
+      "views": 372
     },
     {
       "page": "/account",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 721
+      "sessions": 722
     },
     {
       "device": "mobile",
-      "sessions": 595
+      "sessions": 596
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 945
+      "sessions": 946
     },
     {
       "channel": "Organic Search",
@@ -231,6 +231,10 @@
     {
       "channel": "AI Assistant",
       "sessions": 2
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 1
     }
   ]
 }
