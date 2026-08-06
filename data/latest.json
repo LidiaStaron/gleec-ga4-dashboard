@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-05T23:56:49.137909+00:00",
+  "updated_at": "2026-08-06T02:34:36.529991+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 135,
-    "sessions": 298,
-    "screenPageViews": 863
+    "activeUsers": 121,
+    "sessions": 261,
+    "screenPageViews": 752
   },
   "summary_last_28_days": {
-    "activeUsers": 518,
-    "sessions": 1315,
-    "screenPageViews": 3366
+    "activeUsers": 504,
+    "sessions": 1261,
+    "screenPageViews": 3123
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260708",
-      "activeUsers": 27
-    },
     {
       "date": "20260709",
       "activeUsers": 27
@@ -126,36 +122,36 @@
     },
     {
       "date": "20260805",
-      "activeUsers": 18
+      "activeUsers": 21
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 528
+      "views": 509
     },
     {
       "page": "/btc-to-usdt",
-      "views": 432
+      "views": 412
     },
     {
       "page": "/",
-      "views": 372
+      "views": 350
     },
     {
       "page": "/account",
-      "views": 232
+      "views": 214
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 138
+      "views": 134
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 34
+      "activeUsers": 33
     },
     {
       "country": "Germany",
@@ -170,17 +166,17 @@
     {
       "country": "Russia",
       "city": "Moscow",
-      "activeUsers": 15
+      "activeUsers": 13
     },
     {
       "country": "Spain",
       "city": "Barcelona",
-      "activeUsers": 14
+      "activeUsers": 13
     },
     {
       "country": "Algeria",
       "city": "Oran",
-      "activeUsers": 13
+      "activeUsers": 12
     },
     {
       "country": "Bangladesh",
@@ -190,17 +186,17 @@
     {
       "country": "United States",
       "city": "Council Bluffs",
-      "activeUsers": 9
+      "activeUsers": 8
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 723
+      "sessions": 679
     },
     {
       "device": "mobile",
-      "sessions": 596
+      "sessions": 586
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 947
+      "sessions": 916
     },
     {
       "channel": "Organic Search",
-      "sessions": 213
+      "sessions": 201
     },
     {
       "channel": "Referral",
-      "sessions": 141
+      "sessions": 129
     },
     {
       "channel": "Unassigned",
@@ -229,12 +225,12 @@
       "sessions": 4
     },
     {
-      "channel": "AI Assistant",
-      "sessions": 2
+      "channel": "Cross-network",
+      "sessions": 3
     },
     {
-      "channel": "Cross-network",
-      "sessions": 1
+      "channel": "AI Assistant",
+      "sessions": 2
     }
   ]
 }
