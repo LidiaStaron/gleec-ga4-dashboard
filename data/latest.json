@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-06T13:56:46.561998+00:00",
+  "updated_at": "2026-08-07T00:38:58.963585+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 129,
-    "sessions": 281,
-    "screenPageViews": 830
+    "activeUsers": 123,
+    "sessions": 253,
+    "screenPageViews": 791
   },
   "summary_last_28_days": {
-    "activeUsers": 511,
-    "sessions": 1281,
-    "screenPageViews": 3201
+    "activeUsers": 507,
+    "sessions": 1254,
+    "screenPageViews": 3143
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260709",
-      "activeUsers": 27
-    },
     {
       "date": "20260710",
       "activeUsers": 20
@@ -126,41 +122,41 @@
     },
     {
       "date": "20260806",
-      "activeUsers": 11
+      "activeUsers": 26
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 509
+      "views": 480
     },
     {
       "page": "/btc-to-usdt",
-      "views": 420
+      "views": 425
     },
     {
       "page": "/",
-      "views": 355
+      "views": 353
     },
     {
       "page": "/account",
-      "views": 220
+      "views": 227
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 145
+      "views": 147
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 33
+      "activeUsers": 32
     },
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 30
+      "activeUsers": 26
     },
     {
       "country": "Armenia",
@@ -173,13 +169,13 @@
       "activeUsers": 13
     },
     {
-      "country": "Spain",
-      "city": "Barcelona",
-      "activeUsers": 13
-    },
-    {
       "country": "Algeria",
       "city": "Oran",
+      "activeUsers": 12
+    },
+    {
+      "country": "Spain",
+      "city": "Barcelona",
       "activeUsers": 12
     },
     {
@@ -188,19 +184,19 @@
       "activeUsers": 11
     },
     {
-      "country": "United States",
-      "city": "Council Bluffs",
+      "country": "Georgia",
+      "city": "Tbilisi",
       "activeUsers": 8
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 690
+      "sessions": 680
     },
     {
       "device": "mobile",
-      "sessions": 596
+      "sessions": 579
     },
     {
       "device": "tablet",
@@ -210,19 +206,19 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 927
+      "sessions": 906
     },
     {
       "channel": "Organic Search",
-      "sessions": 208
+      "sessions": 204
     },
     {
       "channel": "Referral",
-      "sessions": 134
+      "sessions": 133
     },
     {
       "channel": "Unassigned",
-      "sessions": 6
+      "sessions": 5
     },
     {
       "channel": "Organic Social",
