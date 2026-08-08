@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-08T09:33:24.808564+00:00",
+  "updated_at": "2026-08-08T10:27:10.383978+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 139,
-    "sessions": 269,
-    "screenPageViews": 891
+    "sessions": 270,
+    "screenPageViews": 909
   },
   "summary_last_28_days": {
     "activeUsers": 519,
-    "sessions": 1268,
-    "screenPageViews": 3244
+    "sessions": 1269,
+    "screenPageViews": 3262
   },
   "daily_trend_28_days": [
     {
@@ -126,13 +126,13 @@
     },
     {
       "date": "20260808",
-      "activeUsers": 5
+      "activeUsers": 6
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 460
+      "views": 463
     },
     {
       "page": "/btg-to-usdt",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 696
+      "sessions": 697
     },
     {
       "device": "mobile",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 137
+      "sessions": 138
     },
     {
       "channel": "Unassigned",
