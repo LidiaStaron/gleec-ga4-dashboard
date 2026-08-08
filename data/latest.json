@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-07T23:29:54.605913+00:00",
+  "updated_at": "2026-08-08T01:15:34.254221+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 143,
-    "sessions": 290,
-    "screenPageViews": 897
+    "activeUsers": 133,
+    "sessions": 259,
+    "screenPageViews": 826
   },
   "summary_last_28_days": {
-    "activeUsers": 525,
-    "sessions": 1291,
-    "screenPageViews": 3249
+    "activeUsers": 514,
+    "sessions": 1258,
+    "screenPageViews": 3179
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260710",
-      "activeUsers": 20
-    },
     {
       "date": "20260711",
       "activeUsers": 22
@@ -126,41 +122,41 @@
     },
     {
       "date": "20260807",
-      "activeUsers": 18
+      "activeUsers": 20
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btg-to-usdt",
-      "views": 480
+      "views": 459
     },
     {
       "page": "/btc-to-usdt",
-      "views": 446
+      "views": 435
     },
     {
       "page": "/",
-      "views": 359
+      "views": 350
     },
     {
       "page": "/account",
-      "views": 231
+      "views": 228
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 150
+      "views": 147
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 32
+      "activeUsers": 31
     },
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 32
+      "activeUsers": 31
     },
     {
       "country": "Armenia",
@@ -175,16 +171,16 @@
     {
       "country": "Algeria",
       "city": "Oran",
-      "activeUsers": 12
-    },
-    {
-      "country": "Spain",
-      "city": "Barcelona",
-      "activeUsers": 12
+      "activeUsers": 11
     },
     {
       "country": "Bangladesh",
       "city": "Dhaka",
+      "activeUsers": 11
+    },
+    {
+      "country": "Spain",
+      "city": "Barcelona",
       "activeUsers": 11
     },
     {
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 700
+      "sessions": 687
     },
     {
       "device": "mobile",
-      "sessions": 598
+      "sessions": 578
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 934
+      "sessions": 910
     },
     {
       "channel": "Organic Search",
-      "sessions": 207
+      "sessions": 200
     },
     {
       "channel": "Referral",
-      "sessions": 138
+      "sessions": 136
     },
     {
       "channel": "Unassigned",
