@@ -1942,5 +1942,13 @@
       "sessions": 259,
       "screenPageViews": 823
     }
+  },
+  {
+    "updated_at": "2026-08-09T14:30:00.721678+00:00",
+    "summary": {
+      "activeUsers": 140,
+      "sessions": 260,
+      "screenPageViews": 824
+    }
   }
 ]
