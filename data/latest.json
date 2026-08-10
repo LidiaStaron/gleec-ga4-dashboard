@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-10T09:14:48.277162+00:00",
+  "updated_at": "2026-08-10T11:04:02.290318+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 129,
-    "sessions": 247,
-    "screenPageViews": 762
+    "activeUsers": 130,
+    "sessions": 248,
+    "screenPageViews": 763
   },
   "summary_last_28_days": {
-    "activeUsers": 503,
-    "sessions": 1236,
-    "screenPageViews": 3189
+    "activeUsers": 504,
+    "sessions": 1237,
+    "screenPageViews": 3190
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260810",
-      "activeUsers": 2
+      "activeUsers": 3
     }
   ],
   "top_pages_last_28_days": [
@@ -140,7 +140,7 @@
     },
     {
       "page": "/",
-      "views": 339
+      "views": 340
     },
     {
       "page": "/account",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 678
+      "sessions": 679
     },
     {
       "device": "mobile",
@@ -218,11 +218,11 @@
     },
     {
       "channel": "Referral",
-      "sessions": 140
+      "sessions": 141
     },
     {
       "channel": "Unassigned",
-      "sessions": 8
+      "sessions": 7
     },
     {
       "channel": "Organic Social",
