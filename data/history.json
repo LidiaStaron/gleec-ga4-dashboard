@@ -2094,5 +2094,13 @@
       "sessions": 255,
       "screenPageViews": 774
     }
+  },
+  {
+    "updated_at": "2026-08-10T16:53:24.794660+00:00",
+    "summary": {
+      "activeUsers": 137,
+      "sessions": 256,
+      "screenPageViews": 775
+    }
   }
 ]
