@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-10T20:37:13.244571+00:00",
+  "updated_at": "2026-08-10T21:37:14.976523+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 141,
-    "sessions": 262,
-    "screenPageViews": 785
+    "activeUsers": 142,
+    "sessions": 263,
+    "screenPageViews": 791
   },
   "summary_last_28_days": {
-    "activeUsers": 515,
-    "sessions": 1251,
-    "screenPageViews": 3212
+    "activeUsers": 516,
+    "sessions": 1252,
+    "screenPageViews": 3218
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260810",
-      "activeUsers": 16
+      "activeUsers": 17
     }
   ],
   "top_pages_last_28_days": [
@@ -140,7 +140,7 @@
     },
     {
       "page": "/",
-      "views": 346
+      "views": 347
     },
     {
       "page": "/account",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 689
+      "sessions": 690
     },
     {
       "device": "mobile",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 144
+      "sessions": 145
     },
     {
       "channel": "Unassigned",
