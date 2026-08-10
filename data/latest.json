@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-10T17:48:10.578847+00:00",
+  "updated_at": "2026-08-10T18:51:38.499569+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 137,
-    "sessions": 256,
-    "screenPageViews": 775
+    "activeUsers": 139,
+    "sessions": 259,
+    "screenPageViews": 779
   },
   "summary_last_28_days": {
-    "activeUsers": 511,
-    "sessions": 1245,
-    "screenPageViews": 3202
+    "activeUsers": 513,
+    "sessions": 1248,
+    "screenPageViews": 3206
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260810",
-      "activeUsers": 10
+      "activeUsers": 13
     }
   ],
   "top_pages_last_28_days": [
@@ -140,7 +140,7 @@
     },
     {
       "page": "/",
-      "views": 343
+      "views": 345
     },
     {
       "page": "/account",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 686
+      "sessions": 687
     },
     {
       "device": "mobile",
-      "sessions": 565
+      "sessions": 567
     },
     {
       "device": "tablet",
@@ -210,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 888
+      "sessions": 889
     },
     {
       "channel": "Organic Search",
-      "sessions": 201
+      "sessions": 202
     },
     {
       "channel": "Referral",
-      "sessions": 143
+      "sessions": 144
     },
     {
       "channel": "Unassigned",
