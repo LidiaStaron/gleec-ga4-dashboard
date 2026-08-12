@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-12T12:59:25.996086+00:00",
+  "updated_at": "2026-08-12T14:22:28.754174+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 127,
-    "sessions": 224,
-    "screenPageViews": 691
+    "activeUsers": 129,
+    "sessions": 227,
+    "screenPageViews": 694
   },
   "summary_last_28_days": {
-    "activeUsers": 503,
-    "sessions": 1208,
-    "screenPageViews": 3157
+    "activeUsers": 505,
+    "sessions": 1211,
+    "screenPageViews": 3160
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260812",
-      "activeUsers": 1
+      "activeUsers": 4
     }
   ],
   "top_pages_last_28_days": [
@@ -140,7 +140,7 @@
     },
     {
       "page": "/",
-      "views": 332
+      "views": 334
     },
     {
       "page": "/account",
@@ -165,7 +165,7 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 13
+      "activeUsers": 14
     },
     {
       "country": "Bangladesh",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 686
+      "sessions": 689
     },
     {
       "device": "mobile",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 861
+      "sessions": 864
     },
     {
       "channel": "Organic Search",
