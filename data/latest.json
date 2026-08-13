@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-13T18:57:30.901089+00:00",
+  "updated_at": "2026-08-13T19:55:53.686871+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 125,
-    "sessions": 226,
-    "screenPageViews": 678
+    "activeUsers": 127,
+    "sessions": 229,
+    "screenPageViews": 683
   },
   "summary_last_28_days": {
-    "activeUsers": 495,
-    "sessions": 1179,
-    "screenPageViews": 3120
+    "activeUsers": 497,
+    "sessions": 1182,
+    "screenPageViews": 3125
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260813",
-      "activeUsers": 6
+      "activeUsers": 8
     }
   ],
   "top_pages_last_28_days": [
@@ -140,7 +140,7 @@
     },
     {
       "page": "/",
-      "views": 319
+      "views": 320
     },
     {
       "page": "/account",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 676
+      "sessions": 679
     },
     {
       "device": "mobile",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 842
+      "sessions": 843
     },
     {
       "channel": "Organic Search",
@@ -222,7 +222,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 8
+      "sessions": 9
     },
     {
       "channel": "Organic Social",
@@ -231,6 +231,10 @@
     {
       "channel": "AI Assistant",
       "sessions": 2
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 1
     }
   ]
 }
