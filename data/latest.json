@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-13T23:36:50.856057+00:00",
+  "updated_at": "2026-08-14T01:37:15.380792+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 130,
-    "sessions": 232,
-    "screenPageViews": 700
+    "activeUsers": 102,
+    "sessions": 185,
+    "screenPageViews": 546
   },
   "summary_last_28_days": {
-    "activeUsers": 499,
-    "sessions": 1185,
-    "screenPageViews": 3142
+    "activeUsers": 473,
+    "sessions": 1128,
+    "screenPageViews": 2994
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260716",
-      "activeUsers": 33
-    },
     {
       "date": "20260717",
       "activeUsers": 39
@@ -132,35 +128,35 @@
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 490
+      "views": 475
     },
     {
       "page": "/btg-to-usdt",
-      "views": 347
+      "views": 312
     },
     {
       "page": "/",
-      "views": 322
+      "views": 289
     },
     {
       "page": "/account",
-      "views": 237
+      "views": 235
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 139
+      "views": 138
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 36
+      "activeUsers": 35
     },
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 31
+      "activeUsers": 27
     },
     {
       "country": "Armenia",
@@ -170,7 +166,7 @@
     {
       "country": "Bangladesh",
       "city": "Dhaka",
-      "activeUsers": 11
+      "activeUsers": 10
     },
     {
       "country": "Spain",
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 682
+      "sessions": 655
     },
     {
       "device": "mobile",
-      "sessions": 510
+      "sessions": 480
     },
     {
       "device": "tablet",
@@ -210,26 +206,26 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 845
+      "sessions": 800
     },
     {
       "channel": "Organic Search",
-      "sessions": 186
+      "sessions": 175
     },
     {
       "channel": "Referral",
-      "sessions": 142
+      "sessions": 141
     },
     {
       "channel": "Unassigned",
-      "sessions": 10
-    },
-    {
-      "channel": "Organic Social",
-      "sessions": 3
+      "sessions": 9
     },
     {
       "channel": "AI Assistant",
+      "sessions": 2
+    },
+    {
+      "channel": "Organic Social",
       "sessions": 2
     },
     {
