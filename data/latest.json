@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-14T09:56:02.575272+00:00",
+  "updated_at": "2026-08-14T10:56:37.628756+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 107,
-    "sessions": 194,
-    "screenPageViews": 563
+    "activeUsers": 109,
+    "sessions": 195,
+    "screenPageViews": 566
   },
   "summary_last_28_days": {
-    "activeUsers": 478,
-    "sessions": 1137,
-    "screenPageViews": 3011
+    "activeUsers": 480,
+    "sessions": 1138,
+    "screenPageViews": 3014
   },
   "daily_trend_28_days": [
     {
@@ -126,13 +126,13 @@
     },
     {
       "date": "20260814",
-      "activeUsers": 1
+      "activeUsers": 3
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 476
+      "views": 477
     },
     {
       "page": "/btg-to-usdt",
@@ -140,7 +140,7 @@
     },
     {
       "page": "/",
-      "views": 291
+      "views": 293
     },
     {
       "page": "/account",
@@ -160,12 +160,12 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 27
+      "activeUsers": 30
     },
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 13
+      "activeUsers": 14
     },
     {
       "country": "Bangladesh",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 658
+      "sessions": 659
     },
     {
       "device": "mobile",
@@ -214,15 +214,15 @@
     },
     {
       "channel": "Organic Search",
-      "sessions": 176
+      "sessions": 177
     },
     {
       "channel": "Referral",
-      "sessions": 141
+      "sessions": 142
     },
     {
       "channel": "Unassigned",
-      "sessions": 9
+      "sessions": 5
     },
     {
       "channel": "AI Assistant",
@@ -231,10 +231,6 @@
     {
       "channel": "Organic Social",
       "sessions": 2
-    },
-    {
-      "channel": "Cross-network",
-      "sessions": 1
     }
   ]
 }
