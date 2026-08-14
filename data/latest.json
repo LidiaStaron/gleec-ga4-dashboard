@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-14T15:46:39.964436+00:00",
+  "updated_at": "2026-08-14T16:48:35.367948+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 113,
+    "activeUsers": 114,
     "sessions": 199,
-    "screenPageViews": 571
+    "screenPageViews": 573
   },
   "summary_last_28_days": {
     "activeUsers": 484,
     "sessions": 1142,
-    "screenPageViews": 3019
+    "screenPageViews": 3021
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260814",
-      "activeUsers": 7
+      "activeUsers": 8
     }
   ],
   "top_pages_last_28_days": [
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 235
+      "views": 237
     },
     {
       "page": "/gleec-to-usdt",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 663
+      "sessions": 664
     },
     {
       "device": "mobile",
