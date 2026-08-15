@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-15T08:21:49.703399+00:00",
+  "updated_at": "2026-08-15T09:21:13.517405+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 100,
-    "sessions": 174,
-    "screenPageViews": 504
+    "activeUsers": 101,
+    "sessions": 175,
+    "screenPageViews": 506
   },
   "summary_last_28_days": {
-    "activeUsers": 458,
-    "sessions": 1090,
-    "screenPageViews": 2867
+    "activeUsers": 459,
+    "sessions": 1091,
+    "screenPageViews": 2869
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20260815",
-      "activeUsers": 2
+      "activeUsers": 3
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 462
+      "views": 463
     },
     {
       "page": "/",
-      "views": 274
+      "views": 275
     },
     {
       "page": "/btg-to-usdt",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 637
+      "sessions": 638
     },
     {
       "device": "mobile",
@@ -218,11 +218,11 @@
     },
     {
       "channel": "Referral",
-      "sessions": 138
+      "sessions": 139
     },
     {
       "channel": "Unassigned",
-      "sessions": 5
+      "sessions": 6
     },
     {
       "channel": "AI Assistant",
