@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-15T21:16:31.114123+00:00",
+  "updated_at": "2026-08-15T22:16:48.753747+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 104,
-    "sessions": 183,
-    "screenPageViews": 521
+    "sessions": 185,
+    "screenPageViews": 524
   },
   "summary_last_28_days": {
     "activeUsers": 460,
-    "sessions": 1098,
-    "screenPageViews": 2884
+    "sessions": 1100,
+    "screenPageViews": 2887
   },
   "daily_trend_28_days": [
     {
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 232
+      "views": 233
     },
     {
       "page": "/gleec-to-usdt",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 640
+      "sessions": 642
     },
     {
       "device": "mobile",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 774
+      "sessions": 775
     },
     {
       "channel": "Organic Search",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 142
+      "sessions": 143
     },
     {
       "channel": "Unassigned",
