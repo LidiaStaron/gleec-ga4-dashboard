@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-16T18:21:57.513277+00:00",
+  "updated_at": "2026-08-16T19:17:53.492750+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 99,
-    "sessions": 169,
-    "screenPageViews": 416
+    "activeUsers": 445,
+    "sessions": 516,
+    "screenPageViews": 779
   },
   "summary_last_28_days": {
-    "activeUsers": 456,
-    "sessions": 1070,
-    "screenPageViews": 2823
+    "activeUsers": 802,
+    "sessions": 1418,
+    "screenPageViews": 3186
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20260816",
-      "activeUsers": 9
+      "activeUsers": 355
     }
   ],
   "top_pages_last_28_days": [
     {
-      "page": "/btc-to-usdt",
-      "views": 463
+      "page": "/",
+      "views": 476
     },
     {
-      "page": "/",
-      "views": 270
+      "page": "/btc-to-usdt",
+      "views": 471
     },
     {
       "page": "/btg-to-usdt",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 227
+      "views": 229
     },
     {
       "page": "/gleec-to-usdt",
@@ -152,6 +152,11 @@
     }
   ],
   "top_locations_last_28_days": [
+    {
+      "country": "United States",
+      "city": "New York",
+      "activeUsers": 350
+    },
     {
       "country": "United States",
       "city": "North Charleston",
@@ -186,17 +191,12 @@
       "country": "United States",
       "city": "Ashburn",
       "activeUsers": 8
-    },
-    {
-      "country": "United States",
-      "city": "(not set)",
-      "activeUsers": 7
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 634
+      "sessions": 980
     },
     {
       "device": "mobile",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 752
+      "sessions": 1099
     },
     {
       "channel": "Organic Search",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 140
+      "sessions": 141
     },
     {
       "channel": "Unassigned",
