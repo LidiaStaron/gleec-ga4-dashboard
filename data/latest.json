@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-16T13:27:02.736493+00:00",
+  "updated_at": "2026-08-16T14:18:10.523813+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 96,
-    "sessions": 165,
-    "screenPageViews": 404
+    "activeUsers": 98,
+    "sessions": 167,
+    "screenPageViews": 406
   },
   "summary_last_28_days": {
-    "activeUsers": 453,
-    "sessions": 1066,
-    "screenPageViews": 2811
+    "activeUsers": 455,
+    "sessions": 1068,
+    "screenPageViews": 2813
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260816",
-      "activeUsers": 5
+      "activeUsers": 7
     }
   ],
   "top_pages_last_28_days": [
@@ -155,7 +155,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 33
+      "activeUsers": 35
     },
     {
       "country": "Germany",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 632
+      "sessions": 634
     },
     {
       "device": "mobile",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 749
+      "sessions": 751
     },
     {
       "channel": "Organic Search",
