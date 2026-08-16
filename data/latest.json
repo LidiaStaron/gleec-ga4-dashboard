@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T10:18:53.180850+00:00",
+  "updated_at": "2026-08-16T11:15:56.454914+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 96,
@@ -188,9 +188,9 @@
       "activeUsers": 8
     },
     {
-      "country": "Spain",
+      "country": "United States",
       "city": "(not set)",
-      "activeUsers": 6
+      "activeUsers": 7
     }
   ],
   "device_breakdown_last_28_days": [
@@ -222,7 +222,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 7
+      "sessions": 5
     },
     {
       "channel": "AI Assistant",
