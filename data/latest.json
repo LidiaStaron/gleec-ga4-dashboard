@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-16T23:15:17.007496+00:00",
+  "updated_at": "2026-08-17T01:00:22.886999+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 493,
-    "sessions": 566,
-    "screenPageViews": 841
+    "activeUsers": 485,
+    "sessions": 540,
+    "screenPageViews": 772
   },
   "summary_last_28_days": {
-    "activeUsers": 849,
-    "sessions": 1466,
-    "screenPageViews": 3248
+    "activeUsers": 834,
+    "sessions": 1429,
+    "screenPageViews": 3201
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260719",
-      "activeUsers": 20
-    },
     {
       "date": "20260720",
       "activeUsers": 23
@@ -132,23 +128,23 @@
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 507
+      "views": 495
     },
     {
       "page": "/btc-to-usdt",
       "views": 474
     },
     {
-      "page": "/btg-to-usdt",
-      "views": 246
-    },
-    {
       "page": "/account",
       "views": 229
     },
     {
+      "page": "/btg-to-usdt",
+      "views": 224
+    },
+    {
       "page": "/gleec-to-usdt",
-      "views": 134
+      "views": 133
     }
   ],
   "top_locations_last_28_days": [
@@ -160,7 +156,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 35
+      "activeUsers": 33
     },
     {
       "country": "Germany",
@@ -183,24 +179,24 @@
       "activeUsers": 8
     },
     {
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "activeUsers": 8
-    },
-    {
       "country": "United States",
       "city": "Ashburn",
-      "activeUsers": 8
+      "activeUsers": 7
+    },
+    {
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "activeUsers": 6
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1027
+      "sessions": 1012
     },
     {
       "device": "mobile",
-      "sessions": 445
+      "sessions": 423
     },
     {
       "device": "tablet",
@@ -210,19 +206,19 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1145
+      "sessions": 1116
     },
     {
       "channel": "Organic Search",
-      "sessions": 169
+      "sessions": 165
     },
     {
       "channel": "Referral",
-      "sessions": 143
+      "sessions": 140
     },
     {
       "channel": "Unassigned",
-      "sessions": 5
+      "sessions": 4
     },
     {
       "channel": "AI Assistant",
