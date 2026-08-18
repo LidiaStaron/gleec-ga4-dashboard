@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-18T10:23:29.531041+00:00",
+  "updated_at": "2026-08-18T11:20:52.811562+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 498,
-    "sessions": 570,
-    "screenPageViews": 847
+    "activeUsers": 501,
+    "sessions": 574,
+    "screenPageViews": 867
   },
   "summary_last_28_days": {
-    "activeUsers": 846,
-    "sessions": 1444,
-    "screenPageViews": 3269
+    "activeUsers": 848,
+    "sessions": 1447,
+    "screenPageViews": 3289
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20260818",
-      "activeUsers": 5
+      "activeUsers": 9
     }
   ],
   "top_pages_last_28_days": [
     {
-      "page": "/",
-      "views": 507
+      "page": "/btc-to-usdt",
+      "views": 511
     },
     {
-      "page": "/btc-to-usdt",
-      "views": 504
+      "page": "/",
+      "views": 509
     },
     {
       "page": "/account",
@@ -183,24 +183,24 @@
       "activeUsers": 8
     },
     {
-      "country": "United States",
-      "city": "Ashburn",
+      "country": "Spain",
+      "city": "(not set)",
       "activeUsers": 7
     },
     {
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "activeUsers": 6
+      "country": "United States",
+      "city": "Ashburn",
+      "activeUsers": 7
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1033
+      "sessions": 1036
     },
     {
       "device": "mobile",
-      "sessions": 417
+      "sessions": 418
     },
     {
       "device": "tablet",
@@ -210,11 +210,11 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1117
+      "sessions": 1120
     },
     {
       "channel": "Organic Search",
-      "sessions": 172
+      "sessions": 173
     },
     {
       "channel": "Referral",
