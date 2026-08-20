@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-20T13:42:09.364519+00:00",
+  "updated_at": "2026-08-20T14:31:13.287531+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 504,
-    "sessions": 614,
-    "screenPageViews": 981
+    "activeUsers": 512,
+    "sessions": 622,
+    "screenPageViews": 989
   },
   "summary_last_28_days": {
-    "activeUsers": 831,
-    "sessions": 1430,
-    "screenPageViews": 3220
+    "activeUsers": 838,
+    "sessions": 1438,
+    "screenPageViews": 3228
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260820",
-      "activeUsers": 9
+      "activeUsers": 17
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 502
+      "views": 506
     },
     {
       "page": "/account",
@@ -160,7 +160,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 32
+      "activeUsers": 36
     },
     {
       "country": "Germany",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1049
+      "sessions": 1055
     },
     {
       "device": "mobile",
-      "sessions": 389
+      "sessions": 391
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1106
+      "sessions": 1113
     },
     {
       "channel": "Organic Search",
@@ -226,7 +226,7 @@
     },
     {
       "channel": "Organic Social",
-      "sessions": 3
+      "sessions": 4
     },
     {
       "channel": "AI Assistant",
