@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-20T10:24:49.724040+00:00",
+  "updated_at": "2026-08-20T11:22:09.381493+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 501,
+    "activeUsers": 502,
     "sessions": 609,
-    "screenPageViews": 969
+    "screenPageViews": 971
   },
   "summary_last_28_days": {
-    "activeUsers": 828,
+    "activeUsers": 829,
     "sessions": 1425,
-    "screenPageViews": 3208
+    "screenPageViews": 3210
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260820",
-      "activeUsers": 5
+      "activeUsers": 6
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 500
+      "views": 501
     },
     {
       "page": "/account",
@@ -173,13 +173,13 @@
       "activeUsers": 16
     },
     {
-      "country": "Russia",
-      "city": "Moscow",
-      "activeUsers": 8
-    },
-    {
       "country": "Spain",
       "city": "(not set)",
+      "activeUsers": 9
+    },
+    {
+      "country": "Russia",
+      "city": "Moscow",
       "activeUsers": 8
     },
     {
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1044
+      "sessions": 1045
     },
     {
       "device": "mobile",
@@ -222,7 +222,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 8
+      "sessions": 6
     },
     {
       "channel": "Organic Social",
