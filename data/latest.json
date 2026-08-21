@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-21T21:19:23.445564+00:00",
+  "updated_at": "2026-08-21T22:19:03.473813+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 528,
-    "sessions": 656,
-    "screenPageViews": 1051
+    "activeUsers": 530,
+    "sessions": 658,
+    "screenPageViews": 1053
   },
   "summary_last_28_days": {
-    "activeUsers": 850,
-    "sessions": 1447,
-    "screenPageViews": 3264
+    "activeUsers": 852,
+    "sessions": 1449,
+    "screenPageViews": 3266
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260821",
-      "activeUsers": 16
+      "activeUsers": 18
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 523
+      "views": 525
     },
     {
       "page": "/account",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1068
+      "sessions": 1069
     },
     {
       "device": "mobile",
-      "sessions": 386
+      "sessions": 387
     },
     {
       "device": "tablet",
@@ -218,15 +218,15 @@
     },
     {
       "channel": "Referral",
-      "sessions": 157
+      "sessions": 158
     },
     {
       "channel": "Unassigned",
-      "sessions": 10
+      "sessions": 11
     },
     {
       "channel": "Organic Social",
-      "sessions": 6
+      "sessions": 7
     },
     {
       "channel": "AI Assistant",
