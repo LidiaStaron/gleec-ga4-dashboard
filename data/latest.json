@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-20T23:21:07.459191+00:00",
+  "updated_at": "2026-08-21T01:02:58.255251+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 523,
-    "sessions": 639,
-    "screenPageViews": 1009
+    "activeUsers": 513,
+    "sessions": 623,
+    "screenPageViews": 976
   },
   "summary_last_28_days": {
-    "activeUsers": 848,
-    "sessions": 1454,
-    "screenPageViews": 3248
+    "activeUsers": 836,
+    "sessions": 1417,
+    "screenPageViews": 3189
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260723",
-      "activeUsers": 24
-    },
     {
       "date": "20260724",
       "activeUsers": 21
@@ -126,46 +122,46 @@
     },
     {
       "date": "20260820",
-      "activeUsers": 30
+      "activeUsers": 33
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 525
+      "views": 527
     },
     {
       "page": "/",
-      "views": 517
+      "views": 512
     },
     {
       "page": "/account",
-      "views": 226
-    },
-    {
-      "page": "/btg-to-usdt",
-      "views": 142
+      "views": 225
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 141
+      "views": 136
+    },
+    {
+      "page": "/settings/general",
+      "views": 114
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "New York",
-      "activeUsers": 396
+      "activeUsers": 395
     },
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 36
+      "activeUsers": 34
     },
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 29
+      "activeUsers": 25
     },
     {
       "country": "Armenia",
@@ -183,24 +179,24 @@
       "activeUsers": 8
     },
     {
-      "country": "Algeria",
-      "city": "Oran",
-      "activeUsers": 7
-    },
-    {
       "country": "United States",
       "city": "Ashburn",
       "activeUsers": 7
+    },
+    {
+      "country": "Algeria",
+      "city": "Oran",
+      "activeUsers": 6
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1067
+      "sessions": 1047
     },
     {
       "device": "mobile",
-      "sessions": 395
+      "sessions": 377
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1125
+      "sessions": 1095
     },
     {
       "channel": "Organic Search",
-      "sessions": 169
+      "sessions": 161
     },
     {
       "channel": "Referral",
-      "sessions": 149
+      "sessions": 150
     },
     {
       "channel": "Unassigned",
