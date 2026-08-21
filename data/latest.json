@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-21T02:58:35.507235+00:00",
+  "updated_at": "2026-08-21T03:53:39.363637+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 517,
-    "sessions": 630,
-    "screenPageViews": 982
+    "activeUsers": 519,
+    "sessions": 632,
+    "screenPageViews": 984
   },
   "summary_last_28_days": {
-    "activeUsers": 840,
-    "sessions": 1423,
-    "screenPageViews": 3195
+    "activeUsers": 842,
+    "sessions": 1424,
+    "screenPageViews": 3197
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260821",
-      "activeUsers": 1
+      "activeUsers": 3
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 513
+      "views": 515
     },
     {
       "page": "/account",
@@ -188,9 +188,9 @@
       "activeUsers": 7
     },
     {
-      "country": "Algeria",
-      "city": "Oran",
-      "activeUsers": 6
+      "country": "United States",
+      "city": "Glenview",
+      "activeUsers": 7
     }
   ],
   "device_breakdown_last_28_days": [
@@ -200,7 +200,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 380
+      "sessions": 381
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1100
+      "sessions": 1101
     },
     {
       "channel": "Organic Search",
