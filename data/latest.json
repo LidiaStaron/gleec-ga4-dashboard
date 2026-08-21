@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-21T10:24:45.642119+00:00",
+  "updated_at": "2026-08-21T11:21:23.753354+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 520,
-    "sessions": 636,
+    "sessions": 637,
     "screenPageViews": 990
   },
   "summary_last_28_days": {
@@ -165,7 +165,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 25
+      "activeUsers": 31
     },
     {
       "country": "Armenia",
@@ -184,12 +184,12 @@
     },
     {
       "country": "United States",
-      "city": "Ashburn",
-      "activeUsers": 7
+      "city": "(not set)",
+      "activeUsers": 8
     },
     {
       "country": "United States",
-      "city": "Glenview",
+      "city": "Ashburn",
       "activeUsers": 7
     }
   ],
@@ -221,11 +221,11 @@
       "sessions": 151
     },
     {
-      "channel": "Unassigned",
-      "sessions": 6
+      "channel": "Organic Social",
+      "sessions": 5
     },
     {
-      "channel": "Organic Social",
+      "channel": "Unassigned",
       "sessions": 5
     },
     {
