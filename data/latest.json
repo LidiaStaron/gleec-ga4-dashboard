@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-21T23:18:53.661197+00:00",
+  "updated_at": "2026-08-22T00:59:01.619902+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 530,
-    "sessions": 658,
-    "screenPageViews": 1053
+    "activeUsers": 521,
+    "sessions": 648,
+    "screenPageViews": 1022
   },
   "summary_last_28_days": {
-    "activeUsers": 852,
-    "sessions": 1449,
-    "screenPageViews": 3266
+    "activeUsers": 839,
+    "sessions": 1414,
+    "screenPageViews": 3180
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260724",
-      "activeUsers": 21
-    },
     {
       "date": "20260725",
       "activeUsers": 26
@@ -126,29 +122,29 @@
     },
     {
       "date": "20260821",
-      "activeUsers": 18
+      "activeUsers": 21
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 544
+      "views": 539
     },
     {
       "page": "/",
-      "views": 525
+      "views": 516
     },
     {
       "page": "/account",
-      "views": 238
-    },
-    {
-      "page": "/gleec-to-usdt",
-      "views": 140
+      "views": 235
     },
     {
       "page": "/settings/general",
       "views": 116
+    },
+    {
+      "page": "/eth-to-usdt",
+      "views": 111
     }
   ],
   "top_locations_last_28_days": [
@@ -178,14 +174,14 @@
       "activeUsers": 9
     },
     {
-      "country": "Russia",
-      "city": "Moscow",
-      "activeUsers": 8
-    },
-    {
       "country": "United States",
       "city": "(not set)",
       "activeUsers": 8
+    },
+    {
+      "country": "Russia",
+      "city": "Moscow",
+      "activeUsers": 7
     },
     {
       "country": "Singapore",
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1069
+      "sessions": 1049
     },
     {
       "device": "mobile",
-      "sessions": 387
+      "sessions": 371
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1112
+      "sessions": 1087
     },
     {
       "channel": "Organic Search",
-      "sessions": 165
+      "sessions": 159
     },
     {
       "channel": "Referral",
-      "sessions": 158
+      "sessions": 153
     },
     {
       "channel": "Unassigned",
