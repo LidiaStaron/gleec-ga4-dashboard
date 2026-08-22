@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-22T17:16:41.363738+00:00",
+  "updated_at": "2026-08-22T18:22:30.266982+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 532,
-    "sessions": 668,
-    "screenPageViews": 1101
+    "sessions": 669,
+    "screenPageViews": 1102
   },
   "summary_last_28_days": {
     "activeUsers": 849,
-    "sessions": 1435,
-    "screenPageViews": 3259
+    "sessions": 1436,
+    "screenPageViews": 3260
   },
   "daily_trend_28_days": [
     {
@@ -144,7 +144,7 @@
     },
     {
       "page": "/settings/general",
-      "views": 119
+      "views": 120
     },
     {
       "page": "/eth-to-usdt",
@@ -200,7 +200,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 381
+      "sessions": 382
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1098
+      "sessions": 1099
     },
     {
       "channel": "Organic Search",
