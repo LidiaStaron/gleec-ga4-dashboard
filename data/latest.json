@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-22T18:22:30.266982+00:00",
+  "updated_at": "2026-08-22T19:19:24.659039+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 532,
-    "sessions": 669,
-    "screenPageViews": 1102
+    "activeUsers": 534,
+    "sessions": 673,
+    "screenPageViews": 1121
   },
   "summary_last_28_days": {
-    "activeUsers": 849,
-    "sessions": 1436,
-    "screenPageViews": 3260
+    "activeUsers": 851,
+    "sessions": 1440,
+    "screenPageViews": 3279
   },
   "daily_trend_28_days": [
     {
@@ -126,25 +126,25 @@
     },
     {
       "date": "20260822",
-      "activeUsers": 15
+      "activeUsers": 17
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 553
+      "views": 557
     },
     {
       "page": "/",
-      "views": 521
+      "views": 523
     },
     {
       "page": "/account",
-      "views": 247
+      "views": 249
     },
     {
       "page": "/settings/general",
-      "views": 120
+      "views": 122
     },
     {
       "page": "/eth-to-usdt",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1060
+      "sessions": 1062
     },
     {
       "device": "mobile",
-      "sessions": 382
+      "sessions": 384
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1099
+      "sessions": 1101
     },
     {
       "channel": "Organic Search",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 157
+      "sessions": 159
     },
     {
       "channel": "Organic Social",
