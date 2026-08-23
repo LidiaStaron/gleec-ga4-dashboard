@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-23T20:17:06.519355+00:00",
+  "updated_at": "2026-08-23T21:16:46.621098+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 1342,
-    "sessions": 1491,
-    "screenPageViews": 1977
+    "activeUsers": 1879,
+    "sessions": 2034,
+    "screenPageViews": 2544
   },
   "summary_last_28_days": {
-    "activeUsers": 1652,
-    "sessions": 2213,
-    "screenPageViews": 4011
+    "activeUsers": 2189,
+    "sessions": 2753,
+    "screenPageViews": 4578
   },
   "daily_trend_28_days": [
     {
@@ -126,36 +126,36 @@
     },
     {
       "date": "20260823",
-      "activeUsers": 819
+      "activeUsers": 1356
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 1015
+      "views": 1362
     },
     {
       "page": "/btc-to-usdt",
-      "views": 568
+      "views": 573
     },
     {
       "page": "/account",
       "views": 252
     },
     {
-      "page": "/settings/general",
-      "views": 116
+      "page": "/xrp-to-usdt",
+      "views": 119
     },
     {
       "page": "/eth-to-usdt",
-      "views": 114
+      "views": 116
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "Turkmenistan",
       "city": "",
-      "activeUsers": 807
+      "activeUsers": 1343
     },
     {
       "country": "United States",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1851
+      "sessions": 2392
     },
     {
       "device": "mobile",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1868
+      "sessions": 2408
     },
     {
       "channel": "Referral",
@@ -218,11 +218,11 @@
     },
     {
       "channel": "Organic Search",
-      "sessions": 161
+      "sessions": 162
     },
     {
       "channel": "Unassigned",
-      "sessions": 9
+      "sessions": 10
     },
     {
       "channel": "Organic Social",
