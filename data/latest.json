@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-23T18:22:12.746750+00:00",
+  "updated_at": "2026-08-23T19:19:14.703324+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 534,
-    "sessions": 684,
-    "screenPageViews": 1152
+    "activeUsers": 625,
+    "sessions": 775,
+    "screenPageViews": 1248
   },
   "summary_last_28_days": {
-    "activeUsers": 844,
-    "sessions": 1404,
-    "screenPageViews": 3186
+    "activeUsers": 935,
+    "sessions": 1497,
+    "screenPageViews": 3282
   },
   "daily_trend_28_days": [
     {
@@ -126,21 +126,21 @@
     },
     {
       "date": "20260823",
-      "activeUsers": 11
+      "activeUsers": 102
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 564
+      "views": 566
     },
     {
       "page": "/",
-      "views": 520
+      "views": 565
     },
     {
       "page": "/account",
-      "views": 250
+      "views": 252
     },
     {
       "page": "/settings/general",
@@ -156,6 +156,11 @@
       "country": "United States",
       "city": "New York",
       "activeUsers": 394
+    },
+    {
+      "country": "Turkmenistan",
+      "city": "",
+      "activeUsers": 90
     },
     {
       "country": "United States",
@@ -186,21 +191,16 @@
       "country": "Russia",
       "city": "Moscow",
       "activeUsers": 7
-    },
-    {
-      "country": "Singapore",
-      "city": "Singapore",
-      "activeUsers": 7
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1043
+      "sessions": 1134
     },
     {
       "device": "mobile",
-      "sessions": 368
+      "sessions": 369
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1064
+      "sessions": 1156
     },
     {
       "channel": "Referral",
