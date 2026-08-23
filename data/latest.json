@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-23T19:19:14.703324+00:00",
+  "updated_at": "2026-08-23T20:17:06.519355+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 625,
-    "sessions": 775,
-    "screenPageViews": 1248
+    "activeUsers": 1342,
+    "sessions": 1491,
+    "screenPageViews": 1977
   },
   "summary_last_28_days": {
-    "activeUsers": 935,
-    "sessions": 1497,
-    "screenPageViews": 3282
+    "activeUsers": 1652,
+    "sessions": 2213,
+    "screenPageViews": 4011
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20260823",
-      "activeUsers": 102
+      "activeUsers": 819
     }
   ],
   "top_pages_last_28_days": [
     {
-      "page": "/btc-to-usdt",
-      "views": 566
+      "page": "/",
+      "views": 1015
     },
     {
-      "page": "/",
-      "views": 565
+      "page": "/btc-to-usdt",
+      "views": 568
     },
     {
       "page": "/account",
@@ -148,19 +148,19 @@
     },
     {
       "page": "/eth-to-usdt",
-      "views": 113
+      "views": 114
     }
   ],
   "top_locations_last_28_days": [
     {
+      "country": "Turkmenistan",
+      "city": "",
+      "activeUsers": 807
+    },
+    {
       "country": "United States",
       "city": "New York",
       "activeUsers": 394
-    },
-    {
-      "country": "Turkmenistan",
-      "city": "",
-      "activeUsers": 90
     },
     {
       "country": "United States",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1134
+      "sessions": 1851
     },
     {
       "device": "mobile",
-      "sessions": 369
+      "sessions": 370
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 1156
+      "sessions": 1868
     },
     {
       "channel": "Referral",
@@ -221,12 +221,12 @@
       "sessions": 161
     },
     {
-      "channel": "Organic Social",
-      "sessions": 8
+      "channel": "Unassigned",
+      "sessions": 9
     },
     {
-      "channel": "Unassigned",
-      "sessions": 6
+      "channel": "Organic Social",
+      "sessions": 8
     },
     {
       "channel": "AI Assistant",
