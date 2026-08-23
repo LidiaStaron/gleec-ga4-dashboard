@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T10:18:45.628716+00:00",
+  "updated_at": "2026-08-23T11:16:55.625988+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 533,
@@ -226,7 +226,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 7
+      "sessions": 6
     },
     {
       "channel": "AI Assistant",
