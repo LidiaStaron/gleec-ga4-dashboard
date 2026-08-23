@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-23T22:16:52.873082+00:00",
+  "updated_at": "2026-08-23T23:16:38.338717+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 2337,
-    "sessions": 2495,
-    "screenPageViews": 3158
+    "activeUsers": 3194,
+    "sessions": 3423,
+    "screenPageViews": 4162
   },
   "summary_last_28_days": {
-    "activeUsers": 2647,
-    "sessions": 3251,
-    "screenPageViews": 5192
+    "activeUsers": 3504,
+    "sessions": 4149,
+    "screenPageViews": 6196
   },
   "daily_trend_28_days": [
     {
@@ -126,36 +126,36 @@
     },
     {
       "date": "20260823",
-      "activeUsers": 1815
+      "activeUsers": 2673
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 1696
+      "views": 1700
     },
     {
       "page": "/btc-to-usdt",
-      "views": 573
+      "views": 1136
+    },
+    {
+      "page": "/signinapp",
+      "views": 338
+    },
+    {
+      "page": "/terms-of-use",
+      "views": 270
     },
     {
       "page": "/account",
       "views": 252
-    },
-    {
-      "page": "/terms-of-use",
-      "views": 178
-    },
-    {
-      "page": "/signinapp",
-      "views": 167
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "Turkmenistan",
       "city": "",
-      "activeUsers": 1800
+      "activeUsers": 2657
     },
     {
       "country": "United States",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 2845
+      "sessions": 3777
     },
     {
       "device": "mobile",
-      "sessions": 370
+      "sessions": 371
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 2859
+      "sessions": 3785
     },
     {
       "channel": "Referral",
