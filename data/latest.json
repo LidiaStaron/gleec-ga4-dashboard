@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-24T13:47:09.716698+00:00",
+  "updated_at": "2026-08-24T14:37:21.084269+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 3444,
-    "sessions": 3580,
-    "screenPageViews": 4477
+    "activeUsers": 3449,
+    "sessions": 3585,
+    "screenPageViews": 4487
   },
   "summary_last_28_days": {
-    "activeUsers": 4142,
-    "sessions": 4614,
-    "screenPageViews": 6877
+    "activeUsers": 4147,
+    "sessions": 4621,
+    "screenPageViews": 6887
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260824",
-      "activeUsers": 6
+      "activeUsers": 11
     }
   ],
   "top_pages_last_28_days": [
@@ -163,14 +163,14 @@
       "activeUsers": 394
     },
     {
+      "country": "United States",
+      "city": "North Charleston",
+      "activeUsers": 35
+    },
+    {
       "country": "Germany",
       "city": "(not set)",
       "activeUsers": 31
-    },
-    {
-      "country": "United States",
-      "city": "North Charleston",
-      "activeUsers": 30
     },
     {
       "country": "Armenia",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4294
+      "sessions": 4300
     },
     {
       "device": "mobile",
-      "sessions": 358
+      "sessions": 359
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4294
+      "sessions": 4300
     },
     {
       "channel": "Referral",
