@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-24T09:41:46.123393+00:00",
+  "updated_at": "2026-08-24T10:32:56.441672+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 3443,
-    "sessions": 3658,
+    "sessions": 3576,
     "screenPageViews": 4468
   },
   "summary_last_28_days": {
     "activeUsers": 4141,
-    "sessions": 4752,
+    "sessions": 4609,
     "screenPageViews": 6868
   },
   "daily_trend_28_days": [
@@ -154,7 +154,7 @@
   "top_locations_last_28_days": [
     {
       "country": "Turkmenistan",
-      "city": "",
+      "city": "(not set)",
       "activeUsers": 3307
     },
     {
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4402
+      "sessions": 4291
     },
     {
       "device": "mobile",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4398
+      "sessions": 4291
     },
     {
       "channel": "Referral",
@@ -221,11 +221,11 @@
       "sessions": 158
     },
     {
-      "channel": "Unassigned",
-      "sessions": 11
+      "channel": "Organic Social",
+      "sessions": 7
     },
     {
-      "channel": "Organic Social",
+      "channel": "Unassigned",
       "sessions": 7
     },
     {
