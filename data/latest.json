@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-25T17:27:21.127085+00:00",
+  "updated_at": "2026-08-25T18:33:39.817874+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 3437,
-    "sessions": 3577,
-    "screenPageViews": 4468
+    "activeUsers": 3440,
+    "sessions": 3579,
+    "screenPageViews": 4472
   },
   "summary_last_28_days": {
-    "activeUsers": 4129,
-    "sessions": 4586,
-    "screenPageViews": 6814
+    "activeUsers": 4132,
+    "sessions": 4587,
+    "screenPageViews": 6818
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260825",
-      "activeUsers": 6
+      "activeUsers": 9
     }
   ],
   "top_pages_last_28_days": [
@@ -140,7 +140,7 @@
     },
     {
       "page": "/signinapp",
-      "views": 350
+      "views": 351
     },
     {
       "page": "/terms-of-use",
@@ -165,7 +165,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 35
+      "activeUsers": 38
     },
     {
       "country": "Germany",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4281
+      "sessions": 4282
     },
     {
       "device": "mobile",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4257
+      "sessions": 4260
     },
     {
       "channel": "Referral",
