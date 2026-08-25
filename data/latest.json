@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-25T12:39:05.479276+00:00",
+  "updated_at": "2026-08-25T13:45:10.076108+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 3437,
-    "sessions": 3574,
-    "screenPageViews": 4459
+    "sessions": 3575,
+    "screenPageViews": 4463
   },
   "summary_last_28_days": {
     "activeUsers": 4129,
-    "sessions": 4580,
-    "screenPageViews": 6805
+    "sessions": 4581,
+    "screenPageViews": 6809
   },
   "daily_trend_28_days": [
     {
@@ -132,11 +132,11 @@
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1753
+      "views": 1754
     },
     {
       "page": "/",
-      "views": 1680
+      "views": 1681
     },
     {
       "page": "/signinapp",
@@ -230,7 +230,7 @@
     },
     {
       "channel": "AI Assistant",
-      "sessions": 4
+      "sessions": 5
     },
     {
       "channel": "Cross-network",
