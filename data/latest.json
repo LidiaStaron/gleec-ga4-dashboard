@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-25T14:40:16.453845+00:00",
+  "updated_at": "2026-08-25T15:37:51.096519+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 3437,
     "sessions": 3577,
-    "screenPageViews": 4464
+    "screenPageViews": 4465
   },
   "summary_last_28_days": {
     "activeUsers": 4129,
     "sessions": 4585,
-    "screenPageViews": 6810
+    "screenPageViews": 6811
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260825",
-      "activeUsers": 4
+      "activeUsers": 5
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 1681
+      "views": 1682
     },
     {
       "page": "/signinapp",
@@ -230,7 +230,7 @@
     },
     {
       "channel": "AI Assistant",
-      "sessions": 5
+      "sessions": 6
     },
     {
       "channel": "Cross-network",
