@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-25T18:33:39.817874+00:00",
+  "updated_at": "2026-08-25T19:27:41.334864+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 3440,
-    "sessions": 3579,
-    "screenPageViews": 4472
+    "sessions": 3581,
+    "screenPageViews": 4474
   },
   "summary_last_28_days": {
     "activeUsers": 4132,
-    "sessions": 4587,
-    "screenPageViews": 6818
+    "sessions": 4590,
+    "screenPageViews": 6820
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260825",
-      "activeUsers": 9
+      "activeUsers": 10
     }
   ],
   "top_pages_last_28_days": [
@@ -140,11 +140,11 @@
     },
     {
       "page": "/signinapp",
-      "views": 351
+      "views": 352
     },
     {
       "page": "/terms-of-use",
-      "views": 269
+      "views": 270
     },
     {
       "page": "/account",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4282
+      "sessions": 4284
     },
     {
       "device": "mobile",
@@ -214,7 +214,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 155
+      "sessions": 156
     },
     {
       "channel": "Organic Search",
