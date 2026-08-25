@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-25T02:54:04.530515+00:00",
+  "updated_at": "2026-08-25T03:43:58.323950+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 3436,
     "sessions": 3571,
-    "screenPageViews": 4431
+    "screenPageViews": 4438
   },
   "summary_last_28_days": {
     "activeUsers": 4129,
     "sessions": 4578,
-    "screenPageViews": 6777
+    "screenPageViews": 6784
   },
   "daily_trend_28_days": [
     {
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 241
+      "views": 242
     }
   ],
   "top_locations_last_28_days": [
