@@ -1,13 +1,5 @@
 [
   {
-    "updated_at": "2026-07-29T08:33:14.389840+00:00",
-    "summary": {
-      "activeUsers": 153,
-      "sessions": 358,
-      "screenPageViews": 838
-    }
-  },
-  {
     "updated_at": "2026-07-29T11:22:36.840141+00:00",
     "summary": {
       "activeUsers": 155,
@@ -3997,6 +3989,14 @@
       "activeUsers": 3429,
       "sessions": 3554,
       "screenPageViews": 4425
+    }
+  },
+  {
+    "updated_at": "2026-08-26T08:37:36.750053+00:00",
+    "summary": {
+      "activeUsers": 3429,
+      "sessions": 3558,
+      "screenPageViews": 4430
     }
   }
 ]
