@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-26T01:02:50.557963+00:00",
+  "updated_at": "2026-08-26T03:00:07.248923+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 3428,
-    "sessions": 3556,
-    "screenPageViews": 4420
+    "activeUsers": 3429,
+    "sessions": 3560,
+    "screenPageViews": 4422
   },
   "summary_last_28_days": {
-    "activeUsers": 4112,
-    "sessions": 4526,
-    "screenPageViews": 6714
+    "activeUsers": 4113,
+    "sessions": 4530,
+    "screenPageViews": 6716
   },
   "daily_trend_28_days": [
     {
@@ -122,17 +122,17 @@
     },
     {
       "date": "20260825",
-      "activeUsers": 18
+      "activeUsers": 19
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1715
+      "views": 1716
     },
     {
       "page": "/",
-      "views": 1679
+      "views": 1680
     },
     {
       "page": "/signinapp",
@@ -184,15 +184,15 @@
       "activeUsers": 8
     },
     {
-      "country": "United States",
-      "city": "Ashburn",
+      "country": "Iran",
+      "city": "Tehran",
       "activeUsers": 7
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4258
+      "sessions": 4262
     },
     {
       "device": "mobile",
@@ -202,7 +202,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4212
+      "sessions": 4215
     },
     {
       "channel": "Referral",
