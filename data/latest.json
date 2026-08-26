@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-26T13:51:19.015192+00:00",
+  "updated_at": "2026-08-26T14:39:28.666155+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 3429,
-    "sessions": 3561,
-    "screenPageViews": 4437
+    "activeUsers": 3430,
+    "sessions": 3562,
+    "screenPageViews": 4438
   },
   "summary_last_28_days": {
-    "activeUsers": 4113,
+    "activeUsers": 4114,
     "sessions": 4541,
-    "screenPageViews": 6731
+    "screenPageViews": 6732
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260826",
-      "activeUsers": 3
+      "activeUsers": 4
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 1680
+      "views": 1681
     },
     {
       "page": "/signinapp",
@@ -184,19 +184,19 @@
     },
     {
       "country": "United States",
-      "city": "Glenview",
+      "city": "Ashburn",
       "activeUsers": 8
     },
     {
-      "country": "Iran",
-      "city": "Tehran",
-      "activeUsers": 7
+      "country": "United States",
+      "city": "Glenview",
+      "activeUsers": 8
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4270
+      "sessions": 4272
     },
     {
       "device": "mobile",
