@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-27T02:50:38.028383+00:00",
+  "updated_at": "2026-08-27T13:40:53.686931+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 3431,
-    "sessions": 3542,
-    "screenPageViews": 4353
+    "activeUsers": 3433,
+    "sessions": 3569,
+    "screenPageViews": 4377
   },
   "summary_last_28_days": {
-    "activeUsers": 4117,
-    "sessions": 4542,
-    "screenPageViews": 6728
+    "activeUsers": 4119,
+    "sessions": 4569,
+    "screenPageViews": 6752
   },
   "daily_trend_28_days": [
     {
@@ -123,12 +123,16 @@
     {
       "date": "20260826",
       "activeUsers": 23
+    },
+    {
+      "date": "20260827",
+      "activeUsers": 7
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1719
+      "views": 1724
     },
     {
       "page": "/",
@@ -136,7 +140,7 @@
     },
     {
       "page": "/signinapp",
-      "views": 356
+      "views": 357
     },
     {
       "page": "/terms-of-use",
@@ -144,7 +148,7 @@
     },
     {
       "page": "/account",
-      "views": 233
+      "views": 234
     }
   ],
   "top_locations_last_28_days": [
@@ -176,12 +180,12 @@
     {
       "country": "Georgia",
       "city": "Tbilisi",
-      "activeUsers": 9
+      "activeUsers": 10
     },
     {
       "country": "Spain",
       "city": "(not set)",
-      "activeUsers": 8
+      "activeUsers": 9
     },
     {
       "country": "United States",
@@ -192,32 +196,32 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4277
+      "sessions": 4286
     },
     {
       "device": "mobile",
-      "sessions": 310
+      "sessions": 317
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4223
+      "sessions": 4235
     },
     {
       "channel": "Referral",
-      "sessions": 158
+      "sessions": 161
     },
     {
       "channel": "Organic Search",
-      "sessions": 141
-    },
-    {
-      "channel": "Organic Social",
-      "sessions": 7
+      "sessions": 142
     },
     {
       "channel": "Unassigned",
+      "sessions": 8
+    },
+    {
+      "channel": "Organic Social",
       "sessions": 7
     },
     {
