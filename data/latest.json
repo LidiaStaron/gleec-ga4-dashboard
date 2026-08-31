@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-30T23:06:16.461044+00:00",
+  "updated_at": "2026-08-31T03:17:12.568316+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 3422,
-    "sessions": 3486,
-    "screenPageViews": 4304
+    "activeUsers": 106,
+    "sessions": 218,
+    "screenPageViews": 507
   },
   "summary_last_28_days": {
-    "activeUsers": 4126,
-    "sessions": 4505,
-    "screenPageViews": 6619
+    "activeUsers": 4111,
+    "sessions": 4476,
+    "screenPageViews": 6502
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260802",
-      "activeUsers": 18
-    },
     {
       "date": "20260803",
       "activeUsers": 27
@@ -131,16 +127,16 @@
   ],
   "top_pages_last_28_days": [
     {
-      "page": "/btc-to-usdt",
-      "views": 1691
+      "page": "/",
+      "views": 1671
     },
     {
-      "page": "/",
-      "views": 1678
+      "page": "/btc-to-usdt",
+      "views": 1658
     },
     {
       "page": "/signinapp",
-      "views": 364
+      "views": 360
     },
     {
       "page": "/terms-of-use",
@@ -148,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 217
+      "views": 206
     }
   ],
   "top_locations_last_28_days": [
@@ -196,36 +192,36 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4216
+      "sessions": 4199
     },
     {
       "device": "mobile",
-      "sessions": 320
+      "sessions": 307
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4199
+      "sessions": 4184
     },
     {
       "channel": "Referral",
-      "sessions": 158
+      "sessions": 151
     },
     {
       "channel": "Organic Search",
-      "sessions": 142
+      "sessions": 133
     },
     {
       "channel": "Organic Social",
       "sessions": 7
     },
     {
-      "channel": "Unassigned",
-      "sessions": 7
+      "channel": "AI Assistant",
+      "sessions": 6
     },
     {
-      "channel": "AI Assistant",
+      "channel": "Unassigned",
       "sessions": 6
     }
   ]
