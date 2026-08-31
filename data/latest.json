@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-31T10:26:05.645143+00:00",
+  "updated_at": "2026-08-31T17:49:26.541985+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 109,
-    "sessions": 225,
-    "screenPageViews": 531
+    "activeUsers": 118,
+    "sessions": 245,
+    "screenPageViews": 692
   },
   "summary_last_28_days": {
-    "activeUsers": 4114,
-    "sessions": 4486,
-    "screenPageViews": 6526
+    "activeUsers": 4121,
+    "sessions": 4511,
+    "screenPageViews": 6687
   },
   "daily_trend_28_days": [
     {
@@ -126,29 +126,29 @@
     },
     {
       "date": "20260831",
-      "activeUsers": 5
+      "activeUsers": 17
     }
   ],
   "top_pages_last_28_days": [
     {
-      "page": "/",
-      "views": 1673
+      "page": "/btc-to-usdt",
+      "views": 1688
     },
     {
-      "page": "/btc-to-usdt",
-      "views": 1663
+      "page": "/",
+      "views": 1679
     },
     {
       "page": "/signinapp",
-      "views": 361
+      "views": 365
     },
     {
       "page": "/terms-of-use",
-      "views": 278
+      "views": 289
     },
     {
       "page": "/account",
-      "views": 209
+      "views": 214
     }
   ],
   "top_locations_last_28_days": [
@@ -175,12 +175,12 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 11
+      "activeUsers": 13
     },
     {
       "country": "Georgia",
       "city": "Tbilisi",
-      "activeUsers": 11
+      "activeUsers": 12
     },
     {
       "country": "United States",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4199
+      "sessions": 4219
     },
     {
       "device": "mobile",
@@ -206,23 +206,23 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4190
+      "sessions": 4201
     },
     {
       "channel": "Referral",
-      "sessions": 151
+      "sessions": 153
     },
     {
       "channel": "Organic Search",
-      "sessions": 134
+      "sessions": 138
+    },
+    {
+      "channel": "AI Assistant",
+      "sessions": 7
     },
     {
       "channel": "Organic Social",
       "sessions": 7
-    },
-    {
-      "channel": "AI Assistant",
-      "sessions": 6
     },
     {
       "channel": "Unassigned",
