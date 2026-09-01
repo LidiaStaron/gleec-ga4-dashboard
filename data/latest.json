@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-01T07:10:09.288665+00:00",
+  "updated_at": "2026-09-01T13:01:00.099864+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 113,
-    "sessions": 232,
-    "screenPageViews": 667
+    "activeUsers": 117,
+    "sessions": 237,
+    "screenPageViews": 676
   },
   "summary_last_28_days": {
-    "activeUsers": 4115,
-    "sessions": 4493,
-    "screenPageViews": 6563
+    "activeUsers": 4119,
+    "sessions": 4501,
+    "screenPageViews": 6572
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260901",
-      "activeUsers": 5
+      "activeUsers": 9
     }
   ],
   "top_pages_last_28_days": [
@@ -144,7 +144,7 @@
     },
     {
       "page": "/terms-of-use",
-      "views": 290
+      "views": 291
     },
     {
       "page": "/account",
@@ -170,7 +170,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 36
+      "activeUsers": 37
     },
     {
       "country": "Armenia",
@@ -183,30 +183,30 @@
       "activeUsers": 12
     },
     {
-      "country": "United States",
-      "city": "Glenview",
+      "country": "Spain",
+      "city": "(not set)",
       "activeUsers": 9
     },
     {
-      "country": "Iran",
-      "city": "Tehran",
-      "activeUsers": 8
+      "country": "United States",
+      "city": "Glenview",
+      "activeUsers": 9
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4204
+      "sessions": 4207
     },
     {
       "device": "mobile",
-      "sessions": 304
+      "sessions": 307
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4176
+      "sessions": 4189
     },
     {
       "channel": "Referral",
