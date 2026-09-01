@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-01T13:01:00.099864+00:00",
+  "updated_at": "2026-09-01T17:32:54.092076+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 117,
-    "sessions": 237,
-    "screenPageViews": 676
+    "activeUsers": 122,
+    "sessions": 245,
+    "screenPageViews": 701
   },
   "summary_last_28_days": {
-    "activeUsers": 4119,
-    "sessions": 4501,
-    "screenPageViews": 6572
+    "activeUsers": 4123,
+    "sessions": 4507,
+    "screenPageViews": 6597
   },
   "daily_trend_28_days": [
     {
@@ -126,25 +126,25 @@
     },
     {
       "date": "20260901",
-      "activeUsers": 9
+      "activeUsers": 16
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1669
+      "views": 1671
     },
     {
       "page": "/",
-      "views": 1663
+      "views": 1664
     },
     {
       "page": "/signinapp",
-      "views": 365
+      "views": 366
     },
     {
       "page": "/terms-of-use",
-      "views": 291
+      "views": 292
     },
     {
       "page": "/account",
@@ -165,7 +165,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 40
+      "activeUsers": 41
     },
     {
       "country": "Germany",
@@ -175,7 +175,7 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 12
+      "activeUsers": 13
     },
     {
       "country": "Georgia",
@@ -196,25 +196,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4207
+      "sessions": 4211
     },
     {
       "device": "mobile",
-      "sessions": 307
+      "sessions": 311
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4189
+      "sessions": 4194
     },
     {
       "channel": "Referral",
-      "sessions": 149
+      "sessions": 150
     },
     {
       "channel": "Organic Search",
-      "sessions": 137
+      "sessions": 138
     },
     {
       "channel": "Organic Social",
