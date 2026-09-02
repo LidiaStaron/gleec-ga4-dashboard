@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-09-01T22:57:46.893684+00:00",
+  "updated_at": "2026-09-02T00:53:18.143817+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 128,
-    "sessions": 255,
-    "screenPageViews": 717
+    "activeUsers": 117,
+    "sessions": 224,
+    "screenPageViews": 653
   },
   "summary_last_28_days": {
-    "activeUsers": 4129,
-    "sessions": 4511,
-    "screenPageViews": 6613
+    "activeUsers": 4114,
+    "sessions": 4492,
+    "screenPageViews": 6544
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260804",
-      "activeUsers": 24
-    },
     {
       "date": "20260805",
       "activeUsers": 23
@@ -126,29 +122,29 @@
     },
     {
       "date": "20260901",
-      "activeUsers": 24
+      "activeUsers": 26
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1675
+      "views": 1665
     },
     {
       "page": "/",
-      "views": 1667
+      "views": 1661
     },
     {
       "page": "/signinapp",
-      "views": 366
+      "views": 363
     },
     {
       "page": "/terms-of-use",
-      "views": 292
+      "views": 290
     },
     {
       "page": "/account",
-      "views": 171
+      "views": 167
     }
   ],
   "top_locations_last_28_days": [
@@ -170,7 +166,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 37
+      "activeUsers": 30
     },
     {
       "country": "Armenia",
@@ -185,7 +181,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 10
+      "activeUsers": 11
     },
     {
       "country": "Spain",
@@ -196,25 +192,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4218
+      "sessions": 4203
     },
     {
       "device": "mobile",
-      "sessions": 313
+      "sessions": 297
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4195
+      "sessions": 4182
     },
     {
       "channel": "Referral",
-      "sessions": 152
+      "sessions": 149
     },
     {
       "channel": "Organic Search",
-      "sessions": 141
+      "sessions": 136
     },
     {
       "channel": "Organic Social",
