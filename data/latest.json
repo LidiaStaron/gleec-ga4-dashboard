@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-03T19:36:20.167902+00:00",
+  "updated_at": "2026-09-03T22:12:27.950506+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 131,
-    "sessions": 249,
-    "screenPageViews": 732
+    "sessions": 251,
+    "screenPageViews": 734
   },
   "summary_last_28_days": {
     "activeUsers": 4127,
     "sessions": 4517,
-    "screenPageViews": 6702
+    "screenPageViews": 6704
   },
   "daily_trend_28_days": [
     {
@@ -200,7 +200,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 305
+      "sessions": 306
     }
   ],
   "traffic_sources_last_28_days": [
