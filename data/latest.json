@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-04T14:44:17.913964+00:00",
+  "updated_at": "2026-09-04T18:01:52.313756+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 128,
-    "sessions": 238,
-    "screenPageViews": 716
+    "activeUsers": 132,
+    "sessions": 247,
+    "screenPageViews": 778
   },
   "summary_last_28_days": {
-    "activeUsers": 4117,
-    "sessions": 4490,
-    "screenPageViews": 6635
+    "activeUsers": 4121,
+    "sessions": 4496,
+    "screenPageViews": 6697
   },
   "daily_trend_28_days": [
     {
@@ -126,29 +126,29 @@
     },
     {
       "date": "20260904",
-      "activeUsers": 9
+      "activeUsers": 15
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1691
+      "views": 1699
     },
     {
       "page": "/",
-      "views": 1668
+      "views": 1669
     },
     {
       "page": "/signinapp",
-      "views": 368
+      "views": 370
     },
     {
       "page": "/terms-of-use",
-      "views": 296
+      "views": 297
     },
     {
       "page": "/account",
-      "views": 161
+      "views": 173
     }
   ],
   "top_locations_last_28_days": [
@@ -165,7 +165,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 40
+      "activeUsers": 42
     },
     {
       "country": "Germany",
@@ -196,25 +196,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4196
+      "sessions": 4200
     },
     {
       "device": "mobile",
-      "sessions": 302
+      "sessions": 303
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4165
+      "sessions": 4172
     },
     {
       "channel": "Referral",
-      "sessions": 154
+      "sessions": 155
     },
     {
       "channel": "Organic Search",
-      "sessions": 132
+      "sessions": 135
     },
     {
       "channel": "Organic Social",
@@ -222,7 +222,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 8
+      "sessions": 9
     },
     {
       "channel": "AI Assistant",
