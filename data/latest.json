@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-04T10:29:02.258415+00:00",
+  "updated_at": "2026-09-04T14:44:17.913964+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 126,
-    "sessions": 234,
-    "screenPageViews": 686
+    "activeUsers": 128,
+    "sessions": 238,
+    "screenPageViews": 716
   },
   "summary_last_28_days": {
-    "activeUsers": 4116,
-    "sessions": 4498,
-    "screenPageViews": 6605
+    "activeUsers": 4117,
+    "sessions": 4490,
+    "screenPageViews": 6635
   },
   "daily_trend_28_days": [
     {
@@ -126,29 +126,29 @@
     },
     {
       "date": "20260904",
-      "activeUsers": 6
+      "activeUsers": 9
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1688
+      "views": 1691
     },
     {
       "page": "/",
-      "views": 1667
+      "views": 1668
     },
     {
       "page": "/signinapp",
-      "views": 365
+      "views": 368
     },
     {
       "page": "/terms-of-use",
       "views": 296
     },
     {
-      "page": "/xrp-to-usdt",
-      "views": 159
+      "page": "/account",
+      "views": 161
     }
   ],
   "top_locations_last_28_days": [
@@ -170,7 +170,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 29
+      "activeUsers": 38
     },
     {
       "country": "Singapore",
@@ -196,25 +196,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4197
+      "sessions": 4196
     },
     {
       "device": "mobile",
-      "sessions": 301
+      "sessions": 302
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4182
+      "sessions": 4165
     },
     {
       "channel": "Referral",
-      "sessions": 152
+      "sessions": 154
     },
     {
       "channel": "Organic Search",
-      "sessions": 129
+      "sessions": 132
     },
     {
       "channel": "Organic Social",
@@ -227,10 +227,6 @@
     {
       "channel": "AI Assistant",
       "sessions": 7
-    },
-    {
-      "channel": "Cross-network",
-      "sessions": 1
     }
   ]
 }
