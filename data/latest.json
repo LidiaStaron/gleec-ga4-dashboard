@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-09-04T23:39:50.134223+00:00",
+  "updated_at": "2026-09-05T02:43:05.697507+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 140,
-    "sessions": 258,
-    "screenPageViews": 806
+    "activeUsers": 124,
+    "sessions": 232,
+    "screenPageViews": 763
   },
   "summary_last_28_days": {
-    "activeUsers": 4129,
-    "sessions": 4502,
-    "screenPageViews": 6725
+    "activeUsers": 4113,
+    "sessions": 4477,
+    "screenPageViews": 6624
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260807",
-      "activeUsers": 23
-    },
     {
       "date": "20260808",
       "activeUsers": 17
@@ -132,15 +128,15 @@
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1703
+      "views": 1680
     },
     {
       "page": "/",
-      "views": 1675
+      "views": 1666
     },
     {
       "page": "/signinapp",
-      "views": 371
+      "views": 370
     },
     {
       "page": "/terms-of-use",
@@ -148,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 173
+      "views": 169
     }
   ],
   "top_locations_last_28_days": [
@@ -170,7 +166,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 38
+      "activeUsers": 36
     },
     {
       "country": "Singapore",
@@ -196,25 +192,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4202
+      "sessions": 4191
     },
     {
       "device": "mobile",
-      "sessions": 309
+      "sessions": 296
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4176
+      "sessions": 4151
     },
     {
       "channel": "Referral",
-      "sessions": 156
+      "sessions": 151
     },
     {
       "channel": "Organic Search",
-      "sessions": 140
+      "sessions": 135
     },
     {
       "channel": "Organic Social",
@@ -222,7 +218,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 9
+      "sessions": 8
     },
     {
       "channel": "AI Assistant",
