@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-09T12:40:58.384260+00:00",
+  "updated_at": "2026-09-09T16:59:48.444407+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 125,
-    "sessions": 256,
-    "screenPageViews": 784
+    "activeUsers": 128,
+    "sessions": 264,
+    "screenPageViews": 813
   },
   "summary_last_28_days": {
-    "activeUsers": 4122,
-    "sessions": 4537,
-    "screenPageViews": 6643
+    "activeUsers": 4124,
+    "sessions": 4556,
+    "screenPageViews": 6672
   },
   "daily_trend_28_days": [
     {
@@ -126,13 +126,13 @@
     },
     {
       "date": "20260909",
-      "activeUsers": 6
+      "activeUsers": 10
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1672
+      "views": 1682
     },
     {
       "page": "/",
@@ -140,7 +140,7 @@
     },
     {
       "page": "/signinapp",
-      "views": 368
+      "views": 370
     },
     {
       "page": "/terms-of-use",
@@ -148,7 +148,7 @@
     },
     {
       "page": "/account",
-      "views": 162
+      "views": 163
     }
   ],
   "top_locations_last_28_days": [
@@ -163,13 +163,13 @@
       "activeUsers": 392
     },
     {
-      "country": "Germany",
-      "city": "(not set)",
-      "activeUsers": 36
-    },
-    {
       "country": "United States",
       "city": "North Charleston",
+      "activeUsers": 37
+    },
+    {
+      "country": "Germany",
+      "city": "(not set)",
       "activeUsers": 36
     },
     {
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4191
+      "sessions": 4197
     },
     {
       "device": "mobile",
-      "sessions": 325
+      "sessions": 327
     },
     {
       "device": "tablet",
@@ -210,11 +210,11 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4209
+      "sessions": 4221
     },
     {
       "channel": "Referral",
-      "sessions": 152
+      "sessions": 154
     },
     {
       "channel": "Organic Search",
