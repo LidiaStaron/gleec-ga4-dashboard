@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-09-08T23:08:24.627950+00:00",
+  "updated_at": "2026-09-09T02:50:39.424333+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 143,
-    "sessions": 278,
-    "screenPageViews": 829
+    "activeUsers": 120,
+    "sessions": 243,
+    "screenPageViews": 747
   },
   "summary_last_28_days": {
-    "activeUsers": 4134,
-    "sessions": 4549,
-    "screenPageViews": 6737
+    "activeUsers": 4117,
+    "sessions": 4522,
+    "screenPageViews": 6606
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260811",
-      "activeUsers": 25
-    },
     {
       "date": "20260812",
       "activeUsers": 14
@@ -131,24 +127,24 @@
   ],
   "top_pages_last_28_days": [
     {
-      "page": "/btc-to-usdt",
-      "views": 1686
+      "page": "/",
+      "views": 1664
     },
     {
-      "page": "/",
-      "views": 1678
+      "page": "/btc-to-usdt",
+      "views": 1664
     },
     {
       "page": "/signinapp",
-      "views": 375
+      "views": 366
     },
     {
       "page": "/terms-of-use",
-      "views": 293
+      "views": 287
     },
     {
       "page": "/account",
-      "views": 164
+      "views": 162
     }
   ],
   "top_locations_last_28_days": [
@@ -180,7 +176,7 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 14
+      "activeUsers": 13
     },
     {
       "country": "Georgia",
@@ -190,17 +186,17 @@
     {
       "country": "Iran",
       "city": "Tehran",
-      "activeUsers": 10
+      "activeUsers": 9
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4208
+      "sessions": 4187
     },
     {
       "device": "mobile",
-      "sessions": 328
+      "sessions": 319
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4213
+      "sessions": 4202
     },
     {
       "channel": "Referral",
-      "sessions": 156
+      "sessions": 150
     },
     {
       "channel": "Organic Search",
-      "sessions": 140
+      "sessions": 134
     },
     {
       "channel": "Organic Social",
