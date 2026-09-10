@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-09-09T22:12:46.738686+00:00",
+  "updated_at": "2026-09-10T00:47:18.710865+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 132,
-    "sessions": 270,
-    "screenPageViews": 829
+    "activeUsers": 121,
+    "sessions": 241,
+    "screenPageViews": 707
   },
   "summary_last_28_days": {
-    "activeUsers": 4127,
-    "sessions": 4558,
-    "screenPageViews": 6688
+    "activeUsers": 4120,
+    "sessions": 4518,
+    "screenPageViews": 6665
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260812",
-      "activeUsers": 14
-    },
     {
       "date": "20260813",
       "activeUsers": 16
@@ -126,29 +122,29 @@
     },
     {
       "date": "20260909",
-      "activeUsers": 14
+      "activeUsers": 16
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1687
+      "views": 1680
     },
     {
       "page": "/",
-      "views": 1670
+      "views": 1668
     },
     {
       "page": "/signinapp",
-      "views": 370
+      "views": 369
     },
     {
       "page": "/terms-of-use",
-      "views": 288
+      "views": 286
     },
     {
       "page": "/account",
-      "views": 163
+      "views": 162
     }
   ],
   "top_locations_last_28_days": [
@@ -163,13 +159,13 @@
       "activeUsers": 392
     },
     {
-      "country": "United States",
-      "city": "North Charleston",
-      "activeUsers": 37
-    },
-    {
       "country": "Germany",
       "city": "(not set)",
+      "activeUsers": 36
+    },
+    {
+      "country": "United States",
+      "city": "North Charleston",
       "activeUsers": 36
     },
     {
@@ -178,29 +174,29 @@
       "activeUsers": 21
     },
     {
-      "country": "Armenia",
-      "city": "Yerevan",
-      "activeUsers": 13
-    },
-    {
       "country": "Georgia",
       "city": "Tbilisi",
       "activeUsers": 13
     },
     {
-      "country": "Iran",
-      "city": "Tehran",
+      "country": "Armenia",
+      "city": "Yerevan",
+      "activeUsers": 12
+    },
+    {
+      "country": "United States",
+      "city": "Glenview",
       "activeUsers": 9
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4199
+      "sessions": 4180
     },
     {
       "device": "mobile",
-      "sessions": 331
+      "sessions": 325
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4221
+      "sessions": 4201
     },
     {
       "channel": "Referral",
-      "sessions": 156
+      "sessions": 153
     },
     {
       "channel": "Organic Search",
-      "sessions": 140
+      "sessions": 138
     },
     {
       "channel": "Organic Social",
