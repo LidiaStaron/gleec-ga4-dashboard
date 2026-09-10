@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-10T14:45:36.010033+00:00",
+  "updated_at": "2026-09-10T18:01:18.400287+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 139,
-    "sessions": 269,
-    "screenPageViews": 772
+    "activeUsers": 140,
+    "sessions": 271,
+    "screenPageViews": 774
   },
   "summary_last_28_days": {
-    "activeUsers": 4138,
-    "sessions": 4558,
-    "screenPageViews": 6730
+    "activeUsers": 4139,
+    "sessions": 4561,
+    "screenPageViews": 6732
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260910",
-      "activeUsers": 19
+      "activeUsers": 20
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 1679
+      "views": 1681
     },
     {
       "page": "/signinapp",
@@ -185,7 +185,7 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 12
+      "activeUsers": 13
     },
     {
       "country": "United States",
@@ -200,7 +200,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 340
+      "sessions": 341
     },
     {
       "device": "tablet",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Organic Search",
-      "sessions": 140
+      "sessions": 141
     },
     {
       "channel": "Organic Social",
