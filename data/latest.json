@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-11T02:45:42.193338+00:00",
+  "updated_at": "2026-09-11T07:43:42.469762+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 127,
-    "sessions": 245,
-    "screenPageViews": 689
+    "activeUsers": 131,
+    "sessions": 250,
+    "screenPageViews": 698
   },
   "summary_last_28_days": {
-    "activeUsers": 4138,
-    "sessions": 4562,
-    "screenPageViews": 6712
+    "activeUsers": 4141,
+    "sessions": 4567,
+    "screenPageViews": 6721
   },
   "daily_trend_28_days": [
     {
@@ -123,6 +123,10 @@
     {
       "date": "20260910",
       "activeUsers": 33
+    },
+    {
+      "date": "20260911",
+      "activeUsers": 5
     }
   ],
   "top_pages_last_28_days": [
@@ -132,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 1678
+      "views": 1681
     },
     {
       "page": "/signinapp",
@@ -171,7 +175,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 24
+      "activeUsers": 25
     },
     {
       "country": "Georgia",
@@ -184,8 +188,8 @@
       "activeUsers": 12
     },
     {
-      "country": "United States",
-      "city": "Glenview",
+      "country": "Iran",
+      "city": "Tehran",
       "activeUsers": 9
     }
   ],
@@ -196,7 +200,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 341
+      "sessions": 342
     },
     {
       "device": "tablet",
@@ -206,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4226
+      "sessions": 4230
     },
     {
       "channel": "Referral",
