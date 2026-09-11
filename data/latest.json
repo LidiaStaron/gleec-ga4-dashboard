@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-11T19:24:52.547055+00:00",
+  "updated_at": "2026-09-11T22:11:15.208350+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 146,
-    "sessions": 275,
-    "screenPageViews": 741
+    "activeUsers": 151,
+    "sessions": 281,
+    "screenPageViews": 748
   },
   "summary_last_28_days": {
-    "activeUsers": 4155,
-    "sessions": 4583,
-    "screenPageViews": 6764
+    "activeUsers": 4160,
+    "sessions": 4584,
+    "screenPageViews": 6771
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20260911",
-      "activeUsers": 23
+      "activeUsers": 28
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1713
+      "views": 1714
     },
     {
       "page": "/",
-      "views": 1689
+      "views": 1691
     },
     {
       "page": "/signinapp",
@@ -163,6 +163,11 @@
       "activeUsers": 392
     },
     {
+      "country": "Singapore",
+      "city": "Singapore",
+      "activeUsers": 37
+    },
+    {
       "country": "United States",
       "city": "North Charleston",
       "activeUsers": 37
@@ -171,11 +176,6 @@
       "country": "Germany",
       "city": "(not set)",
       "activeUsers": 35
-    },
-    {
-      "country": "Singapore",
-      "city": "Singapore",
-      "activeUsers": 34
     },
     {
       "country": "Georgia",
@@ -200,7 +200,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 346
+      "sessions": 348
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4248
+      "sessions": 4249
     },
     {
       "channel": "Referral",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Organic Search",
-      "sessions": 142
+      "sessions": 143
     },
     {
       "channel": "Organic Social",
@@ -231,6 +231,10 @@
     {
       "channel": "Unassigned",
       "sessions": 7
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 1
     }
   ]
 }
