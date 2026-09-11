@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-11T07:43:42.469762+00:00",
+  "updated_at": "2026-09-11T12:32:26.145080+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 131,
-    "sessions": 250,
-    "screenPageViews": 698
+    "activeUsers": 133,
+    "sessions": 256,
+    "screenPageViews": 705
   },
   "summary_last_28_days": {
-    "activeUsers": 4141,
-    "sessions": 4567,
-    "screenPageViews": 6721
+    "activeUsers": 4143,
+    "sessions": 4556,
+    "screenPageViews": 6728
   },
   "daily_trend_28_days": [
     {
@@ -126,21 +126,21 @@
     },
     {
       "date": "20260911",
-      "activeUsers": 5
+      "activeUsers": 7
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1706
+      "views": 1708
     },
     {
       "page": "/",
-      "views": 1681
+      "views": 1684
     },
     {
       "page": "/signinapp",
-      "views": 372
+      "views": 374
     },
     {
       "page": "/terms-of-use",
@@ -170,7 +170,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 33
+      "activeUsers": 35
     },
     {
       "country": "Singapore",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4196
+      "sessions": 4199
     },
     {
       "device": "mobile",
-      "sessions": 342
+      "sessions": 344
     },
     {
       "device": "tablet",
@@ -210,31 +210,27 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4230
+      "sessions": 4233
     },
     {
       "channel": "Referral",
-      "sessions": 153
+      "sessions": 156
     },
     {
       "channel": "Organic Search",
-      "sessions": 137
+      "sessions": 139
     },
     {
       "channel": "Organic Social",
       "sessions": 10
     },
     {
-      "channel": "Unassigned",
-      "sessions": 9
-    },
-    {
       "channel": "AI Assistant",
       "sessions": 8
     },
     {
-      "channel": "Cross-network",
-      "sessions": 1
+      "channel": "Unassigned",
+      "sessions": 6
     }
   ]
 }
