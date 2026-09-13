@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-13T20:13:39.707435+00:00",
+  "updated_at": "2026-09-13T22:49:12.218437+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 157,
-    "sessions": 265,
-    "screenPageViews": 684
+    "activeUsers": 160,
+    "sessions": 270,
+    "screenPageViews": 707
   },
   "summary_last_28_days": {
-    "activeUsers": 4181,
-    "sessions": 4615,
-    "screenPageViews": 6874
+    "activeUsers": 4183,
+    "sessions": 4616,
+    "screenPageViews": 6897
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260913",
-      "activeUsers": 11
+      "activeUsers": 15
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 1697
+      "views": 1698
     },
     {
       "page": "/signinapp",
@@ -148,7 +148,7 @@
     },
     {
       "page": "/account",
-      "views": 168
+      "views": 170
     }
   ],
   "top_locations_last_28_days": [
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 4262
+      "sessions": 4265
     },
     {
       "device": "mobile",
-      "sessions": 354
+      "sessions": 356
     },
     {
       "device": "tablet",
@@ -214,7 +214,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 155
+      "sessions": 157
     },
     {
       "channel": "Organic Search",
@@ -225,11 +225,11 @@
       "sessions": 11
     },
     {
-      "channel": "AI Assistant",
-      "sessions": 8
+      "channel": "Unassigned",
+      "sessions": 10
     },
     {
-      "channel": "Unassigned",
+      "channel": "AI Assistant",
       "sessions": 8
     }
   ]
