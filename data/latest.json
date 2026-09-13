@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-13T13:10:34.006585+00:00",
+  "updated_at": "2026-09-13T17:12:08.542224+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 153,
-    "sessions": 256,
-    "screenPageViews": 657
+    "activeUsers": 155,
+    "sessions": 260,
+    "screenPageViews": 669
   },
   "summary_last_28_days": {
-    "activeUsers": 4177,
+    "activeUsers": 4179,
     "sessions": 4610,
-    "screenPageViews": 6847
+    "screenPageViews": 6859
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260913",
-      "activeUsers": 4
+      "activeUsers": 7
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 1693
+      "views": 1694
     },
     {
       "page": "/signinapp",
@@ -170,7 +170,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 43
+      "activeUsers": 44
     },
     {
       "country": "Germany",
@@ -200,7 +200,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 349
+      "sessions": 352
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 4293
+      "sessions": 4294
     },
     {
       "channel": "Referral",
