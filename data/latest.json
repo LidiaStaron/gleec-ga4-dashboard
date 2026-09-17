@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-17T14:37:37.068626+00:00",
+  "updated_at": "2026-09-17T18:45:50.813657+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 164,
-    "sessions": 269,
-    "screenPageViews": 698
+    "activeUsers": 166,
+    "sessions": 275,
+    "screenPageViews": 704
   },
   "summary_last_28_days": {
-    "activeUsers": 3794,
-    "sessions": 4240,
-    "screenPageViews": 6417
+    "activeUsers": 3796,
+    "sessions": 4247,
+    "screenPageViews": 6423
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260917",
-      "activeUsers": 20
+      "activeUsers": 22
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 1441
+      "views": 1442
     },
     {
       "page": "/signinapp",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 3875
+      "sessions": 3881
     },
     {
       "device": "mobile",
-      "sessions": 355
+      "sessions": 357
     },
     {
       "device": "tablet",
@@ -210,11 +210,11 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 3912
+      "sessions": 3916
     },
     {
       "channel": "Referral",
-      "sessions": 156
+      "sessions": 157
     },
     {
       "channel": "Organic Search",
