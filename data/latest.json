@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-09-16T23:30:05.003854+00:00",
+  "updated_at": "2026-09-17T03:10:18.655045+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 160,
-    "sessions": 267,
-    "screenPageViews": 653
+    "activeUsers": 149,
+    "sessions": 241,
+    "screenPageViews": 572
   },
   "summary_last_28_days": {
-    "activeUsers": 3789,
-    "sessions": 4268,
-    "screenPageViews": 6488
+    "activeUsers": 3780,
+    "sessions": 4214,
+    "screenPageViews": 6291
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260819",
-      "activeUsers": 24
-    },
     {
       "date": "20260820",
       "activeUsers": 37
@@ -126,25 +122,25 @@
     },
     {
       "date": "20260916",
-      "activeUsers": 17
+      "activeUsers": 20
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1709
+      "views": 1677
     },
     {
       "page": "/",
-      "views": 1450
+      "views": 1436
     },
     {
       "page": "/signinapp",
-      "views": 374
+      "views": 367
     },
     {
       "page": "/terms-of-use",
-      "views": 274
+      "views": 271
     },
     {
       "page": "/account",
@@ -175,12 +171,12 @@
     {
       "country": "Georgia",
       "city": "Tbilisi",
-      "activeUsers": 16
+      "activeUsers": 15
     },
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 10
+      "activeUsers": 9
     },
     {
       "country": "United States",
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 3885
+      "sessions": 3851
     },
     {
       "device": "mobile",
-      "sessions": 363
+      "sessions": 351
     },
     {
       "device": "tablet",
@@ -210,19 +206,19 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 3940
+      "sessions": 3907
     },
     {
       "channel": "Referral",
-      "sessions": 164
+      "sessions": 154
     },
     {
       "channel": "Organic Search",
-      "sessions": 135
+      "sessions": 130
     },
     {
       "channel": "Organic Social",
-      "sessions": 12
+      "sessions": 11
     },
     {
       "channel": "AI Assistant",
