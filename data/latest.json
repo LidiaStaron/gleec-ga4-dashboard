@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-18T08:03:01.674661+00:00",
+  "updated_at": "2026-09-18T13:20:08.201811+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 150,
-    "sessions": 258,
-    "screenPageViews": 683
+    "activeUsers": 159,
+    "sessions": 270,
+    "screenPageViews": 733
   },
   "summary_last_28_days": {
-    "activeUsers": 3776,
-    "sessions": 4206,
-    "screenPageViews": 6414
+    "activeUsers": 3785,
+    "sessions": 4229,
+    "screenPageViews": 6464
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20260918",
-      "activeUsers": 2
+      "activeUsers": 12
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1695
+      "views": 1705
     },
     {
       "page": "/",
-      "views": 1426
+      "views": 1430
     },
     {
       "page": "/signinapp",
@@ -160,7 +160,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 57
+      "activeUsers": 61
     },
     {
       "country": "United States",
@@ -170,7 +170,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 30
+      "activeUsers": 33
     },
     {
       "country": "Georgia",
@@ -180,27 +180,27 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 12
-    },
-    {
-      "country": "Nigeria",
-      "city": "Lagos",
-      "activeUsers": 8
+      "activeUsers": 13
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 8
+      "activeUsers": 10
+    },
+    {
+      "country": "United States",
+      "city": "Ashburn",
+      "activeUsers": 9
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 3842
+      "sessions": 3868
     },
     {
       "device": "mobile",
-      "sessions": 350
+      "sessions": 352
     },
     {
       "device": "tablet",
@@ -210,19 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 3890
+      "sessions": 3895
     },
     {
       "channel": "Referral",
-      "sessions": 152
+      "sessions": 155
     },
     {
       "channel": "Organic Search",
       "sessions": 150
-    },
-    {
-      "channel": "Unassigned",
-      "sessions": 10
     },
     {
       "channel": "AI Assistant",
@@ -230,6 +226,10 @@
     },
     {
       "channel": "Organic Social",
+      "sessions": 9
+    },
+    {
+      "channel": "Unassigned",
       "sessions": 9
     }
   ]
