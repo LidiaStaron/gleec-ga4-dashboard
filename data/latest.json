@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-18T20:19:17.414083+00:00",
+  "updated_at": "2026-09-18T22:58:27.911017+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 165,
-    "sessions": 281,
-    "screenPageViews": 750
+    "activeUsers": 167,
+    "sessions": 285,
+    "screenPageViews": 764
   },
   "summary_last_28_days": {
-    "activeUsers": 3791,
-    "sessions": 4251,
-    "screenPageViews": 6481
+    "activeUsers": 3793,
+    "sessions": 4260,
+    "screenPageViews": 6495
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260918",
-      "activeUsers": 18
+      "activeUsers": 20
     }
   ],
   "top_pages_last_28_days": [
@@ -160,7 +160,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 63
+      "activeUsers": 64
     },
     {
       "country": "United States",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 3882
+      "sessions": 3883
     },
     {
       "device": "mobile",
-      "sessions": 353
+      "sessions": 356
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 3902
+      "sessions": 3907
     },
     {
       "channel": "Referral",
