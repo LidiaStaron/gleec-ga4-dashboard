@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-09-18T22:58:27.911017+00:00",
+  "updated_at": "2026-09-19T01:02:39.005556+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 167,
-    "sessions": 285,
-    "screenPageViews": 764
+    "activeUsers": 130,
+    "sessions": 235,
+    "screenPageViews": 684
   },
   "summary_last_28_days": {
-    "activeUsers": 3793,
-    "sessions": 4260,
-    "screenPageViews": 6495
+    "activeUsers": 3779,
+    "sessions": 4214,
+    "screenPageViews": 6418
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260821",
-      "activeUsers": 22
-    },
     {
       "date": "20260822",
       "activeUsers": 21
@@ -126,29 +122,29 @@
     },
     {
       "date": "20260918",
-      "activeUsers": 20
+      "activeUsers": 22
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1708
+      "views": 1692
     },
     {
       "page": "/",
-      "views": 1432
+      "views": 1416
     },
     {
       "page": "/signinapp",
-      "views": 370
+      "views": 369
     },
     {
       "page": "/terms-of-use",
-      "views": 270
+      "views": 269
     },
     {
       "page": "/account",
-      "views": 179
+      "views": 165
     }
   ],
   "top_locations_last_28_days": [
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 3883
+      "sessions": 3855
     },
     {
       "device": "mobile",
-      "sessions": 356
+      "sessions": 347
     },
     {
       "device": "tablet",
@@ -210,27 +206,27 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 3907
+      "sessions": 3893
     },
     {
       "channel": "Referral",
-      "sessions": 158
+      "sessions": 150
     },
     {
       "channel": "Organic Search",
-      "sessions": 152
+      "sessions": 146
     },
     {
       "channel": "Unassigned",
-      "sessions": 10
+      "sessions": 11
     },
     {
       "channel": "AI Assistant",
-      "sessions": 9
+      "sessions": 8
     },
     {
       "channel": "Organic Social",
-      "sessions": 9
+      "sessions": 7
     }
   ]
 }
