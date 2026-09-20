@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-09-19T23:51:40.544447+00:00",
+  "updated_at": "2026-09-20T03:08:23.989703+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 135,
-    "sessions": 248,
-    "screenPageViews": 734
+    "activeUsers": 123,
+    "sessions": 224,
+    "screenPageViews": 642
   },
   "summary_last_28_days": {
-    "activeUsers": 3783,
-    "sessions": 4211,
-    "screenPageViews": 6468
+    "activeUsers": 3773,
+    "sessions": 4184,
+    "screenPageViews": 6356
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260822",
-      "activeUsers": 21
-    },
     {
       "date": "20260823",
       "activeUsers": 3324
@@ -126,21 +122,25 @@
     },
     {
       "date": "20260919",
-      "activeUsers": 7
+      "activeUsers": 8
+    },
+    {
+      "date": "20260920",
+      "activeUsers": 2
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 1697
+      "views": 1676
     },
     {
       "page": "/",
-      "views": 1418
+      "views": 1414
     },
     {
       "page": "/signinapp",
-      "views": 371
+      "views": 364
     },
     {
       "page": "/terms-of-use",
@@ -148,7 +148,7 @@
     },
     {
       "page": "/account",
-      "views": 172
+      "views": 156
     }
   ],
   "top_locations_last_28_days": [
@@ -160,7 +160,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 64
+      "activeUsers": 65
     },
     {
       "country": "United States",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 3857
+      "sessions": 3838
     },
     {
       "device": "mobile",
-      "sessions": 353
+      "sessions": 341
     },
     {
       "device": "tablet",
@@ -210,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 3896
+      "sessions": 3889
     },
     {
       "channel": "Referral",
-      "sessions": 151
+      "sessions": 145
     },
     {
       "channel": "Organic Search",
-      "sessions": 149
+      "sessions": 144
     },
     {
       "channel": "Unassigned",
@@ -226,7 +226,7 @@
     },
     {
       "channel": "AI Assistant",
-      "sessions": 8
+      "sessions": 7
     },
     {
       "channel": "Organic Social",
