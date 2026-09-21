@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-21T00:48:38.553172+00:00",
+  "updated_at": "2026-09-21T05:50:10.795816+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 124,
-    "sessions": 228,
-    "screenPageViews": 653
+    "activeUsers": 126,
+    "sessions": 231,
+    "screenPageViews": 656
   },
   "summary_last_28_days": {
-    "activeUsers": 468,
-    "sessions": 944,
-    "screenPageViews": 2643
+    "activeUsers": 470,
+    "sessions": 947,
+    "screenPageViews": 2646
   },
   "daily_trend_28_days": [
     {
@@ -123,6 +123,10 @@
     {
       "date": "20260920",
       "activeUsers": 18
+    },
+    {
+      "date": "20260921",
+      "activeUsers": 3
     }
   ],
   "top_pages_last_28_days": [
@@ -132,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 236
+      "views": 237
     },
     {
       "page": "/account",
@@ -151,7 +155,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 65
+      "activeUsers": 66
     },
     {
       "country": "United States",
@@ -179,20 +183,20 @@
       "activeUsers": 11
     },
     {
-      "country": "United States",
-      "city": "Ashburn",
+      "country": "Nigeria",
+      "city": "Lagos",
       "activeUsers": 9
     },
     {
-      "country": "Nigeria",
-      "city": "Lagos",
-      "activeUsers": 8
+      "country": "United States",
+      "city": "Ashburn",
+      "activeUsers": 9
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 596
+      "sessions": 599
     },
     {
       "device": "mobile",
@@ -206,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 637
+      "sessions": 638
     },
     {
       "channel": "Organic Search",
-      "sessions": 145
+      "sessions": 146
     },
     {
       "channel": "Referral",
-      "sessions": 143
+      "sessions": 144
     },
     {
       "channel": "Unassigned",
