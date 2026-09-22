@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-22T10:52:47.052396+00:00",
+  "updated_at": "2026-09-22T15:23:20.179589+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 121,
-    "sessions": 225,
-    "screenPageViews": 644
+    "activeUsers": 123,
+    "sessions": 233,
+    "screenPageViews": 684
   },
   "summary_last_28_days": {
-    "activeUsers": 467,
-    "sessions": 942,
-    "screenPageViews": 2626
+    "activeUsers": 469,
+    "sessions": 950,
+    "screenPageViews": 2666
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20260922",
-      "activeUsers": 7
+      "activeUsers": 10
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 235
+      "views": 238
     },
     {
       "page": "/account",
@@ -148,7 +148,7 @@
     },
     {
       "page": "/signinapp",
-      "views": 98
+      "views": 101
     }
   ],
   "top_locations_last_28_days": [
@@ -190,17 +190,17 @@
     {
       "country": "United States",
       "city": "Ashburn",
-      "activeUsers": 8
+      "activeUsers": 9
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 592
+      "sessions": 597
     },
     {
       "device": "mobile",
-      "sessions": 348
+      "sessions": 351
     },
     {
       "device": "tablet",
@@ -210,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 634
+      "sessions": 639
     },
     {
       "channel": "Organic Search",
-      "sessions": 146
+      "sessions": 148
     },
     {
       "channel": "Referral",
-      "sessions": 143
+      "sessions": 144
     },
     {
       "channel": "AI Assistant",
