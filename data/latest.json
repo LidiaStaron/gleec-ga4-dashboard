@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-24T05:48:48.421876+00:00",
+  "updated_at": "2026-09-24T11:01:48.842381+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 121,
-    "sessions": 219,
-    "screenPageViews": 653
+    "activeUsers": 123,
+    "sessions": 223,
+    "screenPageViews": 671
   },
   "summary_last_28_days": {
-    "activeUsers": 466,
-    "sessions": 928,
-    "screenPageViews": 2591
+    "activeUsers": 468,
+    "sessions": 932,
+    "screenPageViews": 2609
   },
   "daily_trend_28_days": [
     {
@@ -126,13 +126,13 @@
     },
     {
       "date": "20260924",
-      "activeUsers": 3
+      "activeUsers": 5
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 439
+      "views": 444
     },
     {
       "page": "/",
@@ -140,11 +140,11 @@
     },
     {
       "page": "/account",
-      "views": 146
+      "views": 149
     },
     {
       "page": "/settings/general",
-      "views": 106
+      "views": 108
     },
     {
       "page": "/signinapp",
@@ -173,14 +173,14 @@
       "activeUsers": 14
     },
     {
+      "country": "United States",
+      "city": "(not set)",
+      "activeUsers": 12
+    },
+    {
       "country": "Georgia",
       "city": "Tbilisi",
       "activeUsers": 11
-    },
-    {
-      "country": "United States",
-      "city": "(not set)",
-      "activeUsers": 10
     },
     {
       "country": "Nigeria",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 575
+      "sessions": 578
     },
     {
       "device": "mobile",
-      "sessions": 351
+      "sessions": 352
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 626
+      "sessions": 631
     },
     {
       "channel": "Organic Search",
@@ -222,7 +222,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 11
+      "sessions": 9
     },
     {
       "channel": "AI Assistant",
