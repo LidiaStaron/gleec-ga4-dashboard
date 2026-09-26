@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-26T09:01:47.637496+00:00",
+  "updated_at": "2026-09-26T14:01:44.128491+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 112,
-    "sessions": 209,
-    "screenPageViews": 577
+    "activeUsers": 114,
+    "sessions": 214,
+    "screenPageViews": 585
   },
   "summary_last_28_days": {
-    "activeUsers": 470,
-    "sessions": 937,
-    "screenPageViews": 2659
+    "activeUsers": 471,
+    "sessions": 942,
+    "screenPageViews": 2667
   },
   "daily_trend_28_days": [
     {
@@ -126,13 +126,13 @@
     },
     {
       "date": "20260926",
-      "activeUsers": 5
+      "activeUsers": 7
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 442
+      "views": 443
     },
     {
       "page": "/",
@@ -148,7 +148,7 @@
     },
     {
       "page": "/signinapp",
-      "views": 87
+      "views": 88
     }
   ],
   "top_locations_last_28_days": [
@@ -158,13 +158,13 @@
       "activeUsers": 68
     },
     {
-      "country": "Germany",
-      "city": "(not set)",
-      "activeUsers": 34
-    },
-    {
       "country": "United States",
       "city": "North Charleston",
+      "activeUsers": 35
+    },
+    {
+      "country": "Germany",
+      "city": "(not set)",
       "activeUsers": 34
     },
     {
@@ -175,7 +175,7 @@
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 13
+      "activeUsers": 14
     },
     {
       "country": "Georgia",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 579
+      "sessions": 582
     },
     {
       "device": "mobile",
-      "sessions": 356
+      "sessions": 358
     },
     {
       "device": "tablet",
@@ -210,11 +210,11 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 641
+      "sessions": 645
     },
     {
       "channel": "Organic Search",
-      "sessions": 153
+      "sessions": 154
     },
     {
       "channel": "Referral",
