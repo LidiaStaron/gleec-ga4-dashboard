@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-27T12:40:54.223083+00:00",
+  "updated_at": "2026-09-27T17:25:52.201354+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 128,
-    "sessions": 236,
-    "screenPageViews": 603
+    "activeUsers": 133,
+    "sessions": 244,
+    "screenPageViews": 629
   },
   "summary_last_28_days": {
-    "activeUsers": 482,
-    "sessions": 958,
-    "screenPageViews": 2695
+    "activeUsers": 487,
+    "sessions": 967,
+    "screenPageViews": 2721
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20260927",
-      "activeUsers": 5
+      "activeUsers": 11
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 440
+      "views": 443
     },
     {
       "page": "/",
-      "views": 245
+      "views": 247
     },
     {
       "page": "/account",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/settings/general",
-      "views": 111
+      "views": 112
     },
     {
       "page": "/signinapp",
@@ -158,13 +158,13 @@
       "activeUsers": 68
     },
     {
-      "country": "Germany",
-      "city": "(not set)",
-      "activeUsers": 34
-    },
-    {
       "country": "United States",
       "city": "North Charleston",
+      "activeUsers": 38
+    },
+    {
+      "country": "Germany",
+      "city": "(not set)",
       "activeUsers": 34
     },
     {
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 593
+      "sessions": 599
     },
     {
       "device": "mobile",
-      "sessions": 363
+      "sessions": 365
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 655
+      "sessions": 662
     },
     {
       "channel": "Organic Search",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 129
+      "sessions": 130
     },
     {
       "channel": "Unassigned",
