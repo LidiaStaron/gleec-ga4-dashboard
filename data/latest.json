@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-09-29T21:14:34.475007+00:00",
+  "updated_at": "2026-09-30T01:00:46.094354+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 130,
-    "sessions": 248,
-    "screenPageViews": 764
+    "activeUsers": 116,
+    "sessions": 222,
+    "screenPageViews": 679
   },
   "summary_last_28_days": {
-    "activeUsers": 482,
-    "sessions": 956,
-    "screenPageViews": 2721
+    "activeUsers": 460,
+    "sessions": 927,
+    "screenPageViews": 2657
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260901",
-      "activeUsers": 30
-    },
     {
       "date": "20260902",
       "activeUsers": 18
@@ -126,46 +122,46 @@
     },
     {
       "date": "20260929",
-      "activeUsers": 12
+      "activeUsers": 14
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 423
+      "views": 418
     },
     {
       "page": "/",
-      "views": 244
+      "views": 239
     },
     {
       "page": "/account",
-      "views": 154
+      "views": 156
     },
     {
       "page": "/settings/general",
-      "views": 113
+      "views": 109
     },
     {
-      "page": "/kmd-to-usdt",
-      "views": 82
+      "page": "/signinapp",
+      "views": 81
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 68
+      "activeUsers": 58
     },
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 38
+      "activeUsers": 37
     },
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 34
+      "activeUsers": 27
     },
     {
       "country": "United States",
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 584
+      "sessions": 566
     },
     {
       "device": "mobile",
-      "sessions": 370
+      "sessions": 358
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 658
+      "sessions": 635
     },
     {
       "channel": "Organic Search",
-      "sessions": 154
+      "sessions": 150
     },
     {
       "channel": "Referral",
-      "sessions": 129
+      "sessions": 126
     },
     {
       "channel": "Unassigned",
@@ -231,6 +227,10 @@
     {
       "channel": "Organic Social",
       "sessions": 3
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 1
     }
   ]
 }
