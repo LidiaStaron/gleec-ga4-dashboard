@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-02T06:37:57.580096+00:00",
+  "updated_at": "2026-10-02T13:31:10.001522+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 111,
-    "sessions": 222,
-    "screenPageViews": 677
+    "activeUsers": 114,
+    "sessions": 227,
+    "screenPageViews": 683
   },
   "summary_last_28_days": {
-    "activeUsers": 461,
-    "sessions": 934,
-    "screenPageViews": 2638
+    "activeUsers": 464,
+    "sessions": 939,
+    "screenPageViews": 2644
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20261002",
-      "activeUsers": 1
+      "activeUsers": 4
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 409
+      "views": 410
     },
     {
       "page": "/",
-      "views": 231
+      "views": 234
     },
     {
       "page": "/account",
@@ -165,7 +165,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 20
+      "activeUsers": 29
     },
     {
       "country": "United States",
@@ -183,24 +183,24 @@
       "activeUsers": 10
     },
     {
-      "country": "Germany",
-      "city": "",
-      "activeUsers": 10
-    },
-    {
       "country": "United States",
       "city": "Ashburn",
       "activeUsers": 9
+    },
+    {
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "activeUsers": 6
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 575
+      "sessions": 576
     },
     {
       "device": "mobile",
-      "sessions": 357
+      "sessions": 361
     },
     {
       "device": "tablet",
@@ -210,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 640
+      "sessions": 642
     },
     {
       "channel": "Organic Search",
-      "sessions": 153
+      "sessions": 154
     },
     {
       "channel": "Referral",
-      "sessions": 126
+      "sessions": 127
     },
     {
       "channel": "Unassigned",
@@ -230,7 +230,7 @@
     },
     {
       "channel": "Organic Social",
-      "sessions": 2
+      "sessions": 3
     }
   ]
 }
