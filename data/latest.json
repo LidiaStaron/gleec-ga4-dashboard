@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-01T20:52:10.959917+00:00",
+  "updated_at": "2026-10-02T00:29:00.843491+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 128,
-    "sessions": 256,
-    "screenPageViews": 792
+    "activeUsers": 104,
+    "sessions": 213,
+    "screenPageViews": 657
   },
   "summary_last_28_days": {
-    "activeUsers": 475,
-    "sessions": 957,
-    "screenPageViews": 2711
+    "activeUsers": 454,
+    "sessions": 925,
+    "screenPageViews": 2618
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260903",
-      "activeUsers": 30
-    },
     {
       "date": "20260904",
       "activeUsers": 25
@@ -126,29 +122,29 @@
     },
     {
       "date": "20261001",
-      "activeUsers": 18
+      "activeUsers": 22
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 430
+      "views": 409
     },
     {
       "page": "/",
-      "views": 237
+      "views": 231
     },
     {
       "page": "/account",
-      "views": 167
+      "views": 165
     },
     {
       "page": "/settings/general",
-      "views": 122
+      "views": 121
     },
     {
       "page": "/signinapp",
-      "views": 87
+      "views": 86
     }
   ],
   "top_locations_last_28_days": [
@@ -160,17 +156,17 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 40
+      "activeUsers": 39
     },
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 29
+      "activeUsers": 20
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 15
+      "activeUsers": 14
     },
     {
       "country": "Armenia",
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 589
+      "sessions": 575
     },
     {
       "device": "mobile",
-      "sessions": 367
+      "sessions": 348
     },
     {
       "device": "tablet",
@@ -210,23 +206,23 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 654
+      "sessions": 631
     },
     {
       "channel": "Organic Search",
-      "sessions": 155
+      "sessions": 153
     },
     {
       "channel": "Referral",
-      "sessions": 132
+      "sessions": 126
     },
     {
       "channel": "Unassigned",
-      "sessions": 9
+      "sessions": 7
     },
     {
       "channel": "AI Assistant",
-      "sessions": 5
+      "sessions": 6
     },
     {
       "channel": "Organic Social",
