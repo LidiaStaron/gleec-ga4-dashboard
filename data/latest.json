@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-02T00:29:00.843491+00:00",
+  "updated_at": "2026-10-02T06:37:57.580096+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 104,
-    "sessions": 213,
-    "screenPageViews": 657
+    "activeUsers": 111,
+    "sessions": 222,
+    "screenPageViews": 677
   },
   "summary_last_28_days": {
-    "activeUsers": 454,
-    "sessions": 925,
-    "screenPageViews": 2618
+    "activeUsers": 461,
+    "sessions": 934,
+    "screenPageViews": 2638
   },
   "daily_trend_28_days": [
     {
@@ -122,7 +122,11 @@
     },
     {
       "date": "20261001",
-      "activeUsers": 22
+      "activeUsers": 29
+    },
+    {
+      "date": "20261002",
+      "activeUsers": 1
     }
   ],
   "top_pages_last_28_days": [
@@ -140,7 +144,7 @@
     },
     {
       "page": "/settings/general",
-      "views": 121
+      "views": 122
     },
     {
       "page": "/signinapp",
@@ -179,14 +183,14 @@
       "activeUsers": 10
     },
     {
+      "country": "Germany",
+      "city": "",
+      "activeUsers": 10
+    },
+    {
       "country": "United States",
       "city": "Ashburn",
       "activeUsers": 9
-    },
-    {
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "activeUsers": 6
     }
   ],
   "device_breakdown_last_28_days": [
@@ -196,7 +200,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 348
+      "sessions": 357
     },
     {
       "device": "tablet",
@@ -206,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 631
+      "sessions": 640
     },
     {
       "channel": "Organic Search",
