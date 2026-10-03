@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-03T20:32:47.502031+00:00",
+  "updated_at": "2026-10-03T23:29:35.566679+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 116,
-    "sessions": 235,
-    "screenPageViews": 681
+    "activeUsers": 118,
+    "sessions": 237,
+    "screenPageViews": 683
   },
   "summary_last_28_days": {
-    "activeUsers": 463,
-    "sessions": 933,
-    "screenPageViews": 2544
+    "activeUsers": 465,
+    "sessions": 935,
+    "screenPageViews": 2546
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20261003",
-      "activeUsers": 10
+      "activeUsers": 12
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/",
-      "views": 227
+      "views": 228
     },
     {
       "page": "/account",
@@ -190,13 +190,13 @@
     {
       "country": "Indonesia",
       "city": "Jakarta",
-      "activeUsers": 6
+      "activeUsers": 7
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 567
+      "sessions": 569
     },
     {
       "device": "mobile",
@@ -214,7 +214,7 @@
     },
     {
       "channel": "Organic Search",
-      "sessions": 141
+      "sessions": 143
     },
     {
       "channel": "Referral",
