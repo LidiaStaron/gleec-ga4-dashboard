@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-03T17:10:13.254627+00:00",
+  "updated_at": "2026-10-03T20:32:47.502031+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 116,
-    "sessions": 234,
-    "screenPageViews": 678
+    "sessions": 235,
+    "screenPageViews": 681
   },
   "summary_last_28_days": {
     "activeUsers": 463,
-    "sessions": 932,
-    "screenPageViews": 2541
+    "sessions": 933,
+    "screenPageViews": 2544
   },
   "daily_trend_28_days": [
     {
@@ -132,7 +132,7 @@
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 390
+      "views": 391
     },
     {
       "page": "/",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/settings/general",
-      "views": 115
+      "views": 116
     },
     {
       "page": "/kmd-to-usdt",
@@ -200,7 +200,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 363
+      "sessions": 364
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 647
+      "sessions": 648
     },
     {
       "channel": "Organic Search",
