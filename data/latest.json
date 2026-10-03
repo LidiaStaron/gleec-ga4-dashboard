@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-03T12:59:58.056206+00:00",
+  "updated_at": "2026-10-03T17:10:13.254627+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 113,
-    "sessions": 227,
-    "screenPageViews": 668
+    "activeUsers": 116,
+    "sessions": 234,
+    "screenPageViews": 678
   },
   "summary_last_28_days": {
-    "activeUsers": 460,
-    "sessions": 925,
-    "screenPageViews": 2531
+    "activeUsers": 463,
+    "sessions": 932,
+    "screenPageViews": 2541
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20261003",
-      "activeUsers": 6
+      "activeUsers": 10
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 388
+      "views": 390
     },
     {
       "page": "/",
-      "views": 225
+      "views": 227
     },
     {
       "page": "/account",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/settings/general",
-      "views": 114
+      "views": 115
     },
     {
       "page": "/kmd-to-usdt",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 563
+      "sessions": 567
     },
     {
       "device": "mobile",
-      "sessions": 359
+      "sessions": 363
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 644
+      "sessions": 647
     },
     {
       "channel": "Organic Search",
@@ -218,19 +218,19 @@
     },
     {
       "channel": "Referral",
-      "sessions": 123
+      "sessions": 125
+    },
+    {
+      "channel": "AI Assistant",
+      "sessions": 7
     },
     {
       "channel": "Unassigned",
       "sessions": 7
     },
     {
-      "channel": "AI Assistant",
-      "sessions": 6
-    },
-    {
       "channel": "Organic Social",
-      "sessions": 3
+      "sessions": 4
     }
   ]
 }
