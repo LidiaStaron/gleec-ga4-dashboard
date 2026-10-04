@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-03T23:29:35.566679+00:00",
+  "updated_at": "2026-10-04T04:04:30.295570+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 118,
-    "sessions": 237,
-    "screenPageViews": 683
+    "activeUsers": 100,
+    "sessions": 202,
+    "screenPageViews": 615
   },
   "summary_last_28_days": {
-    "activeUsers": 465,
-    "sessions": 935,
-    "screenPageViews": 2546
+    "activeUsers": 453,
+    "sessions": 904,
+    "screenPageViews": 2473
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260905",
-      "activeUsers": 18
-    },
     {
       "date": "20260906",
       "activeUsers": 14
@@ -132,23 +128,23 @@
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 391
+      "views": 369
     },
     {
       "page": "/",
-      "views": 228
+      "views": 218
     },
     {
       "page": "/account",
-      "views": 140
+      "views": 137
     },
     {
       "page": "/settings/general",
-      "views": 116
+      "views": 114
     },
     {
-      "page": "/kmd-to-usdt",
-      "views": 79
+      "page": "/signinapp",
+      "views": 76
     }
   ],
   "top_locations_last_28_days": [
@@ -160,7 +156,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 38
+      "activeUsers": 37
     },
     {
       "country": "Germany",
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 569
+      "sessions": 549
     },
     {
       "device": "mobile",
-      "sessions": 364
+      "sessions": 352
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 648
+      "sessions": 627
     },
     {
       "channel": "Organic Search",
-      "sessions": 143
+      "sessions": 138
     },
     {
       "channel": "Referral",
-      "sessions": 125
+      "sessions": 119
     },
     {
       "channel": "AI Assistant",
