@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-05T23:39:37.128540+00:00",
+  "updated_at": "2026-10-06T04:37:07.202449+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 114,
-    "sessions": 225,
-    "screenPageViews": 641
+    "activeUsers": 108,
+    "sessions": 205,
+    "screenPageViews": 545
   },
   "summary_last_28_days": {
-    "activeUsers": 469,
-    "sessions": 925,
-    "screenPageViews": 2483
+    "activeUsers": 460,
+    "sessions": 894,
+    "screenPageViews": 2369
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260907",
-      "activeUsers": 23
-    },
     {
       "date": "20260908",
       "activeUsers": 20
@@ -126,28 +122,32 @@
     },
     {
       "date": "20261005",
-      "activeUsers": 25
+      "activeUsers": 28
+    },
+    {
+      "date": "20261006",
+      "activeUsers": 1
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 377
+      "views": 352
     },
     {
       "page": "/",
-      "views": 218
+      "views": 215
     },
     {
       "page": "/account",
-      "views": 144
+      "views": 130
     },
     {
       "page": "/settings/general",
-      "views": 119
+      "views": 111
     },
     {
-      "page": "/kmd-to-usdt",
+      "page": "/signinapp",
       "views": 74
     }
   ],
@@ -155,7 +155,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 58
+      "activeUsers": 55
     },
     {
       "country": "United States",
@@ -178,13 +178,13 @@
       "activeUsers": 12
     },
     {
-      "country": "Georgia",
-      "city": "Tbilisi",
-      "activeUsers": 10
-    },
-    {
       "country": "United States",
       "city": "Ashburn",
+      "activeUsers": 11
+    },
+    {
+      "country": "Georgia",
+      "city": "Tbilisi",
       "activeUsers": 10
     },
     {
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 561
+      "sessions": 546
     },
     {
       "device": "mobile",
-      "sessions": 361
+      "sessions": 345
     },
     {
       "device": "tablet",
@@ -210,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 643
+      "sessions": 620
     },
     {
       "channel": "Organic Search",
-      "sessions": 141
+      "sessions": 137
     },
     {
       "channel": "Referral",
-      "sessions": 120
+      "sessions": 115
     },
     {
       "channel": "AI Assistant",
