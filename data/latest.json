@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-07T17:11:33.126421+00:00",
+  "updated_at": "2026-10-07T22:36:09.350787+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 124,
-    "sessions": 217,
-    "screenPageViews": 509
+    "activeUsers": 130,
+    "sessions": 225,
+    "screenPageViews": 557
   },
   "summary_last_28_days": {
-    "activeUsers": 467,
-    "sessions": 901,
-    "screenPageViews": 2414
+    "activeUsers": 472,
+    "sessions": 909,
+    "screenPageViews": 2462
   },
   "daily_trend_28_days": [
     {
@@ -126,29 +126,29 @@
     },
     {
       "date": "20261007",
-      "activeUsers": 3
+      "activeUsers": 9
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 359
+      "views": 363
     },
     {
       "page": "/",
-      "views": 221
+      "views": 227
     },
     {
       "page": "/account",
-      "views": 136
+      "views": 138
     },
     {
       "page": "/settings/general",
-      "views": 108
+      "views": 109
     },
     {
       "page": "/signinapp",
-      "views": 72
+      "views": 73
     }
   ],
   "top_locations_last_28_days": [
@@ -173,14 +173,14 @@
       "activeUsers": 17
     },
     {
-      "country": "United States",
-      "city": "Ashburn",
+      "country": "Armenia",
+      "city": "Yerevan",
       "activeUsers": 13
     },
     {
-      "country": "Armenia",
-      "city": "Yerevan",
-      "activeUsers": 12
+      "country": "United States",
+      "city": "Ashburn",
+      "activeUsers": 13
     },
     {
       "country": "Georgia",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 552
+      "sessions": 559
     },
     {
       "device": "mobile",
-      "sessions": 346
+      "sessions": 347
     },
     {
       "device": "tablet",
@@ -210,19 +210,19 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 624
+      "sessions": 626
     },
     {
       "channel": "Organic Search",
-      "sessions": 140
+      "sessions": 144
     },
     {
       "channel": "Referral",
-      "sessions": 113
+      "sessions": 114
     },
     {
       "channel": "AI Assistant",
-      "sessions": 10
+      "sessions": 11
     },
     {
       "channel": "Unassigned",
