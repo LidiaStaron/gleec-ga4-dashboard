@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-08T09:53:25.718848+00:00",
+  "updated_at": "2026-10-08T17:09:06.882779+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 124,
-    "sessions": 202,
-    "screenPageViews": 542
+    "activeUsers": 135,
+    "sessions": 214,
+    "screenPageViews": 576
   },
   "summary_last_28_days": {
-    "activeUsers": 468,
-    "sessions": 888,
-    "screenPageViews": 2462
+    "activeUsers": 479,
+    "sessions": 900,
+    "screenPageViews": 2496
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20261008",
-      "activeUsers": 4
+      "activeUsers": 16
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 351
+      "views": 357
     },
     {
       "page": "/",
-      "views": 232
+      "views": 237
     },
     {
       "page": "/account",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/settings/general",
-      "views": 107
+      "views": 108
     },
     {
       "page": "/signinapp",
@@ -155,12 +155,12 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 54
+      "activeUsers": 55
     },
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 44
+      "activeUsers": 45
     },
     {
       "country": "Germany",
@@ -175,7 +175,7 @@
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 13
+      "activeUsers": 14
     },
     {
       "country": "United States",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 549
+      "sessions": 557
     },
     {
       "device": "mobile",
-      "sessions": 336
+      "sessions": 340
     },
     {
       "device": "tablet",
@@ -210,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 613
+      "sessions": 620
     },
     {
       "channel": "Organic Search",
-      "sessions": 141
+      "sessions": 142
     },
     {
       "channel": "Referral",
-      "sessions": 110
+      "sessions": 113
     },
     {
       "channel": "AI Assistant",
@@ -231,6 +231,10 @@
     {
       "channel": "Organic Social",
       "sessions": 5
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 1
     }
   ]
 }
