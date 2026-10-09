@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-08T22:48:16.706824+00:00",
+  "updated_at": "2026-10-09T02:43:22.149821+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 141,
-    "sessions": 223,
-    "screenPageViews": 590
+    "activeUsers": 135,
+    "sessions": 206,
+    "screenPageViews": 535
   },
   "summary_last_28_days": {
-    "activeUsers": 484,
-    "sessions": 909,
-    "screenPageViews": 2510
+    "activeUsers": 477,
+    "sessions": 894,
+    "screenPageViews": 2480
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260910",
-      "activeUsers": 33
-    },
     {
       "date": "20260911",
       "activeUsers": 42
@@ -126,66 +122,66 @@
     },
     {
       "date": "20261008",
-      "activeUsers": 22
+      "activeUsers": 43
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/btc-to-usdt",
-      "views": 358
+      "views": 330
     },
     {
       "page": "/",
-      "views": 241
+      "views": 248
     },
     {
       "page": "/account",
-      "views": 141
+      "views": 136
     },
     {
       "page": "/settings/general",
-      "views": 109
+      "views": 107
     },
     {
       "page": "/signinapp",
-      "views": 78
+      "views": 88
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 55
+      "activeUsers": 52
     },
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 45
+      "activeUsers": 43
     },
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 31
+      "activeUsers": 29
+    },
+    {
+      "country": "China",
+      "city": "Tianjin",
+      "activeUsers": 16
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 17
+      "activeUsers": 16
     },
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 14
+      "activeUsers": 13
     },
     {
       "country": "United States",
       "city": "Ashburn",
       "activeUsers": 13
-    },
-    {
-      "country": "Georgia",
-      "city": "Tbilisi",
-      "activeUsers": 8
     },
     {
       "country": "Indonesia",
@@ -200,7 +196,7 @@
     },
     {
       "device": "mobile",
-      "sessions": 344
+      "sessions": 328
     },
     {
       "device": "tablet",
@@ -210,23 +206,23 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 627
+      "sessions": 619
     },
     {
       "channel": "Organic Search",
-      "sessions": 143
+      "sessions": 138
     },
     {
       "channel": "Referral",
-      "sessions": 113
+      "sessions": 111
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 16
     },
     {
       "channel": "AI Assistant",
       "sessions": 11
-    },
-    {
-      "channel": "Unassigned",
-      "sessions": 7
     },
     {
       "channel": "Organic Social",
