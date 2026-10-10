@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-09T21:26:34.139897+00:00",
+  "updated_at": "2026-10-10T01:28:07.314551+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 397,
-    "sessions": 480,
-    "screenPageViews": 1118
+    "activeUsers": 387,
+    "sessions": 463,
+    "screenPageViews": 1093
   },
   "summary_last_28_days": {
-    "activeUsers": 738,
-    "sessions": 1165,
-    "screenPageViews": 3063
+    "activeUsers": 701,
+    "sessions": 1117,
+    "screenPageViews": 2985
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260911",
-      "activeUsers": 42
-    },
     {
       "date": "20260912",
       "activeUsers": 20
@@ -126,29 +122,29 @@
     },
     {
       "date": "20261009",
-      "activeUsers": 258
+      "activeUsers": 259
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 539
+      "views": 526
     },
     {
       "page": "/btc-to-usdt",
-      "views": 352
+      "views": 342
     },
     {
       "page": "/signinapp",
-      "views": 293
+      "views": 292
     },
     {
       "page": "/account",
-      "views": 137
+      "views": 135
     },
     {
       "page": "/settings/general",
-      "views": 108
+      "views": 104
     }
   ],
   "top_locations_last_28_days": [
@@ -161,11 +157,6 @@
       "country": "China",
       "city": "Shanghai",
       "activeUsers": 86
-    },
-    {
-      "country": "Singapore",
-      "city": "Singapore",
-      "activeUsers": 52
     },
     {
       "country": "United States",
@@ -183,24 +174,29 @@
       "activeUsers": 28
     },
     {
+      "country": "Singapore",
+      "city": "Singapore",
+      "activeUsers": 26
+    },
+    {
       "country": "United States",
       "city": "(not set)",
       "activeUsers": 16
     },
     {
-      "country": "United States",
-      "city": "Ashburn",
-      "activeUsers": 14
+      "country": "Armenia",
+      "city": "Yerevan",
+      "activeUsers": 13
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 823
+      "sessions": 782
     },
     {
       "device": "mobile",
-      "sessions": 341
+      "sessions": 333
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 884
+      "sessions": 849
     },
     {
       "channel": "Organic Search",
-      "sessions": 142
+      "sessions": 136
     },
     {
       "channel": "Referral",
-      "sessions": 113
+      "sessions": 109
     },
     {
       "channel": "AI Assistant",
@@ -226,11 +222,11 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 8
+      "sessions": 6
     },
     {
       "channel": "Organic Social",
-      "sessions": 5
+      "sessions": 4
     }
   ]
 }
