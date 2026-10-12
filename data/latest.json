@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-11T20:45:07.522517+00:00",
+  "updated_at": "2026-10-12T00:09:57.496379+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 392,
-    "sessions": 469,
-    "screenPageViews": 1184
+    "activeUsers": 385,
+    "sessions": 451,
+    "screenPageViews": 1162
   },
   "summary_last_28_days": {
-    "activeUsers": 701,
-    "sessions": 1120,
-    "screenPageViews": 3019
+    "activeUsers": 690,
+    "sessions": 1100,
+    "screenPageViews": 2962
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260913",
-      "activeUsers": 18
-    },
     {
       "date": "20260914",
       "activeUsers": 25
@@ -126,29 +122,29 @@
     },
     {
       "date": "20261011",
-      "activeUsers": 7
+      "activeUsers": 8
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 528
+      "views": 520
     },
     {
       "page": "/btc-to-usdt",
-      "views": 354
+      "views": 350
     },
     {
       "page": "/signinapp",
-      "views": 297
+      "views": 295
     },
     {
       "page": "/account",
-      "views": 139
+      "views": 135
     },
     {
       "page": "/settings/general",
-      "views": 114
+      "views": 113
     }
   ],
   "top_locations_last_28_days": [
@@ -165,7 +161,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 39
+      "activeUsers": 38
     },
     {
       "country": "Germany",
@@ -196,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 772
+      "sessions": 763
     },
     {
       "device": "mobile",
-      "sessions": 346
+      "sessions": 335
     },
     {
       "device": "tablet",
@@ -210,26 +206,26 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 849
+      "sessions": 840
     },
     {
       "channel": "Organic Search",
-      "sessions": 141
+      "sessions": 136
     },
     {
       "channel": "Referral",
-      "sessions": 108
+      "sessions": 103
     },
     {
       "channel": "AI Assistant",
       "sessions": 11
     },
     {
-      "channel": "Unassigned",
-      "sessions": 5
+      "channel": "Organic Social",
+      "sessions": 4
     },
     {
-      "channel": "Organic Social",
+      "channel": "Unassigned",
       "sessions": 4
     }
   ]
