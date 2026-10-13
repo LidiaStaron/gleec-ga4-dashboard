@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-13T13:26:59.611060+00:00",
+  "updated_at": "2026-10-13T20:01:54.765760+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 378,
-    "sessions": 451,
-    "screenPageViews": 1196
+    "activeUsers": 385,
+    "sessions": 466,
+    "screenPageViews": 1242
   },
   "summary_last_28_days": {
-    "activeUsers": 688,
-    "sessions": 1098,
-    "screenPageViews": 2997
+    "activeUsers": 695,
+    "sessions": 1113,
+    "screenPageViews": 3043
   },
   "daily_trend_28_days": [
     {
@@ -126,29 +126,29 @@
     },
     {
       "date": "20261013",
-      "activeUsers": 8
+      "activeUsers": 16
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 524
+      "views": 529
     },
     {
       "page": "/btc-to-usdt",
-      "views": 358
+      "views": 367
     },
     {
       "page": "/signinapp",
-      "views": 295
+      "views": 297
     },
     {
       "page": "/account",
-      "views": 137
+      "views": 150
     },
     {
       "page": "/settings/general",
-      "views": 115
+      "views": 117
     }
   ],
   "top_locations_last_28_days": [
@@ -165,7 +165,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 37
+      "activeUsers": 39
     },
     {
       "country": "Germany",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 763
+      "sessions": 776
     },
     {
       "device": "mobile",
-      "sessions": 333
+      "sessions": 335
     },
     {
       "device": "tablet",
@@ -210,11 +210,11 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 847
+      "sessions": 860
     },
     {
       "channel": "Organic Search",
-      "sessions": 132
+      "sessions": 134
     },
     {
       "channel": "Referral",
@@ -225,11 +225,11 @@
       "sessions": 11
     },
     {
-      "channel": "Organic Social",
-      "sessions": 4
+      "channel": "Unassigned",
+      "sessions": 5
     },
     {
-      "channel": "Unassigned",
+      "channel": "Organic Social",
       "sessions": 4
     }
   ]
