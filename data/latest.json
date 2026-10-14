@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-14T11:04:24.665793+00:00",
+  "updated_at": "2026-10-14T16:24:48.762474+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 374,
-    "sessions": 448,
-    "screenPageViews": 1210
+    "activeUsers": 378,
+    "sessions": 455,
+    "screenPageViews": 1233
   },
   "summary_last_28_days": {
-    "activeUsers": 697,
-    "sessions": 1098,
-    "screenPageViews": 3047
+    "activeUsers": 701,
+    "sessions": 1105,
+    "screenPageViews": 3070
   },
   "daily_trend_28_days": [
     {
@@ -126,29 +126,29 @@
     },
     {
       "date": "20261014",
-      "activeUsers": 7
+      "activeUsers": 14
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 528
+      "views": 529
     },
     {
       "page": "/btc-to-usdt",
-      "views": 364
+      "views": 367
     },
     {
       "page": "/signinapp",
-      "views": 299
+      "views": 301
     },
     {
       "page": "/account",
-      "views": 151
+      "views": 153
     },
     {
       "page": "/settings/general",
-      "views": 119
+      "views": 120
     }
   ],
   "top_locations_last_28_days": [
@@ -185,7 +185,7 @@
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 15
+      "activeUsers": 16
     },
     {
       "country": "Armenia",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 768
+      "sessions": 772
     },
     {
       "device": "mobile",
-      "sessions": 329
+      "sessions": 333
     },
     {
       "device": "tablet",
@@ -210,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 848
+      "sessions": 852
     },
     {
       "channel": "Organic Search",
-      "sessions": 134
+      "sessions": 135
     },
     {
       "channel": "Referral",
-      "sessions": 93
+      "sessions": 95
     },
     {
       "channel": "AI Assistant",
@@ -230,7 +230,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 5
+      "sessions": 4
     }
   ]
 }
