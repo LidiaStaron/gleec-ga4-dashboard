@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-14T23:37:22.544913+00:00",
+  "updated_at": "2026-10-15T02:58:40.113496+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 385,
-    "sessions": 468,
-    "screenPageViews": 1252
+    "activeUsers": 381,
+    "sessions": 457,
+    "screenPageViews": 1170
   },
   "summary_last_28_days": {
-    "activeUsers": 708,
-    "sessions": 1118,
-    "screenPageViews": 3089
+    "activeUsers": 700,
+    "sessions": 1101,
+    "screenPageViews": 3007
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260916",
-      "activeUsers": 20
-    },
     {
       "date": "20260917",
       "activeUsers": 34
@@ -126,29 +122,29 @@
     },
     {
       "date": "20261014",
-      "activeUsers": 22
+      "activeUsers": 29
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 532
+      "views": 529
     },
     {
       "page": "/btc-to-usdt",
-      "views": 370
+      "views": 354
     },
     {
       "page": "/signinapp",
-      "views": 303
+      "views": 302
     },
     {
       "page": "/account",
-      "views": 153
+      "views": 142
     },
     {
       "page": "/settings/general",
-      "views": 120
+      "views": 119
     }
   ],
   "top_locations_last_28_days": [
@@ -165,12 +161,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 38
-    },
-    {
-      "country": "Germany",
-      "city": "(not set)",
-      "activeUsers": 29
+      "activeUsers": 37
     },
     {
       "country": "China",
@@ -178,29 +169,34 @@
       "activeUsers": 28
     },
     {
+      "country": "Germany",
+      "city": "(not set)",
+      "activeUsers": 28
+    },
+    {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 21
+      "activeUsers": 22
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 16
+      "activeUsers": 15
     },
     {
       "country": "Armenia",
       "city": "Yerevan",
-      "activeUsers": 13
+      "activeUsers": 12
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 781
+      "sessions": 767
     },
     {
       "device": "mobile",
-      "sessions": 337
+      "sessions": 333
     },
     {
       "device": "tablet",
@@ -210,23 +206,23 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 862
+      "sessions": 851
     },
     {
       "channel": "Organic Search",
-      "sessions": 137
+      "sessions": 136
     },
     {
       "channel": "Referral",
-      "sessions": 96
+      "sessions": 93
     },
     {
       "channel": "AI Assistant",
-      "sessions": 11
+      "sessions": 10
     },
     {
       "channel": "Organic Social",
-      "sessions": 6
+      "sessions": 5
     },
     {
       "channel": "Unassigned",
