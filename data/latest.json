@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-15T08:07:37.827601+00:00",
+  "updated_at": "2026-10-15T13:53:23.856245+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 404,
-    "sessions": 481,
-    "screenPageViews": 1270
+    "activeUsers": 405,
+    "sessions": 483,
+    "screenPageViews": 1271
   },
   "summary_last_28_days": {
-    "activeUsers": 723,
-    "sessions": 1125,
-    "screenPageViews": 3107
+    "activeUsers": 724,
+    "sessions": 1127,
+    "screenPageViews": 3108
   },
   "daily_trend_28_days": [
     {
@@ -126,13 +126,13 @@
     },
     {
       "date": "20261015",
-      "activeUsers": 21
+      "activeUsers": 22
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 593
+      "views": 594
     },
     {
       "page": "/btc-to-usdt",
@@ -168,13 +168,13 @@
       "activeUsers": 37
     },
     {
-      "country": "China",
-      "city": "Tianjin",
-      "activeUsers": 28
-    },
-    {
       "country": "Germany",
       "city": "(not set)",
+      "activeUsers": 29
+    },
+    {
+      "country": "China",
+      "city": "Tianjin",
       "activeUsers": 28
     },
     {
@@ -185,7 +185,7 @@
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 15
+      "activeUsers": 16
     },
     {
       "country": "Armenia",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 787
+      "sessions": 788
     },
     {
       "device": "mobile",
-      "sessions": 337
+      "sessions": 338
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 874
+      "sessions": 875
     },
     {
       "channel": "Organic Search",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 93
+      "sessions": 94
     },
     {
       "channel": "AI Assistant",
