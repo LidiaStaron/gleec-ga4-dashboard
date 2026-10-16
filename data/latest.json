@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-15T21:07:23.016758+00:00",
+  "updated_at": "2026-10-16T00:01:59.437791+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 409,
-    "sessions": 491,
-    "screenPageViews": 1282
+    "activeUsers": 364,
+    "sessions": 434,
+    "screenPageViews": 1107
   },
   "summary_last_28_days": {
-    "activeUsers": 727,
-    "sessions": 1135,
-    "screenPageViews": 3119
+    "activeUsers": 699,
+    "sessions": 1082,
+    "screenPageViews": 2928
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260917",
-      "activeUsers": 34
-    },
     {
       "date": "20260918",
       "activeUsers": 23
@@ -126,29 +122,29 @@
     },
     {
       "date": "20261015",
-      "activeUsers": 27
+      "activeUsers": 29
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 594
+      "views": 585
     },
     {
       "page": "/btc-to-usdt",
-      "views": 377
+      "views": 349
     },
     {
       "page": "/signinapp",
-      "views": 303
+      "views": 300
     },
     {
       "page": "/account",
-      "views": 144
+      "views": 138
     },
     {
       "page": "/settings/general",
-      "views": 120
+      "views": 117
     }
   ],
   "top_locations_last_28_days": [
@@ -165,12 +161,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 38
-    },
-    {
-      "country": "Germany",
-      "city": "(not set)",
-      "activeUsers": 29
+      "activeUsers": 35
     },
     {
       "country": "China",
@@ -178,29 +169,34 @@
       "activeUsers": 28
     },
     {
+      "country": "Germany",
+      "city": "(not set)",
+      "activeUsers": 26
+    },
+    {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 23
+      "activeUsers": 20
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 16
+      "activeUsers": 14
     },
     {
-      "country": "Armenia",
-      "city": "Yerevan",
-      "activeUsers": 12
+      "country": "United States",
+      "city": "Ashburn",
+      "activeUsers": 11
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 793
+      "sessions": 755
     },
     {
       "device": "mobile",
-      "sessions": 341
+      "sessions": 327
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 882
+      "sessions": 856
     },
     {
       "channel": "Organic Search",
-      "sessions": 137
+      "sessions": 116
     },
     {
       "channel": "Referral",
-      "sessions": 95
+      "sessions": 90
     },
     {
       "channel": "AI Assistant",
