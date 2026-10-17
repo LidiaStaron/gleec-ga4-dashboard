@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-17T10:04:21.396942+00:00",
+  "updated_at": "2026-10-17T14:02:04.046245+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 134,
-    "sessions": 203,
-    "screenPageViews": 645
+    "activeUsers": 140,
+    "sessions": 210,
+    "screenPageViews": 652
   },
   "summary_last_28_days": {
-    "activeUsers": 705,
-    "sessions": 1086,
-    "screenPageViews": 2944
+    "activeUsers": 711,
+    "sessions": 1094,
+    "screenPageViews": 2951
   },
   "daily_trend_28_days": [
     {
@@ -126,13 +126,13 @@
     },
     {
       "date": "20261017",
-      "activeUsers": 1
+      "activeUsers": 7
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 611
+      "views": 613
     },
     {
       "page": "/btc-to-usdt",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 141
+      "views": 142
     },
     {
       "page": "/settings/general",
@@ -160,7 +160,7 @@
     {
       "country": "China",
       "city": "Shanghai",
-      "activeUsers": 87
+      "activeUsers": 88
     },
     {
       "country": "United States",
@@ -180,12 +180,12 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 14
+      "activeUsers": 17
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 14
+      "activeUsers": 16
     },
     {
       "country": "United States",
@@ -196,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 754
+      "sessions": 760
     },
     {
       "device": "mobile",
-      "sessions": 333
+      "sessions": 334
     },
     {
       "device": "tablet",
@@ -210,7 +210,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 860
+      "sessions": 866
     },
     {
       "channel": "Organic Search",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 88
+      "sessions": 89
     },
     {
       "channel": "AI Assistant",
