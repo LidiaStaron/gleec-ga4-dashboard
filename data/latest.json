@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-17T00:59:32.937381+00:00",
+  "updated_at": "2026-10-17T05:28:13.230992+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 130,
-    "sessions": 198,
-    "screenPageViews": 615
+    "activeUsers": 132,
+    "sessions": 201,
+    "screenPageViews": 626
   },
   "summary_last_28_days": {
-    "activeUsers": 701,
-    "sessions": 1081,
-    "screenPageViews": 2914
+    "activeUsers": 703,
+    "sessions": 1084,
+    "screenPageViews": 2925
   },
   "daily_trend_28_days": [
     {
@@ -122,25 +122,25 @@
     },
     {
       "date": "20261016",
-      "activeUsers": 15
+      "activeUsers": 17
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 608
+      "views": 609
     },
     {
       "page": "/btc-to-usdt",
-      "views": 339
+      "views": 340
     },
     {
       "page": "/signinapp",
-      "views": 300
+      "views": 302
     },
     {
       "page": "/account",
-      "views": 139
+      "views": 140
     },
     {
       "page": "/settings/general",
@@ -174,14 +174,14 @@
       "activeUsers": 28
     },
     {
-      "country": "United States",
-      "city": "(not set)",
+      "country": "Singapore",
+      "city": "Singapore",
       "activeUsers": 14
     },
     {
-      "country": "Singapore",
-      "city": "Singapore",
-      "activeUsers": 13
+      "country": "United States",
+      "city": "(not set)",
+      "activeUsers": 14
     },
     {
       "country": "United States",
@@ -192,11 +192,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 752
+      "sessions": 753
     },
     {
       "device": "mobile",
-      "sessions": 330
+      "sessions": 332
     },
     {
       "device": "tablet",
@@ -206,11 +206,11 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 857
+      "sessions": 859
     },
     {
       "channel": "Organic Search",
-      "sessions": 117
+      "sessions": 118
     },
     {
       "channel": "Referral",
