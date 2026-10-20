@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-20T07:04:33.834410+00:00",
+  "updated_at": "2026-10-20T13:15:55.361833+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 139,
-    "sessions": 217,
-    "screenPageViews": 683
+    "activeUsers": 156,
+    "sessions": 249,
+    "screenPageViews": 868
   },
   "summary_last_28_days": {
-    "activeUsers": 708,
-    "sessions": 1086,
-    "screenPageViews": 3010
+    "activeUsers": 723,
+    "sessions": 1118,
+    "screenPageViews": 3195
   },
   "daily_trend_28_days": [
     {
@@ -122,36 +122,40 @@
     },
     {
       "date": "20261019",
-      "activeUsers": 15
+      "activeUsers": 27
+    },
+    {
+      "date": "20261020",
+      "activeUsers": 10
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 635
+      "views": 650
     },
     {
       "page": "/btc-to-usdt",
-      "views": 344
+      "views": 361
     },
     {
       "page": "/signinapp",
-      "views": 309
+      "views": 310
     },
     {
       "page": "/account",
-      "views": 146
+      "views": 160
     },
     {
       "page": "/settings/general",
-      "views": 118
+      "views": 121
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "China",
       "city": "Shenzhen",
-      "activeUsers": 138
+      "activeUsers": 139
     },
     {
       "country": "China",
@@ -159,13 +163,13 @@
       "activeUsers": 88
     },
     {
-      "country": "Germany",
-      "city": "(not set)",
-      "activeUsers": 33
-    },
-    {
       "country": "United States",
       "city": "North Charleston",
+      "activeUsers": 34
+    },
+    {
+      "country": "Germany",
+      "city": "(not set)",
       "activeUsers": 33
     },
     {
@@ -176,12 +180,12 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 17
+      "activeUsers": 20
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 16
+      "activeUsers": 17
     },
     {
       "country": "Armenia",
@@ -192,11 +196,11 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 761
+      "sessions": 787
     },
     {
       "device": "mobile",
-      "sessions": 327
+      "sessions": 332
     },
     {
       "device": "tablet",
@@ -206,15 +210,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 866
+      "sessions": 884
     },
     {
       "channel": "Organic Search",
-      "sessions": 116
+      "sessions": 122
     },
     {
       "channel": "Referral",
-      "sessions": 85
+      "sessions": 91
     },
     {
       "channel": "AI Assistant",
@@ -226,7 +230,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 4
+      "sessions": 5
     }
   ]
 }
