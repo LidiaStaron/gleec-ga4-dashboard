@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-20T01:30:32.020187+00:00",
+  "updated_at": "2026-10-20T07:04:33.834410+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 129,
-    "sessions": 196,
-    "screenPageViews": 551
+    "activeUsers": 139,
+    "sessions": 217,
+    "screenPageViews": 683
   },
   "summary_last_28_days": {
-    "activeUsers": 698,
-    "sessions": 1065,
-    "screenPageViews": 2878
+    "activeUsers": 708,
+    "sessions": 1086,
+    "screenPageViews": 3010
   },
   "daily_trend_28_days": [
     {
@@ -122,17 +122,17 @@
     },
     {
       "date": "20261019",
-      "activeUsers": 3
+      "activeUsers": 15
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 605
+      "views": 635
     },
     {
       "page": "/btc-to-usdt",
-      "views": 324
+      "views": 344
     },
     {
       "page": "/signinapp",
@@ -140,11 +140,11 @@
     },
     {
       "page": "/account",
-      "views": 142
+      "views": 146
     },
     {
       "page": "/settings/general",
-      "views": 114
+      "views": 118
     }
   ],
   "top_locations_last_28_days": [
@@ -166,7 +166,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 31
+      "activeUsers": 33
     },
     {
       "country": "China",
@@ -176,7 +176,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 16
+      "activeUsers": 17
     },
     {
       "country": "United States",
@@ -184,19 +184,19 @@
       "activeUsers": 16
     },
     {
-      "country": "United States",
-      "city": "Ashburn",
+      "country": "Armenia",
+      "city": "Yerevan",
       "activeUsers": 10
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 747
+      "sessions": 761
     },
     {
       "device": "mobile",
-      "sessions": 320
+      "sessions": 327
     },
     {
       "device": "tablet",
@@ -206,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 852
+      "sessions": 866
     },
     {
       "channel": "Organic Search",
-      "sessions": 110
+      "sessions": 116
     },
     {
       "channel": "Referral",
-      "sessions": 84
+      "sessions": 85
     },
     {
       "channel": "AI Assistant",
