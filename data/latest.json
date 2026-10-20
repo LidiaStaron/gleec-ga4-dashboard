@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-20T18:17:05.367883+00:00",
+  "updated_at": "2026-10-20T22:02:39.271145+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 158,
-    "sessions": 255,
-    "screenPageViews": 884
+    "sessions": 256,
+    "screenPageViews": 887
   },
   "summary_last_28_days": {
     "activeUsers": 725,
-    "sessions": 1124,
-    "screenPageViews": 3211
+    "sessions": 1125,
+    "screenPageViews": 3214
   },
   "daily_trend_28_days": [
     {
@@ -136,7 +136,7 @@
     },
     {
       "page": "/btc-to-usdt",
-      "views": 365
+      "views": 366
     },
     {
       "page": "/signinapp",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 161
+      "views": 162
     },
     {
       "page": "/settings/general",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 792
+      "sessions": 793
     },
     {
       "device": "mobile",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 92
+      "sessions": 93
     },
     {
       "channel": "AI Assistant",
