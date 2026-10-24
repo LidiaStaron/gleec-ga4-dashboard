@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-23T21:48:56.191583+00:00",
+  "updated_at": "2026-10-24T00:13:01.053073+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 159,
-    "sessions": 259,
-    "screenPageViews": 894
+    "activeUsers": 145,
+    "sessions": 236,
+    "screenPageViews": 817
   },
   "summary_last_28_days": {
-    "activeUsers": 753,
-    "sessions": 1140,
-    "screenPageViews": 3247
+    "activeUsers": 740,
+    "sessions": 1117,
+    "screenPageViews": 3202
   },
   "daily_trend_28_days": [
-    {
-      "date": "20260925",
-      "activeUsers": 17
-    },
     {
       "date": "20260926",
       "activeUsers": 23
@@ -126,21 +122,21 @@
     },
     {
       "date": "20261023",
-      "activeUsers": 21
+      "activeUsers": 23
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 682
+      "views": 678
     },
     {
       "page": "/btc-to-usdt",
-      "views": 381
+      "views": 379
     },
     {
       "page": "/signinapp",
-      "views": 323
+      "views": 320
     },
     {
       "page": "/account",
@@ -148,7 +144,7 @@
     },
     {
       "page": "/settings/general",
-      "views": 119
+      "views": 117
     }
   ],
   "top_locations_last_28_days": [
@@ -190,17 +186,17 @@
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 14
+      "activeUsers": 13
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 830
+      "sessions": 817
     },
     {
       "device": "mobile",
-      "sessions": 314
+      "sessions": 304
     },
     {
       "device": "tablet",
@@ -210,15 +206,15 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 888
+      "sessions": 870
     },
     {
       "channel": "Organic Search",
-      "sessions": 129
+      "sessions": 126
     },
     {
       "channel": "Referral",
-      "sessions": 102
+      "sessions": 100
     },
     {
       "channel": "AI Assistant",
