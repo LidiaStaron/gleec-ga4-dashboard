@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-25T10:37:04.463741+00:00",
+  "updated_at": "2026-10-25T14:45:10.405664+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 160,
-    "sessions": 254,
-    "screenPageViews": 861
+    "activeUsers": 164,
+    "sessions": 259,
+    "screenPageViews": 867
   },
   "summary_last_28_days": {
-    "activeUsers": 750,
-    "sessions": 1116,
-    "screenPageViews": 3218
+    "activeUsers": 753,
+    "sessions": 1121,
+    "screenPageViews": 3224
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20261025",
-      "activeUsers": 3
+      "activeUsers": 8
     }
   ],
   "top_pages_last_28_days": [
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 191
+      "views": 192
     },
     {
       "page": "/settings/general",
@@ -165,7 +165,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 44
+      "activeUsers": 47
     },
     {
       "country": "Germany",
@@ -196,7 +196,7 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 819
+      "sessions": 824
     },
     {
       "device": "mobile",
@@ -206,7 +206,7 @@
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 867
+      "sessions": 871
     },
     {
       "channel": "Organic Search",
@@ -214,7 +214,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 95
+      "sessions": 96
     },
     {
       "channel": "AI Assistant",
