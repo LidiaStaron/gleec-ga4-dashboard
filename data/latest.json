@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-26T15:47:34.537391+00:00",
+  "updated_at": "2026-10-26T20:52:13.743616+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 173,
-    "sessions": 263,
-    "screenPageViews": 881
+    "activeUsers": 179,
+    "sessions": 275,
+    "screenPageViews": 929
   },
   "summary_last_28_days": {
-    "activeUsers": 755,
-    "sessions": 1119,
-    "screenPageViews": 3209
+    "activeUsers": 760,
+    "sessions": 1131,
+    "screenPageViews": 3257
   },
   "daily_trend_28_days": [
     {
@@ -126,29 +126,29 @@
     },
     {
       "date": "20261026",
-      "activeUsers": 11
+      "activeUsers": 20
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 686
+      "views": 688
     },
     {
       "page": "/btc-to-usdt",
-      "views": 390
+      "views": 407
     },
     {
       "page": "/signinapp",
-      "views": 321
+      "views": 325
     },
     {
       "page": "/account",
-      "views": 203
+      "views": 210
     },
     {
       "page": "/settings/general",
-      "views": 114
+      "views": 117
     }
   ],
   "top_locations_last_28_days": [
@@ -165,7 +165,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 46
+      "activeUsers": 47
     },
     {
       "country": "Germany",
@@ -188,33 +188,33 @@
       "activeUsers": 17
     },
     {
-      "country": "United States",
-      "city": "(not set)",
-      "activeUsers": 12
+      "country": "Georgia",
+      "city": "Tbilisi",
+      "activeUsers": 13
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 830
+      "sessions": 839
     },
     {
       "device": "mobile",
-      "sessions": 295
+      "sessions": 298
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 870
+      "sessions": 878
     },
     {
       "channel": "Organic Search",
-      "sessions": 131
+      "sessions": 134
     },
     {
       "channel": "Referral",
-      "sessions": 96
+      "sessions": 97
     },
     {
       "channel": "AI Assistant",
