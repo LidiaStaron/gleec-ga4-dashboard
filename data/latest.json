@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-29T11:15:49.812498+00:00",
+  "updated_at": "2026-10-29T17:57:53.727536+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 189,
-    "sessions": 277,
-    "screenPageViews": 862
+    "activeUsers": 201,
+    "sessions": 291,
+    "screenPageViews": 881
   },
   "summary_last_28_days": {
-    "activeUsers": 786,
-    "sessions": 1145,
-    "screenPageViews": 3289
+    "activeUsers": 798,
+    "sessions": 1158,
+    "screenPageViews": 3308
   },
   "daily_trend_28_days": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "date": "20261029",
-      "activeUsers": 7
+      "activeUsers": 21
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 687
+      "views": 691
     },
     {
       "page": "/btc-to-usdt",
-      "views": 417
+      "views": 421
     },
     {
       "page": "/signinapp",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 241
+      "views": 243
     },
     {
       "page": "/settings/general",
@@ -165,7 +165,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 60
+      "activeUsers": 64
     },
     {
       "country": "Germany",
@@ -196,25 +196,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 847
+      "sessions": 857
     },
     {
       "device": "mobile",
-      "sessions": 304
+      "sessions": 307
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 884
+      "sessions": 892
     },
     {
       "channel": "Organic Search",
-      "sessions": 148
+      "sessions": 152
     },
     {
       "channel": "Referral",
-      "sessions": 91
+      "sessions": 92
     },
     {
       "channel": "AI Assistant",
