@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-30T09:32:06.218024+00:00",
+  "updated_at": "2026-10-30T16:29:55.726252+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 174,
-    "sessions": 259,
-    "screenPageViews": 767
+    "activeUsers": 185,
+    "sessions": 270,
+    "screenPageViews": 783
   },
   "summary_last_28_days": {
-    "activeUsers": 795,
-    "sessions": 1147,
-    "screenPageViews": 3243
+    "activeUsers": 804,
+    "sessions": 1159,
+    "screenPageViews": 3259
   },
   "daily_trend_28_days": [
     {
@@ -126,25 +126,25 @@
     },
     {
       "date": "20261030",
-      "activeUsers": 7
+      "activeUsers": 18
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 699
+      "views": 704
     },
     {
       "page": "/btc-to-usdt",
-      "views": 415
+      "views": 419
     },
     {
       "page": "/signinapp",
-      "views": 323
+      "views": 324
     },
     {
       "page": "/account",
-      "views": 239
+      "views": 240
     },
     {
       "page": "/settings/general",
@@ -165,7 +165,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 63
+      "activeUsers": 67
     },
     {
       "country": "China",
@@ -180,7 +180,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 19
+      "activeUsers": 24
     },
     {
       "country": "Germany",
@@ -196,25 +196,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 859
+      "sessions": 870
     },
     {
       "device": "mobile",
-      "sessions": 294
+      "sessions": 295
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 874
+      "sessions": 879
     },
     {
       "channel": "Organic Search",
-      "sessions": 153
+      "sessions": 156
     },
     {
       "channel": "Referral",
-      "sessions": 100
+      "sessions": 104
     },
     {
       "channel": "AI Assistant",
@@ -222,7 +222,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 9
+      "sessions": 7
     },
     {
       "channel": "Organic Social",
