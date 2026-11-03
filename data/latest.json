@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-03T15:46:15.183588+00:00",
+  "updated_at": "2026-11-03T21:28:01.800864+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 237,
-    "sessions": 336,
-    "screenPageViews": 902
+    "activeUsers": 273,
+    "sessions": 374,
+    "screenPageViews": 951
   },
   "summary_last_28_days": {
-    "activeUsers": 875,
-    "sessions": 1242,
-    "screenPageViews": 3519
+    "activeUsers": 911,
+    "sessions": 1279,
+    "screenPageViews": 3568
   },
   "daily_trend_28_days": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "date": "20261103",
-      "activeUsers": 47
+      "activeUsers": 83
     }
   ],
   "top_pages_last_28_days": [
@@ -136,7 +136,7 @@
     },
     {
       "page": "/btc-to-usdt",
-      "views": 454
+      "views": 457
     },
     {
       "page": "/signinapp",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 282
+      "views": 287
     },
     {
       "page": "/gleec-to-usdt",
@@ -168,6 +168,11 @@
       "activeUsers": 64
     },
     {
+      "country": "United States",
+      "city": "",
+      "activeUsers": 38
+    },
+    {
       "country": "China",
       "city": "Tianjin",
       "activeUsers": 28
@@ -183,34 +188,29 @@
       "activeUsers": 22
     },
     {
-      "country": "United States",
-      "city": "",
-      "activeUsers": 21
-    },
-    {
       "country": "Germany",
       "city": "Frankfurt am Main",
-      "activeUsers": 18
+      "activeUsers": 20
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 966
+      "sessions": 1002
     },
     {
       "device": "mobile",
-      "sessions": 283
+      "sessions": 284
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 939
+      "sessions": 976
     },
     {
       "channel": "Organic Search",
-      "sessions": 173
+      "sessions": 174
     },
     {
       "channel": "Referral",
