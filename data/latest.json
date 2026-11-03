@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-03T00:26:03.552191+00:00",
+  "updated_at": "2026-11-03T07:30:40.762917+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 190,
-    "sessions": 280,
-    "screenPageViews": 833
+    "activeUsers": 193,
+    "sessions": 287,
+    "screenPageViews": 845
   },
   "summary_last_28_days": {
-    "activeUsers": 828,
-    "sessions": 1185,
-    "screenPageViews": 3450
+    "activeUsers": 831,
+    "sessions": 1192,
+    "screenPageViews": 3462
   },
   "daily_trend_28_days": [
     {
@@ -122,13 +122,17 @@
     },
     {
       "date": "20261102",
-      "activeUsers": 20
+      "activeUsers": 22
+    },
+    {
+      "date": "20261103",
+      "activeUsers": 2
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 752
+      "views": 754
     },
     {
       "page": "/btc-to-usdt",
@@ -140,11 +144,11 @@
     },
     {
       "page": "/account",
-      "views": 279
+      "views": 280
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 112
+      "views": 114
     }
   ],
   "top_locations_last_28_days": [
@@ -171,7 +175,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 24
+      "activeUsers": 25
     },
     {
       "country": "Germany",
@@ -192,25 +196,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 916
+      "sessions": 921
     },
     {
       "device": "mobile",
-      "sessions": 276
+      "sessions": 278
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 893
+      "sessions": 897
     },
     {
       "channel": "Organic Search",
-      "sessions": 166
+      "sessions": 168
     },
     {
       "channel": "Referral",
-      "sessions": 107
+      "sessions": 108
     },
     {
       "channel": "AI Assistant",
@@ -218,7 +222,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 7
+      "sessions": 8
     },
     {
       "channel": "Organic Social",
