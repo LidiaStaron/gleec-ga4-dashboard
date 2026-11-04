@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-03T21:28:01.800864+00:00",
+  "updated_at": "2026-11-04T01:51:36.198721+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 273,
-    "sessions": 374,
-    "screenPageViews": 951
+    "activeUsers": 268,
+    "sessions": 361,
+    "screenPageViews": 917
   },
   "summary_last_28_days": {
-    "activeUsers": 911,
-    "sessions": 1279,
-    "screenPageViews": 3568
+    "activeUsers": 899,
+    "sessions": 1257,
+    "screenPageViews": 3493
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261006",
-      "activeUsers": 27
-    },
     {
       "date": "20261007",
       "activeUsers": 14
@@ -126,29 +122,29 @@
     },
     {
       "date": "20261103",
-      "activeUsers": 83
+      "activeUsers": 96
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 759
+      "views": 746
     },
     {
       "page": "/btc-to-usdt",
-      "views": 457
+      "views": 442
     },
     {
       "page": "/signinapp",
-      "views": 335
+      "views": 334
     },
     {
       "page": "/account",
-      "views": 287
+      "views": 280
     },
     {
-      "page": "/gleec-to-usdt",
-      "views": 114
+      "page": "/settings/general",
+      "views": 107
     }
   ],
   "top_locations_last_28_days": [
@@ -165,12 +161,12 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 64
+      "activeUsers": 63
     },
     {
       "country": "United States",
       "city": "",
-      "activeUsers": 38
+      "activeUsers": 41
     },
     {
       "country": "China",
@@ -196,25 +192,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1002
+      "sessions": 991
     },
     {
       "device": "mobile",
-      "sessions": 284
+      "sessions": 273
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 976
+      "sessions": 966
     },
     {
       "channel": "Organic Search",
-      "sessions": 174
+      "sessions": 166
     },
     {
       "channel": "Referral",
-      "sessions": 110
+      "sessions": 108
     },
     {
       "channel": "Unassigned",
@@ -222,7 +218,7 @@
     },
     {
       "channel": "AI Assistant",
-      "sessions": 8
+      "sessions": 6
     },
     {
       "channel": "Organic Social",
