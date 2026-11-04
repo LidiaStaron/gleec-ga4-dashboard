@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-04T08:31:42.578836+00:00",
+  "updated_at": "2026-11-04T16:48:20.092492+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 269,
-    "sessions": 368,
-    "screenPageViews": 923
+    "activeUsers": 278,
+    "sessions": 381,
+    "screenPageViews": 950
   },
   "summary_last_28_days": {
-    "activeUsers": 900,
-    "sessions": 1263,
-    "screenPageViews": 3499
+    "activeUsers": 909,
+    "sessions": 1276,
+    "screenPageViews": 3526
   },
   "daily_trend_28_days": [
     {
@@ -126,25 +126,25 @@
     },
     {
       "date": "20261104",
-      "activeUsers": 3
+      "activeUsers": 14
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 747
+      "views": 751
     },
     {
       "page": "/btc-to-usdt",
-      "views": 442
+      "views": 445
     },
     {
       "page": "/signinapp",
-      "views": 334
+      "views": 335
     },
     {
       "page": "/account",
-      "views": 280
+      "views": 281
     },
     {
       "page": "/settings/general",
@@ -165,12 +165,12 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 63
+      "activeUsers": 65
     },
     {
       "country": "United States",
-      "city": "",
-      "activeUsers": 41
+      "city": "(not set)",
+      "activeUsers": 53
     },
     {
       "country": "China",
@@ -185,7 +185,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 22
+      "activeUsers": 25
     },
     {
       "country": "Germany",
@@ -196,29 +196,29 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 994
+      "sessions": 1003
     },
     {
       "device": "mobile",
-      "sessions": 276
+      "sessions": 280
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 971
+      "sessions": 981
     },
     {
       "channel": "Organic Search",
-      "sessions": 167
+      "sessions": 169
     },
     {
       "channel": "Referral",
-      "sessions": 108
+      "sessions": 109
     },
     {
       "channel": "Unassigned",
-      "sessions": 9
+      "sessions": 7
     },
     {
       "channel": "AI Assistant",
