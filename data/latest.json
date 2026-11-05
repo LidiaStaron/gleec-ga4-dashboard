@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-04T22:23:29.872492+00:00",
+  "updated_at": "2026-11-05T03:05:11.622762+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 288,
-    "sessions": 394,
-    "screenPageViews": 1029
+    "activeUsers": 256,
+    "sessions": 336,
+    "screenPageViews": 777
   },
   "summary_last_28_days": {
-    "activeUsers": 918,
-    "sessions": 1289,
-    "screenPageViews": 3605
+    "activeUsers": 913,
+    "sessions": 1274,
+    "screenPageViews": 3546
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261007",
-      "activeUsers": 14
-    },
     {
       "date": "20261008",
       "activeUsers": 50
@@ -126,29 +122,29 @@
     },
     {
       "date": "20261104",
-      "activeUsers": 24
+      "activeUsers": 29
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 793
+      "views": 814
     },
     {
       "page": "/btc-to-usdt",
-      "views": 450
+      "views": 438
     },
     {
       "page": "/signinapp",
-      "views": 339
+      "views": 337
     },
     {
       "page": "/account",
-      "views": 285
+      "views": 281
     },
     {
-      "page": "/settings/general",
-      "views": 109
+      "page": "/gleec-to-usdt",
+      "views": 107
     }
   ],
   "top_locations_last_28_days": [
@@ -196,37 +192,37 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1009
+      "sessions": 1000
     },
     {
       "device": "mobile",
-      "sessions": 287
+      "sessions": 281
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 986
+      "sessions": 976
     },
     {
       "channel": "Organic Search",
-      "sessions": 171
+      "sessions": 166
     },
     {
       "channel": "Referral",
-      "sessions": 115
+      "sessions": 116
     },
     {
       "channel": "Unassigned",
       "sessions": 7
     },
     {
-      "channel": "AI Assistant",
+      "channel": "Organic Social",
       "sessions": 6
     },
     {
-      "channel": "Organic Social",
-      "sessions": 6
+      "channel": "AI Assistant",
+      "sessions": 5
     }
   ]
 }
