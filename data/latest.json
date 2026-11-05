@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-05T03:05:11.622762+00:00",
+  "updated_at": "2026-11-05T11:49:14.397178+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 256,
-    "sessions": 336,
-    "screenPageViews": 777
+    "activeUsers": 257,
+    "sessions": 340,
+    "screenPageViews": 792
   },
   "summary_last_28_days": {
-    "activeUsers": 913,
-    "sessions": 1274,
-    "screenPageViews": 3546
+    "activeUsers": 914,
+    "sessions": 1278,
+    "screenPageViews": 3561
   },
   "daily_trend_28_days": [
     {
@@ -123,12 +123,16 @@
     {
       "date": "20261104",
       "activeUsers": 29
+    },
+    {
+      "date": "20261105",
+      "activeUsers": 2
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 814
+      "views": 815
     },
     {
       "page": "/btc-to-usdt",
@@ -136,7 +140,7 @@
     },
     {
       "page": "/signinapp",
-      "views": 337
+      "views": 340
     },
     {
       "page": "/account",
@@ -166,7 +170,7 @@
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 53
+      "activeUsers": 56
     },
     {
       "country": "China",
@@ -174,14 +178,14 @@
       "activeUsers": 28
     },
     {
+      "country": "Germany",
+      "city": "(not set)",
+      "activeUsers": 28
+    },
+    {
       "country": "Singapore",
       "city": "Singapore",
       "activeUsers": 26
-    },
-    {
-      "country": "Germany",
-      "city": "(not set)",
-      "activeUsers": 25
     },
     {
       "country": "Germany",
@@ -196,13 +200,13 @@
     },
     {
       "device": "mobile",
-      "sessions": 281
+      "sessions": 285
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 976
+      "sessions": 979
     },
     {
       "channel": "Organic Search",
@@ -213,12 +217,12 @@
       "sessions": 116
     },
     {
-      "channel": "Unassigned",
+      "channel": "Organic Social",
       "sessions": 7
     },
     {
-      "channel": "Organic Social",
-      "sessions": 6
+      "channel": "Unassigned",
+      "sessions": 7
     },
     {
       "channel": "AI Assistant",
