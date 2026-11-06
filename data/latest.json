@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-05T19:26:07.134176+00:00",
+  "updated_at": "2026-11-06T00:43:03.871175+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 262,
-    "sessions": 349,
-    "screenPageViews": 849
+    "activeUsers": 236,
+    "sessions": 315,
+    "screenPageViews": 781
   },
   "summary_last_28_days": {
-    "activeUsers": 919,
-    "sessions": 1287,
-    "screenPageViews": 3618
+    "activeUsers": 884,
+    "sessions": 1241,
+    "screenPageViews": 3463
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261008",
-      "activeUsers": 50
-    },
     {
       "date": "20261009",
       "activeUsers": 259
@@ -126,56 +122,51 @@
     },
     {
       "date": "20261105",
-      "activeUsers": 9
+      "activeUsers": 20
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 818
+      "views": 774
     },
     {
       "page": "/btc-to-usdt",
-      "views": 447
+      "views": 436
     },
     {
       "page": "/signinapp",
-      "views": 345
+      "views": 321
     },
     {
       "page": "/account",
-      "views": 282
+      "views": 279
     },
     {
       "page": "/settings/general",
-      "views": 117
+      "views": 111
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "China",
       "city": "Shenzhen",
-      "activeUsers": 139
+      "activeUsers": 138
     },
     {
       "country": "China",
       "city": "Shanghai",
-      "activeUsers": 90
+      "activeUsers": 89
     },
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 69
+      "activeUsers": 68
     },
     {
       "country": "United States",
       "city": "(not set)",
       "activeUsers": 56
-    },
-    {
-      "country": "China",
-      "city": "Tianjin",
-      "activeUsers": 28
     },
     {
       "country": "Germany",
@@ -185,7 +176,12 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 26
+      "activeUsers": 24
+    },
+    {
+      "country": "United States",
+      "city": "Ashburn",
+      "activeUsers": 21
     },
     {
       "country": "Germany",
@@ -196,37 +192,37 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1009
+      "sessions": 976
     },
     {
       "device": "mobile",
-      "sessions": 285
+      "sessions": 272
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 986
+      "sessions": 944
     },
     {
       "channel": "Organic Search",
-      "sessions": 167
+      "sessions": 164
     },
     {
       "channel": "Referral",
-      "sessions": 117
+      "sessions": 116
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 8
     },
     {
       "channel": "Organic Social",
       "sessions": 7
     },
     {
-      "channel": "Unassigned",
-      "sessions": 7
-    },
-    {
       "channel": "AI Assistant",
-      "sessions": 5
+      "sessions": 4
     }
   ]
 }
