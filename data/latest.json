@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-06T21:14:50.330256+00:00",
+  "updated_at": "2026-11-07T01:34:06.607195+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 279,
-    "sessions": 363,
-    "screenPageViews": 853
+    "activeUsers": 255,
+    "sessions": 328,
+    "screenPageViews": 722
   },
   "summary_last_28_days": {
-    "activeUsers": 927,
-    "sessions": 1287,
-    "screenPageViews": 3535
+    "activeUsers": 679,
+    "sessions": 1030,
+    "screenPageViews": 2970
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261009",
-      "activeUsers": 259
-    },
     {
       "date": "20261010",
       "activeUsers": 12
@@ -126,25 +122,25 @@
     },
     {
       "date": "20261106",
-      "activeUsers": 17
+      "activeUsers": 25
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 796
+      "views": 509
     },
     {
       "page": "/btc-to-usdt",
-      "views": 442
-    },
-    {
-      "page": "/signinapp",
-      "views": 327
+      "views": 420
     },
     {
       "page": "/account",
-      "views": 282
+      "views": 281
+    },
+    {
+      "page": "/signinapp",
+      "views": 122
     },
     {
       "page": "/settings/general",
@@ -153,24 +149,14 @@
   ],
   "top_locations_last_28_days": [
     {
-      "country": "China",
-      "city": "Shenzhen",
-      "activeUsers": 138
-    },
-    {
-      "country": "China",
-      "city": "Shanghai",
-      "activeUsers": 89
-    },
-    {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 70
+      "activeUsers": 68
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 56
+      "activeUsers": 55
     },
     {
       "country": "Germany",
@@ -191,34 +177,44 @@
       "country": "Germany",
       "city": "Frankfurt am Main",
       "activeUsers": 20
+    },
+    {
+      "country": "Seychelles",
+      "city": "(not set)",
+      "activeUsers": 18
+    },
+    {
+      "country": "Georgia",
+      "city": "Tbilisi",
+      "activeUsers": 16
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 1007
+      "sessions": 754
     },
     {
       "device": "mobile",
-      "sessions": 287
+      "sessions": 281
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 984
+      "sessions": 728
     },
     {
       "channel": "Organic Search",
-      "sessions": 169
+      "sessions": 166
     },
     {
       "channel": "Referral",
-      "sessions": 118
+      "sessions": 117
     },
     {
       "channel": "Unassigned",
-      "sessions": 10
+      "sessions": 11
     },
     {
       "channel": "Organic Social",
