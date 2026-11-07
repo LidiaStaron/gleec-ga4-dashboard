@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-07T15:23:20.849402+00:00",
+  "updated_at": "2026-11-07T19:50:20.215597+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 281,
-    "sessions": 359,
-    "screenPageViews": 775
+    "activeUsers": 288,
+    "sessions": 370,
+    "screenPageViews": 785
   },
   "summary_last_28_days": {
-    "activeUsers": 705,
-    "sessions": 1061,
-    "screenPageViews": 3023
+    "activeUsers": 712,
+    "sessions": 1071,
+    "screenPageViews": 3033
   },
   "daily_trend_28_days": [
     {
@@ -126,13 +126,13 @@
     },
     {
       "date": "20261107",
-      "activeUsers": 28
+      "activeUsers": 35
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 513
+      "views": 515
     },
     {
       "page": "/btc-to-usdt",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/signinapp",
-      "views": 125
+      "views": 127
     },
     {
       "page": "/settings/general",
@@ -155,7 +155,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 72
+      "activeUsers": 74
     },
     {
       "country": "United States",
@@ -188,29 +188,29 @@
       "activeUsers": 18
     },
     {
-      "country": "Georgia",
-      "city": "Tbilisi",
-      "activeUsers": 16
+      "country": "Hong Kong",
+      "city": "Hong Kong",
+      "activeUsers": 17
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 784
+      "sessions": 791
     },
     {
       "device": "mobile",
-      "sessions": 282
+      "sessions": 285
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 757
+      "sessions": 765
     },
     {
       "channel": "Organic Search",
-      "sessions": 166
+      "sessions": 167
     },
     {
       "channel": "Referral",
@@ -218,7 +218,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 12
+      "sessions": 13
     },
     {
       "channel": "Organic Social",
