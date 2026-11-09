@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-08T21:37:47.039572+00:00",
+  "updated_at": "2026-11-09T01:23:39.962366+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 283,
-    "sessions": 360,
-    "screenPageViews": 752
+    "activeUsers": 253,
+    "sessions": 317,
+    "screenPageViews": 628
   },
   "summary_last_28_days": {
-    "activeUsers": 711,
-    "sessions": 1065,
-    "screenPageViews": 2950
+    "activeUsers": 706,
+    "sessions": 1055,
+    "screenPageViews": 2917
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261011",
-      "activeUsers": 9
-    },
     {
       "date": "20261012",
       "activeUsers": 13
@@ -126,29 +122,29 @@
     },
     {
       "date": "20261108",
-      "activeUsers": 8
+      "activeUsers": 11
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 510
+      "views": 508
     },
     {
       "page": "/btc-to-usdt",
-      "views": 404
+      "views": 398
     },
     {
       "page": "/account",
-      "views": 282
+      "views": 279
     },
     {
       "page": "/signinapp",
-      "views": 120
+      "views": 119
     },
     {
-      "page": "/settings/general",
-      "views": 105
+      "page": "/gleec-to-usdt",
+      "views": 100
     }
   ],
   "top_locations_last_28_days": [
@@ -160,7 +156,7 @@
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 69
+      "activeUsers": 68
     },
     {
       "country": "Germany",
@@ -175,7 +171,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 24
+      "activeUsers": 23
     },
     {
       "country": "Germany",
@@ -196,21 +192,21 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 791
+      "sessions": 787
     },
     {
       "device": "mobile",
-      "sessions": 277
+      "sessions": 270
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 760
+      "sessions": 753
     },
     {
       "channel": "Organic Search",
-      "sessions": 167
+      "sessions": 163
     },
     {
       "channel": "Referral",
@@ -218,7 +214,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 11
+      "sessions": 12
     },
     {
       "channel": "Organic Social",
