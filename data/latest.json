@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-09T20:22:45.798618+00:00",
+  "updated_at": "2026-11-10T03:07:33.647798+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 269,
-    "sessions": 341,
-    "screenPageViews": 712
+    "activeUsers": 255,
+    "sessions": 312,
+    "screenPageViews": 655
   },
   "summary_last_28_days": {
-    "activeUsers": 720,
-    "sessions": 1079,
-    "screenPageViews": 3001
+    "activeUsers": 713,
+    "sessions": 1065,
+    "screenPageViews": 2969
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261012",
-      "activeUsers": 13
-    },
     {
       "date": "20261013",
       "activeUsers": 23
@@ -126,29 +122,29 @@
     },
     {
       "date": "20261109",
-      "activeUsers": 21
+      "activeUsers": 25
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 523
+      "views": 518
     },
     {
       "page": "/btc-to-usdt",
-      "views": 418
+      "views": 409
     },
     {
       "page": "/account",
-      "views": 283
+      "views": 279
     },
     {
       "page": "/signinapp",
-      "views": 122
+      "views": 128
     },
     {
       "page": "/gleec-to-usdt",
-      "views": 104
+      "views": 100
     }
   ],
   "top_locations_last_28_days": [
@@ -188,33 +184,33 @@
       "activeUsers": 18
     },
     {
-      "country": "Hong Kong",
-      "city": "Hong Kong",
-      "activeUsers": 17
+      "country": "Georgia",
+      "city": "Tbilisi",
+      "activeUsers": 16
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 807
+      "sessions": 795
     },
     {
       "device": "mobile",
-      "sessions": 274
+      "sessions": 272
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 766
+      "sessions": 755
     },
     {
       "channel": "Organic Search",
-      "sessions": 167
+      "sessions": 166
     },
     {
       "channel": "Referral",
-      "sessions": 122
+      "sessions": 120
     },
     {
       "channel": "Unassigned",
