@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-11T22:26:55.157042+00:00",
+  "updated_at": "2026-11-12T03:33:37.762118+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 214,
-    "sessions": 285,
-    "screenPageViews": 754
+    "activeUsers": 196,
+    "sessions": 257,
+    "screenPageViews": 617
   },
   "summary_last_28_days": {
-    "activeUsers": 745,
-    "sessions": 1104,
-    "screenPageViews": 3082
+    "activeUsers": 727,
+    "sessions": 1071,
+    "screenPageViews": 2990
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261014",
-      "activeUsers": 31
-    },
     {
       "date": "20261015",
       "activeUsers": 41
@@ -126,51 +122,51 @@
     },
     {
       "date": "20261111",
-      "activeUsers": 30
+      "activeUsers": 37
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 544
+      "views": 540
     },
     {
       "page": "/btc-to-usdt",
-      "views": 430
+      "views": 418
     },
     {
       "page": "/account",
-      "views": 278
+      "views": 264
     },
     {
       "page": "/signinapp",
-      "views": 162
+      "views": 155
     },
     {
       "page": "/settings/general",
-      "views": 110
+      "views": 105
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 82
+      "activeUsers": 81
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 71
+      "activeUsers": 70
     },
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 32
+      "activeUsers": 31
     },
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 30
+      "activeUsers": 29
     },
     {
       "country": "United States",
@@ -178,43 +174,43 @@
       "activeUsers": 26
     },
     {
-      "country": "Germany",
-      "city": "Frankfurt am Main",
-      "activeUsers": 19
-    },
-    {
       "country": "Seychelles",
       "city": "(not set)",
       "activeUsers": 18
     },
     {
+      "country": "Germany",
+      "city": "Frankfurt am Main",
+      "activeUsers": 17
+    },
+    {
       "country": "Georgia",
       "city": "Tbilisi",
-      "activeUsers": 16
+      "activeUsers": 15
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 822
+      "sessions": 799
     },
     {
       "device": "mobile",
-      "sessions": 285
+      "sessions": 275
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 777
+      "sessions": 751
     },
     {
       "channel": "Organic Search",
-      "sessions": 173
+      "sessions": 172
     },
     {
       "channel": "Referral",
-      "sessions": 128
+      "sessions": 125
     },
     {
       "channel": "Unassigned",
@@ -222,7 +218,7 @@
     },
     {
       "channel": "Organic Social",
-      "sessions": 8
+      "sessions": 6
     },
     {
       "channel": "AI Assistant",
