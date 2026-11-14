@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-13T23:11:26.457144+00:00",
+  "updated_at": "2026-11-14T04:44:23.946556+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 206,
-    "sessions": 281,
-    "screenPageViews": 634
+    "activeUsers": 188,
+    "sessions": 258,
+    "screenPageViews": 586
   },
   "summary_last_28_days": {
-    "activeUsers": 743,
-    "sessions": 1105,
-    "screenPageViews": 3000
+    "activeUsers": 733,
+    "sessions": 1087,
+    "screenPageViews": 2928
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261016",
-      "activeUsers": 18
-    },
     {
       "date": "20261017",
       "activeUsers": 15
@@ -126,46 +122,50 @@
     },
     {
       "date": "20261113",
-      "activeUsers": 25
+      "activeUsers": 29
+    },
+    {
+      "date": "20261114",
+      "activeUsers": 1
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 499
+      "views": 479
     },
     {
       "page": "/btc-to-usdt",
-      "views": 413
+      "views": 406
     },
     {
       "page": "/account",
-      "views": 271
+      "views": 270
     },
     {
       "page": "/signinapp",
-      "views": 161
+      "views": 158
     },
     {
       "page": "/settings/general",
-      "views": 110
+      "views": 109
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 86
+      "activeUsers": 85
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 69
+      "activeUsers": 67
     },
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 30
+      "activeUsers": 28
     },
     {
       "country": "United States",
@@ -178,6 +178,11 @@
       "activeUsers": 24
     },
     {
+      "country": "Estonia",
+      "city": "(not set)",
+      "activeUsers": 18
+    },
+    {
       "country": "Seychelles",
       "city": "(not set)",
       "activeUsers": 18
@@ -186,39 +191,34 @@
       "country": "Germany",
       "city": "Frankfurt am Main",
       "activeUsers": 16
-    },
-    {
-      "country": "Georgia",
-      "city": "Tbilisi",
-      "activeUsers": 15
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 833
+      "sessions": 818
     },
     {
       "device": "mobile",
-      "sessions": 276
+      "sessions": 273
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 774
+      "sessions": 761
     },
     {
       "channel": "Organic Search",
-      "sessions": 174
+      "sessions": 173
     },
     {
       "channel": "Referral",
-      "sessions": 128
+      "sessions": 125
     },
     {
       "channel": "Unassigned",
-      "sessions": 16
+      "sessions": 14
     },
     {
       "channel": "Organic Social",
