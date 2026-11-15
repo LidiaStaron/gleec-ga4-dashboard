@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-15T08:46:17.332650+00:00",
+  "updated_at": "2026-11-15T16:01:47.806733+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 175,
-    "sessions": 241,
-    "screenPageViews": 582
+    "activeUsers": 186,
+    "sessions": 255,
+    "screenPageViews": 619
   },
   "summary_last_28_days": {
-    "activeUsers": 745,
-    "sessions": 1096,
-    "screenPageViews": 2931
+    "activeUsers": 756,
+    "sessions": 1109,
+    "screenPageViews": 2968
   },
   "daily_trend_28_days": [
     {
@@ -118,7 +118,7 @@
     },
     {
       "date": "20261113",
-      "activeUsers": 29
+      "activeUsers": 28
     },
     {
       "date": "20261114",
@@ -126,25 +126,25 @@
     },
     {
       "date": "20261115",
-      "activeUsers": 7
+      "activeUsers": 18
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 505
+      "views": 510
     },
     {
       "page": "/btc-to-usdt",
-      "views": 411
+      "views": 413
     },
     {
       "page": "/account",
-      "views": 263
+      "views": 270
     },
     {
       "page": "/signinapp",
-      "views": 159
+      "views": 164
     },
     {
       "page": "/settings/general",
@@ -155,7 +155,7 @@
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 87
+      "activeUsers": 93
     },
     {
       "country": "United States",
@@ -196,17 +196,17 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 822
+      "sessions": 835
     },
     {
       "device": "mobile",
-      "sessions": 277
+      "sessions": 278
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 763
+      "sessions": 776
     },
     {
       "channel": "Organic Search",
@@ -214,7 +214,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 131
+      "sessions": 134
     },
     {
       "channel": "Unassigned",
@@ -227,10 +227,6 @@
     {
       "channel": "AI Assistant",
       "sessions": 5
-    },
-    {
-      "channel": "Cross-network",
-      "sessions": 2
     }
   ]
 }
