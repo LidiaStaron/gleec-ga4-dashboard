@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-17T02:44:36.616454+00:00",
+  "updated_at": "2026-11-17T11:26:21.166310+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 197,
-    "sessions": 255,
-    "screenPageViews": 563
+    "activeUsers": 203,
+    "sessions": 263,
+    "screenPageViews": 575
   },
   "summary_last_28_days": {
-    "activeUsers": 766,
-    "sessions": 1081,
-    "screenPageViews": 2794
+    "activeUsers": 771,
+    "sessions": 1090,
+    "screenPageViews": 2806
   },
   "daily_trend_28_days": [
     {
@@ -123,16 +123,20 @@
     {
       "date": "20261116",
       "activeUsers": 34
+    },
+    {
+      "date": "20261117",
+      "activeUsers": 7
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 482
+      "views": 487
     },
     {
       "page": "/btc-to-usdt",
-      "views": 398
+      "views": 402
     },
     {
       "page": "/account",
@@ -156,17 +160,17 @@
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 69
+      "activeUsers": 72
+    },
+    {
+      "country": "Germany",
+      "city": "(not set)",
+      "activeUsers": 32
     },
     {
       "country": "United States",
       "city": "Ashburn",
       "activeUsers": 32
-    },
-    {
-      "country": "Germany",
-      "city": "(not set)",
-      "activeUsers": 30
     },
     {
       "country": "Singapore",
@@ -184,29 +188,29 @@
       "activeUsers": 18
     },
     {
-      "country": "Germany",
-      "city": "Frankfurt am Main",
+      "country": "Georgia",
+      "city": "Tbilisi",
       "activeUsers": 16
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 826
+      "sessions": 832
     },
     {
       "device": "mobile",
-      "sessions": 261
+      "sessions": 264
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 766
+      "sessions": 769
     },
     {
       "channel": "Organic Search",
-      "sessions": 164
+      "sessions": 166
     },
     {
       "channel": "Referral",
@@ -218,7 +222,7 @@
     },
     {
       "channel": "Organic Social",
-      "sessions": 6
+      "sessions": 8
     },
     {
       "channel": "AI Assistant",
