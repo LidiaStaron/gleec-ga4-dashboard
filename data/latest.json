@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-16T19:19:22.732511+00:00",
+  "updated_at": "2026-11-17T02:44:36.616454+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
     "activeUsers": 197,
-    "sessions": 268,
-    "screenPageViews": 630
+    "sessions": 255,
+    "screenPageViews": 563
   },
   "summary_last_28_days": {
-    "activeUsers": 768,
-    "sessions": 1110,
-    "screenPageViews": 2952
+    "activeUsers": 766,
+    "sessions": 1081,
+    "screenPageViews": 2794
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261019",
-      "activeUsers": 27
-    },
     {
       "date": "20261020",
       "activeUsers": 20
@@ -126,41 +122,46 @@
     },
     {
       "date": "20261116",
-      "activeUsers": 16
+      "activeUsers": 34
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 515
+      "views": 482
     },
     {
       "page": "/btc-to-usdt",
-      "views": 417
+      "views": 398
     },
     {
       "page": "/account",
-      "views": 262
+      "views": 245
     },
     {
       "page": "/signinapp",
-      "views": 164
+      "views": 167
     },
     {
       "page": "/settings/general",
-      "views": 103
+      "views": 97
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 95
+      "activeUsers": 92
     },
     {
       "country": "United States",
       "city": "(not set)",
-      "activeUsers": 70
+      "activeUsers": 69
+    },
+    {
+      "country": "United States",
+      "city": "Ashburn",
+      "activeUsers": 32
     },
     {
       "country": "Germany",
@@ -168,14 +169,9 @@
       "activeUsers": 30
     },
     {
-      "country": "United States",
-      "city": "Ashburn",
-      "activeUsers": 26
-    },
-    {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 23
+      "activeUsers": 21
     },
     {
       "country": "Estonia",
@@ -190,35 +186,35 @@
     {
       "country": "Germany",
       "city": "Frankfurt am Main",
-      "activeUsers": 17
+      "activeUsers": 16
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 843
+      "sessions": 826
     },
     {
       "device": "mobile",
-      "sessions": 272
+      "sessions": 261
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 779
+      "sessions": 766
     },
     {
       "channel": "Organic Search",
-      "sessions": 173
+      "sessions": 164
     },
     {
       "channel": "Referral",
-      "sessions": 136
+      "sessions": 131
     },
     {
       "channel": "Unassigned",
-      "sessions": 14
+      "sessions": 13
     },
     {
       "channel": "Organic Social",
