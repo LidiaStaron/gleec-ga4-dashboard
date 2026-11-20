@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-20T08:20:16.058673+00:00",
+  "updated_at": "2026-11-20T17:29:38.273949+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 164,
-    "sessions": 205,
-    "screenPageViews": 407
+    "activeUsers": 176,
+    "sessions": 221,
+    "screenPageViews": 445
   },
   "summary_last_28_days": {
-    "activeUsers": 753,
-    "sessions": 1049,
-    "screenPageViews": 2553
+    "activeUsers": 765,
+    "sessions": 1065,
+    "screenPageViews": 2591
   },
   "daily_trend_28_days": [
     {
@@ -126,36 +126,36 @@
     },
     {
       "date": "20261120",
-      "activeUsers": 2
+      "activeUsers": 16
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 455
+      "views": 458
     },
     {
       "page": "/btc-to-usdt",
-      "views": 366
+      "views": 374
     },
     {
       "page": "/account",
-      "views": 219
+      "views": 231
     },
     {
       "page": "/signinapp",
-      "views": 172
+      "views": 174
     },
     {
       "page": "/settings/general",
-      "views": 93
+      "views": 95
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 99
+      "activeUsers": 103
     },
     {
       "country": "United States",
@@ -185,28 +185,28 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 17
+      "activeUsers": 18
     },
     {
       "country": "Hong Kong",
       "city": "Hong Kong",
-      "activeUsers": 13
+      "activeUsers": 14
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 792
+      "sessions": 805
     },
     {
       "device": "mobile",
-      "sessions": 263
+      "sessions": 266
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 741
+      "sessions": 756
     },
     {
       "channel": "Organic Search",
@@ -214,7 +214,7 @@
     },
     {
       "channel": "Referral",
-      "sessions": 121
+      "sessions": 122
     },
     {
       "channel": "Unassigned",
