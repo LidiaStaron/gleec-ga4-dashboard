@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-21T20:44:44.307723+00:00",
+  "updated_at": "2026-11-22T00:53:38.791210+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 174,
-    "sessions": 218,
-    "screenPageViews": 465
+    "activeUsers": 162,
+    "sessions": 208,
+    "screenPageViews": 444
   },
   "summary_last_28_days": {
-    "activeUsers": 768,
-    "sessions": 1063,
-    "screenPageViews": 2572
+    "activeUsers": 747,
+    "sessions": 1042,
+    "screenPageViews": 2519
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261024",
-      "activeUsers": 26
-    },
     {
       "date": "20261025",
       "activeUsers": 18
@@ -126,21 +122,21 @@
     },
     {
       "date": "20261121",
-      "activeUsers": 19
+      "activeUsers": 24
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 467
+      "views": 459
     },
     {
       "page": "/btc-to-usdt",
-      "views": 360
+      "views": 353
     },
     {
       "page": "/account",
-      "views": 226
+      "views": 224
     },
     {
       "page": "/signinapp",
@@ -148,14 +144,14 @@
     },
     {
       "page": "/settings/general",
-      "views": 98
+      "views": 95
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 102
+      "activeUsers": 97
     },
     {
       "country": "United States",
@@ -185,7 +181,7 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 17
+      "activeUsers": 15
     },
     {
       "country": "Hong Kong",
@@ -196,21 +192,21 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 806
+      "sessions": 785
     },
     {
       "device": "mobile",
-      "sessions": 263
+      "sessions": 262
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 758
+      "sessions": 742
     },
     {
       "channel": "Organic Search",
-      "sessions": 159
+      "sessions": 155
     },
     {
       "channel": "Referral",
@@ -218,7 +214,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 13
+      "sessions": 12
     },
     {
       "channel": "Organic Social",
