@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-26T14:40:58.229690+00:00",
+  "updated_at": "2026-11-26T23:27:16.720949+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 268,
-    "sessions": 343,
-    "screenPageViews": 622
+    "activeUsers": 282,
+    "sessions": 368,
+    "screenPageViews": 670
   },
   "summary_last_28_days": {
-    "activeUsers": 864,
-    "sessions": 1160,
-    "screenPageViews": 2449
+    "activeUsers": 878,
+    "sessions": 1184,
+    "screenPageViews": 2497
   },
   "daily_trend_28_days": [
     {
@@ -126,41 +126,41 @@
     },
     {
       "date": "20261126",
-      "activeUsers": 13
+      "activeUsers": 30
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 558
+      "views": 562
     },
     {
       "page": "/btc-to-usdt",
-      "views": 314
+      "views": 324
     },
     {
       "page": "/signinapp",
-      "views": 186
+      "views": 191
     },
     {
       "page": "/account",
-      "views": 179
+      "views": 183
     },
     {
       "page": "/settings/general",
-      "views": 91
+      "views": 93
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
-      "city": "(not set)",
-      "activeUsers": 85
+      "city": "North Charleston",
+      "activeUsers": 87
     },
     {
       "country": "United States",
-      "city": "North Charleston",
-      "activeUsers": 84
+      "city": "(not set)",
+      "activeUsers": 85
     },
     {
       "country": "United States",
@@ -196,25 +196,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 912
+      "sessions": 929
     },
     {
       "device": "mobile",
-      "sessions": 253
+      "sessions": 261
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 863
+      "sessions": 881
     },
     {
       "channel": "Organic Search",
-      "sessions": 154
+      "sessions": 158
     },
     {
       "channel": "Referral",
-      "sessions": 120
+      "sessions": 122
     },
     {
       "channel": "Unassigned",
