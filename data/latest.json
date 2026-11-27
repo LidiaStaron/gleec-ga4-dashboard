@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-26T23:27:16.720949+00:00",
+  "updated_at": "2026-11-27T06:28:42.326506+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 282,
-    "sessions": 368,
-    "screenPageViews": 670
+    "activeUsers": 263,
+    "sessions": 347,
+    "screenPageViews": 624
   },
   "summary_last_28_days": {
-    "activeUsers": 878,
-    "sessions": 1184,
-    "screenPageViews": 2497
+    "activeUsers": 846,
+    "sessions": 1142,
+    "screenPageViews": 2416
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261029",
-      "activeUsers": 39
-    },
     {
       "date": "20261030",
       "activeUsers": 36
@@ -126,17 +122,21 @@
     },
     {
       "date": "20261126",
-      "activeUsers": 30
+      "activeUsers": 32
+    },
+    {
+      "date": "20261127",
+      "activeUsers": 1
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 562
+      "views": 549
     },
     {
       "page": "/btc-to-usdt",
-      "views": 324
+      "views": 318
     },
     {
       "page": "/signinapp",
@@ -144,7 +144,7 @@
     },
     {
       "page": "/account",
-      "views": 183
+      "views": 175
     },
     {
       "page": "/settings/general",
@@ -154,13 +154,13 @@
   "top_locations_last_28_days": [
     {
       "country": "United States",
-      "city": "North Charleston",
-      "activeUsers": 87
+      "city": "(not set)",
+      "activeUsers": 85
     },
     {
       "country": "United States",
-      "city": "(not set)",
-      "activeUsers": 85
+      "city": "North Charleston",
+      "activeUsers": 83
     },
     {
       "country": "United States",
@@ -170,7 +170,7 @@
     {
       "country": "Germany",
       "city": "(not set)",
-      "activeUsers": 26
+      "activeUsers": 21
     },
     {
       "country": "United Kingdom",
@@ -190,35 +190,35 @@
     {
       "country": "Singapore",
       "city": "Singapore",
-      "activeUsers": 16
+      "activeUsers": 15
     }
   ],
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 929
+      "sessions": 901
     },
     {
       "device": "mobile",
-      "sessions": 261
+      "sessions": 247
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 881
+      "sessions": 857
     },
     {
       "channel": "Organic Search",
-      "sessions": 158
+      "sessions": 149
     },
     {
       "channel": "Referral",
-      "sessions": 122
+      "sessions": 114
     },
     {
       "channel": "Unassigned",
-      "sessions": 11
+      "sessions": 12
     },
     {
       "channel": "Organic Social",
@@ -226,7 +226,7 @@
     },
     {
       "channel": "AI Assistant",
-      "sessions": 4
+      "sessions": 3
     }
   ]
 }
