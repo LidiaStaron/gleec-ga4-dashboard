@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-27T17:10:55.666541+00:00",
+  "updated_at": "2026-11-28T01:00:02.422658+00:00",
   "property_id": "247520483",
   "summary_last_7_days": {
-    "activeUsers": 280,
-    "sessions": 366,
-    "screenPageViews": 666
+    "activeUsers": 261,
+    "sessions": 340,
+    "screenPageViews": 601
   },
   "summary_last_28_days": {
-    "activeUsers": 863,
-    "sessions": 1158,
-    "screenPageViews": 2458
+    "activeUsers": 831,
+    "sessions": 1117,
+    "screenPageViews": 2318
   },
   "daily_trend_28_days": [
-    {
-      "date": "20261030",
-      "activeUsers": 36
-    },
     {
       "date": "20261031",
       "activeUsers": 16
@@ -126,36 +122,36 @@
     },
     {
       "date": "20261127",
-      "activeUsers": 20
+      "activeUsers": 22
     }
   ],
   "top_pages_last_28_days": [
     {
       "page": "/",
-      "views": 554
+      "views": 529
     },
     {
       "page": "/btc-to-usdt",
-      "views": 323
+      "views": 297
     },
     {
       "page": "/signinapp",
-      "views": 199
+      "views": 189
     },
     {
       "page": "/account",
-      "views": 184
+      "views": 170
     },
     {
       "page": "/settings/general",
-      "views": 93
+      "views": 88
     }
   ],
   "top_locations_last_28_days": [
     {
       "country": "United States",
       "city": "North Charleston",
-      "activeUsers": 93
+      "activeUsers": 89
     },
     {
       "country": "United States",
@@ -196,25 +192,25 @@
   "device_breakdown_last_28_days": [
     {
       "device": "desktop",
-      "sessions": 917
+      "sessions": 880
     },
     {
       "device": "mobile",
-      "sessions": 249
+      "sessions": 244
     }
   ],
   "traffic_sources_last_28_days": [
     {
       "channel": "Direct",
-      "sessions": 872
+      "sessions": 858
     },
     {
       "channel": "Organic Search",
-      "sessions": 150
+      "sessions": 141
     },
     {
       "channel": "Referral",
-      "sessions": 114
+      "sessions": 96
     },
     {
       "channel": "Unassigned",
